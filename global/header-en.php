@@ -75,14 +75,14 @@
 							</div>
 						  </li>
 						  <li class="nav-item dropdown <?php if ($page == "servicios") echo 'active'; ?>">
-							<a class="nav-link" href="/en/interior-design-services" style="display: inline-block">Servicios</a>
+							<a class="nav-link" href="/en/interior-design-services" style="display: inline-block">Services</a>
 							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="display: inline-block">
 							</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 							   		<a href="/en/residential-interior-design" class="dropdown-item">Residential Design</a>
 									<a href="/en/commercial-interior-design" class="dropdown-item">Commercial interior design</a>
 									<a href="/en/remodeling-project" class="dropdown-item">Remodeling project</a>
-									<a href="/en/diseno-arquitectonico" class="dropdown-item">Architectural design</a>
+									<a href="/en/architectural-design" class="dropdown-item">Architectural design</a>
 							</div>
 						  </li>
 						  <li class="nav-item dropdown <?php if ($page == "proyectos") echo 'active'; ?>">

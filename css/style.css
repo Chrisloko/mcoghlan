@@ -1647,7 +1647,9 @@ a:hover{
     text-align: left;
     margin-bottom: 40px;
 }
-
+#unete a{
+    color: #6db0ab;
+}
 
 /* videos conversaciones */
 
@@ -1847,7 +1849,9 @@ a:hover{
     font-weight: 700;
     margin-bottom:15px;
   }
-
+  #faq-module.en h3{
+    font-size: 34px;
+  }
   #faq-module h4 {
     font-weight: 700;
     color: #799dab;
@@ -2036,6 +2040,9 @@ a:hover{
   #faq-module .btn-acc:hover .arrow-hero{
     transform: translateX(10px);
   }
+  .faq-container button{
+    text-transform: uppercase;
+  }
   @media(min-width: 1920px) {
      #faq-module .accordion .card-body .item-content .img-paso {
      flex: 0 0 50%;
@@ -2046,7 +2053,7 @@ a:hover{
 
   @media(max-width: 992px) {
       #faq-module {
-          padding: 4rem 0rem;
+          padding: 2rem 0rem;
       }
   }
   @media(max-width: 767px) {
@@ -2134,7 +2141,7 @@ a:hover{
 /* formulario contacto */
 
 #form-contacto {
-    padding: 60px 0;
+    padding: 30px 0 50px;
 }
 
 #formu-contacto .form-columns-2, #formu-contacto .form-columns-1 {

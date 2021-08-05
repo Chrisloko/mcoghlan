@@ -1,10 +1,10 @@
 <?php 
-$title="Interiorismo residencial | Mariangel Coghlan";
-$desc = "Damos servicios de diseño de interiores residencial. El interiorismo residencial transforma el espacio en un hogar en función de las aspiraciones y necesidades de sus habitantes.";
-$key = "interiorismo residencial";
+$title="Residential Design";
+$desc = "Our service, residential interior design transforms a home's space according to the aspirations and needs of its inhabitants.";
+$key = "Residential Design";
 $page = 'servicios';
-$canonical = "https://www.mcoghlan.mx/interiorismo-residencial";
-include('global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/residential-interior-design";
+include('../global/header.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('global/header.php');
  <div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h2>INTERIORISMO RESIDENCIAL</h2>
+				<h2>Residential Design</h2>
 			</div>
 		</div>
   </div>
@@ -22,49 +22,49 @@ include('global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h1>Diseño de interiores de casas</h1>
-					<p> El interiorismo residencial o el diseño de interiores es la disciplina mediante la cual se transforma el espacio de una casa o departamento en un hogar de ensueño en función de las aspiraciones y necesidades de sus habitantes, cuidando en todo momento los detalles y cada accesorios decorativos.</p>
-					<p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye el diseño y la presentación de una habitación de la propuesta de interiorismo.</p>
-					<h5>El proceso de este servicio consta de los siguientes pasos:</h5>
+					<h1>Interior design services</h1>
+					<p> Residential interior design is the discipline through which the space of a house or apartment is transformed into a dream home in accordance with the aspirations and needs of its inhabitants, this is achieved by meticulously taking care of every detail and decorative accessory.</p>
+					<p>In order to begin with the process, it is necessary to arrange a visit that costs starting at $10,000.00 MXN, depending on the location and complexity of the project. This amount includes the design and presentation of an interior design proposal.</p>
+					<h5>The process for this service consists of the following steps:</h5>
 				</div>
-				<img src="img/servicios/infograma_interiorismo_residencial-1.jpg" alt="Infograma interiorismo residencial">
+				<img src="/img/servicios/infograma_interiorismo_residencial-1.jpg" alt="Infograma interiorismo residencial">
 			</div>
 		</div>
 	</div>
 </section>
-
+<!-- 
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
 			<div class="item-3">
 				<a href="https://www.mcoghlan.mx/hubfs/blogUP-loqueconsegui-serviciosresidencial.jpg">
 				<div class="img-cont servicios">
-					<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/ve-mas-serviciosresidencial.jpg" onmouseover="this.src='img/servicios/ve-mas-hover-serviciosresidencial.jpg'" onmouseout="this.src='img/servicios/ve-mas-serviciosresidencial.jpg'" >
+					<img class="" alt="Servicios Mariangel Coghlan" src="/img/servicios/ve-mas-serviciosresidencial.jpg" onmouseover="this.src='/img/servicios/ve-mas-hover-serviciosresidencial.jpg'" onmouseout="this.src='/img/servicios/ve-mas-serviciosresidencial.jpg'" >
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
 			<a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/ExCu4A6Ou4A">
 				<div class="img-cont servicios">
-					<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/videoUP-serviciosresidencial.jpg" onmouseover="this.src='img/servicios/videoHOVER-serviciosresidencial.jpg'" onmouseout="this.src='img/servicios/videoUP-serviciosresidencial.jpg'" >
+					<img class="" alt="Servicios Mariangel Coghlan" src="/img/servicios/videoUP-serviciosresidencial.jpg" onmouseover="this.src='/img/servicios/videoHOVER-serviciosresidencial.jpg'" onmouseout="this.src='/img/servicios/videoUP-serviciosresidencial.jpg'" >
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
 			<a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/gipQwFLfl4g">
 				<div class="img-cont servicios">
-					<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/antesydespuesUP-serviciosresidencial.jpg" onmouseover="this.src='img/servicios/antesydespuesHOVER-serviciosresidencial.jpg'" onmouseout="this.src='img/servicios/antesydespuesUP-serviciosresidencial.jpg'" >
+					<img class="" alt="Servicios Mariangel Coghlan" src="/img/servicios/antesydespuesUP-serviciosresidencial.jpg" onmouseover="this.src='/img/servicios/antesydespuesHOVER-serviciosresidencial.jpg'" onmouseout="this.src='/img/servicios/antesydespuesUP-serviciosresidencial.jpg'" >
 				</div>
 				</a>	
 			</div>
 		</div>
 	</div>
-</section>
-<?php include('global/ventajas.php');?>
-<?php include('global/cta-galeria.php');?>	
-<?php include('global/formu-contacto.php');?>
+</section> -->
+<?php include('../global/ventajas-en.php');?>
+<?php include('../global/cta-galeria-en.php');?>	
+<?php include('../global/formu-contacto-en.php');?>
 <?php 
-include('global/footer.php');
+include('../global/footer-en.php');
 ?>	
 
     

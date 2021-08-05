@@ -112,9 +112,9 @@
 									<a href="/color/tendencias-de-colores-interiorismo" class="dropdown-item">Tendencias</a>
 							</div>
 						  </li>
-						  <!-- <li class="nav-item">
-							<a class="nav-link" href="#">Blog</a>
-						  </li> -->
+						  <li class="nav-item">
+							<a class="nav-link" href="/blog">Blog</a>
+						  </li>
 						  <li class="nav-item <?php if ($page == "contacto") echo 'active'; ?>">
 							<a class="nav-link" href="/contacto-mariangel-coghlan">Contacto</a>
 						  </li>

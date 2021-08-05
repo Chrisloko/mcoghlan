@@ -1,10 +1,10 @@
 <?php 
-$title="Diseño arquitectónico | Mariangel Coghlan";
-$desc = "El diseño arquitectónico es el proceso creativo para generar un concepto y la planeación de un espacio funcional y estético antes de ser construido, convirtiendo tus ideas y sueños en realidad. Diseño de interiores y decoración.";
-$key = "diseño de interiores";
+$title="Architectural design";
+$desc = "Architectural design is the creative process of generating a concept and planning a functional and aesthetic space before it is built, turning your ideas and dreams into reality.";
+$key = "Architectural design";
 $page = 'servicios';
-$canonical = "https://www.mcoghlan.mx/diseno-arquitectonico";
-include('global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/architectural-design";
+include('../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('global/header.php');
  <div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>DISEÑO <br>ARQUITECTÓNICO</h1>
+				<h1>Architectural design</h1>
 			</div>
 		</div>
   </div>
@@ -22,47 +22,47 @@ include('global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>El diseño arquitectónico es el proceso creativo para generar un concepto y la planeación de un espacio funcional y estético antes de ser construido, convirtiendo tus ideas y sueños en realidad.</p>
-					<p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye la elaboración de un diagrama de funcionamiento, de un presupuesto estimado de todo el proyecto así como de un calendario con las fechas.</p>
-					<h5>El proceso de este servicio consta de los siguientes pasos:</h5>
+					<p>Architectural design is the creative process intended to generate a design concept and the planning of a functional and aesthetic space before it is built, turning your ideas and dreams into reality.</p>
+					<p>In order to begin with the process, it is necessary to arrange a visit that costs starting at $10,000.00 MXN, depending on the location and complexity of the project. This amount includes the elaboration of a working diagram, an estimated budget of the whole project as well as a calendar with the deadlines.</p>
+					<h5>The process for this service consists of the following steps:</h5>
 				</div>
-				<img src="img/servicios/infograma-diseno-arquitectonico-1.jpg" alt="Infograma diseño arquitectónico">
+				<img src="/img/servicios/infograma-diseno-arquitectonico-1.jpg" alt="Infograma diseño arquitectónico">
 			</div>
 		</div>
 	</div>
 </section>
-<section id="cajas-index">
+<!-- <section id="cajas-index">
 	<div class="container">
 		<div class="row">
-			<!-- <div class="item-3">
+			<div class="item-3">
 				<a href="/servicios">
 				<div class="img-cont servicios">
 					<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/vemas-serviciosarq.jpg.jpg" onmouseover="this.src='img/servicios/vemasHOVER-serviciosarq.jpg'" onmouseout="this.src='img/servicios/vemas-serviciosarq.jpg.jpg'" >
 				</div>
 				</a>	
-			</div> -->
+			</div>
 			<div class="item-3">
 				<a href="/servicios">
 				<div class="img-cont servicios">
-					<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/videoUP-serviciosparq.jpg" onmouseover="this.src='img/servicios/videoHOVER-serviciosparq.jpg'" onmouseout="this.src='img/servicios/videoUP-serviciosparq.jpg'" >
+					<img class="" alt="Servicios Mariangel Coghlan" src="/img/servicios/videoUP-serviciosparq.jpg" onmouseover="this.src='/img/servicios/videoHOVER-serviciosparq.jpg'" onmouseout="this.src='/img/servicios/videoUP-serviciosparq.jpg'" >
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
 				<a href="/servicios">
 				<div class="img-cont servicios">
-					<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/antesydespuesUP-serviciosparq.jpg" onmouseover="this.src='img/servicios/antesydespuesHOVER-serviciosparq.jpg'" onmouseout="this.src='img/servicios/antesydespuesUP-serviciosparq.jpg'" >
+					<img class="" alt="Servicios Mariangel Coghlan" src="/img/servicios/antesydespuesUP-serviciosparq.jpg" onmouseover="this.src='/img/servicios/antesydespuesHOVER-serviciosparq.jpg'" onmouseout="this.src='/img/servicios/antesydespuesUP-serviciosparq.jpg'" >
 				</div>
 				</a>	
 			</div>
 		</div>
 	</div>
-</section>
-<?php include('global/ventajas.php');?>
-<?php include('global/cta-galeria.php');?>	
-<?php include('global/formu-contacto.php');?>
+</section> -->
+<?php include('../global/ventajas-en.php');?>
+<?php include('../global/cta-galeria-en.php');?>	
+<?php include('../global/formu-contacto-en.php');?>
 <?php 
-include('global/footer.php');
+include('../global/footer-en.php');
 ?>	
 
     

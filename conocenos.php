@@ -31,11 +31,11 @@ include('global/header.php');
 <section id="cajas-index" class="proyectos"> 
 	<div id="" class="container">
 		<div class="row">
-			<div id="conocenos" class="col-sm-12">
+			<!-- <div id="conocenos" class="col-sm-12">
 				<div class="cont-text">
 					<a id="registro-event" href="https://us02web.zoom.us/webinar/register/WN_RrvkZey2T6eNUYwpbVljkw" onclick="sendEvent('RegistroConversacion')" class="boton-azul">Registro conversación</a> 
 				</div>
-			</div>
+			</div> -->
 
 			<div class="col-md-4">
 				<a href="https://wa.me/5215567833642" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/mandanosunwhatsUP.jpg"></a>

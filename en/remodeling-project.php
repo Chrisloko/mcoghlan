@@ -1,10 +1,10 @@
 <?php 
-$title="Proyecto de remodelación | Mariangel Coghlan";
+$title="Remodeling project";
 $desc = "La remodelación de casas es el proceso mediante el cual se realizan modificaciones a un espacio, cambiando las dimensiones, distribución, iluminación y acabados para dar nueva vida al mismo, para convertirlo en un lugar ideal con un diseño excepcional.";
 $key = "diseño de interiores";
 $page = 'servicios';
 $canonical = "https://www.mcoghlan.mx/proyecto-de-remodelacion";
-include('global/header.php');
+include('../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('global/header.php');
  <div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>PROYECTO DE<br> REMODELACIÓN</h1>
+				<h1>Remodeling project</h1>
 			</div>
 		</div>
   </div>
@@ -22,27 +22,27 @@ include('global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h2>Reinventando espacios</h2>
-					<p> La remodelación es el proceso mediante el cual se realizan modificaciones a un espacio, cambiando las dimensiones, distribución, iluminación y acabados para dar nueva vida al mismo, para convertirlo en un lugar ideal con un diseño excepcional.</p>
-					<p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye el diseño arquitectónico, el diseño de interiores y la propuesta decorativa de la transformación de una habitación.</p>
-					<h5>El proceso de este servicio consta de los siguientes pasos:</h5>
+					<h2>Reinventing spaces</h2>
+					<p> Remodeling is the process by which modifications are made to a space, changing the dimensions, distribution, lighting and finishes to give new life to it, to turn it into an ideal place with an exceptional design.</p>
+					<p>In order to begin with the process, it is necessary to arrange a visit that costs starting at $10,000.00 MXN, depending on the location and complexity of the project. This amount includes the design and presentation of an interior design proposal.</p>
+					<h5>The process for this service consists of the following steps:</h5>
 				</div>
-				<img src="img/servicios/infograma-proyecto-remodelacion-1.jpg" alt="Infograma proyecto remodelacion">
+				<img src="/img/servicios/infograma-proyecto-remodelacion-1.jpg" alt="Infograma proyecto remodelacion">
 			</div>
 		</div>
 	</div>
 </section>
 
-<section id="cajas-index">
+<!-- <section id="cajas-index">
 	<div class="container">
 		<div class="row">
-			<!-- <div class="item-3">
+			<div class="item-3">
 				<a href="https://www.mcoghlan.mx/hubfs/blogUP-loqueconsegui-serviciosresidencial.jpg">
 					<div class="img-cont servicios">
 						<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/vemas-serviciosremod.jpg" onmouseover="this.src='img/servicios/vemasHOVER-serviciosremod.jpg'" onmouseout="this.src='img/servicios/vemas-serviciosremod.jpg'" >
 					</div>
 				</a>	
-			</div> -->
+			</div>
 			<div class="item-3">
 				<a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/ExCu4A6Ou4A">
 					<div class="img-cont servicios">
@@ -59,12 +59,12 @@ include('global/header.php');
 			</div>
 		</div>
 	</div>
-</section>
-<?php include('global/ventajas.php');?>
-<?php include('global/cta-galeria.php');?>	
-<?php include('global/formu-contacto.php');?>
+</section> -->
+<?php include('../global/ventajas-en.php');?>
+<?php include('../global/cta-galeria-en.php');?>	
+<?php include('../global/formu-contacto-en.php');?>
 <?php 
-include('global/footer.php');
+include('../global/footer-en.php');
 ?>	
 
     

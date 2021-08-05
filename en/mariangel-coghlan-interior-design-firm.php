@@ -150,7 +150,7 @@ include('../global/header-en.php');
 	</div>
 </section>
 <?php include('../global/counter-en.php');?>	
-<section id="video-inicio-v2" style="">
+<!-- <section id="video-inicio-v2" style="">
 	<picture>
 		<source srcset="/img/index/fondo-video-home-movil-400x538-30op.jpg" media="(max-width: 767px)">
 		<img class="lazy fondo" data-src="/img/index/fondo-video-home-752.jpg" alt="Video Intro MC" width="1903" height="745">
@@ -169,12 +169,12 @@ include('../global/header-en.php');
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <?php include('../global/ventajas-en.php');?>
 <!-- <?php include('../global/cta-dinero.php');?> -->
 <?php // include('global/tips-blog.php');?>	
 <?php 
-include('../global/footer.php');
+include('../global/footer-en.php');
 ?>	
 
     
