@@ -12,13 +12,13 @@
     <meta name="keywords" content="<?php echo $key; ?>">
     <title><?php echo $title; ?></title>
     <link rel="canonical" href="<?php echo $canonical; ?>"/>
-    <meta name="robots" content="noindex, nofollow"/>
+    <meta name="robots" content="index, follow"/>
 	<link rel="icon" type="image/png" href="/img/favicon.png" />
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
     <script src="/js/jquery3.5.1.min.js" ></script>
     <link rel="stylesheet" href="/css/bootstrap.css">
     <link rel="stylesheet" href="/css/style.css">
-	<link rel="preload" href="https://previo.mcoghlan.mx/fonts/Catamaran-VariableFont_wght.ttf" as="font" crossorigin="">
+	<!-- <link rel="preload" href="https://mcoghlan.mx/fonts/Catamaran-VariableFont_wght.ttf" as="font" crossorigin=""> -->
 	<!-- <link rel="preconnect" href="https://www.google-analytics.com">
 	<link rel="preconnect" href="https://www.googletagmanager.com">	 -->
 	<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -95,7 +95,7 @@
 									<a href="/diseno-interior#campo" class="dropdown-item">Campo</a>
 									<a href="/diseno-interior#playa" class="dropdown-item">Playa</a>
 									<a href="/diseno-interior#oficinas" class="dropdown-item">Oficinas</a>
-									<a href="/diseno-interior#ebooks" class="dropdown-item">Ebooks</a>
+									<a href="/ebooks" class="dropdown-item">Ebooks</a>
 							</div>
 						  </li>
 						  <li class="nav-item <?php if ($page == "galeria") echo 'active'; ?>">

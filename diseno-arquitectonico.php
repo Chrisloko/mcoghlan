@@ -34,13 +34,13 @@ include('global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
-			<!-- <div class="item-3">
-				<a href="/servicios">
+			<div class="item-3">
+				<a href="/blog/lo-que-consegui-al-renovar-mi-casa/">
 				<div class="img-cont servicios">
-					<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/vemas-serviciosarq.jpg.jpg" onmouseover="this.src='img/servicios/vemasHOVER-serviciosarq.jpg'" onmouseout="this.src='img/servicios/vemas-serviciosarq.jpg.jpg'" >
+					<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/vemas-serviciosarq.jpg" onmouseover="this.src='img/servicios/vemasHOVER-serviciosarq.jpg'" onmouseout="this.src='img/servicios/vemas-serviciosarq.jpg'" >
 				</div>
 				</a>	
-			</div> -->
+			</div>
 			<div class="item-3">
 				<a href="/servicios">
 				<div class="img-cont servicios">

@@ -34,7 +34,7 @@ include('../global/header.php');
 			<div class="col-md-4">
   
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comercial7%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/comercial7.jpg" alt="Comercial">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comercial7.jpg" alt="Comercial">
 			</a>
 
 			</div>
@@ -42,7 +42,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comercial8%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/comercial8.jpg" alt="Comercial">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comercial8.jpg" alt="Comercial">
 			</a>
 
 			</div>
@@ -50,39 +50,39 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comercial9%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/comercial9.jpg" alt="Comercial">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comercial9.jpg" alt="Comercial">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-07-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-07.jpg" alt="cedro-350-07">
+			<a href="../img/galeria/hoteles/cedro-1000-07.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/hoteles/cedro-350-07-1.jpg" alt="cedro-350-07">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/proyectos-campo-primavera-1000x650px-24.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/proyectos-campo-primavera-350x350px-24.jpg" alt="proyectos-campo-primavera-350x350px-24">
+			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/proyectos-campo-primavera-1000x650px-24.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/proyectos-campo-primavera-350x350px-24.jpg" alt="proyectos-campo-primavera-350x350px-24">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/proyectos-campo-primavera-1000x650px-12.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/proyectos-campo-primavera-350x350px-12.jpg" alt="proyectos-campo-primavera-350x350px-12">
+			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/proyectos-campo-primavera-1000x650px-12.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/proyectos-campo-primavera-350x350px-12.jpg" alt="proyectos-campo-primavera-350x350px-12">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/proyectos-campo-montana-1000x650px-05.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/proyectos-campo-montana-350x350px-05.jpg" alt="proyectos-campo-montana-350x350px-05">
+			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/proyectos-campo-montana-1000x650px-05.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/proyectos-campo-montana-350x350px-05.jpg" alt="proyectos-campo-montana-350x350px-05">
 			</a>
 
 			</div>

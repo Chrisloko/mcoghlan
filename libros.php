@@ -42,14 +42,14 @@ include('global/header.php');
 			</div>
 			<div class="col-md-4 pad-cajas">
 				<div class="img-cont servicios">
-					<h4>HOGARES</h4>
+					<h4>HOGARES REINVENTANDO ESPACIOS</h4>
 					<img class="" alt="Servicios Mariangel Coghlan" src="img/libros/portada-HOGARES1.jpg">
 					<p>Es un libro de gran formato y pasta dura que trata sobre la importancia que tiene saber disfrutar de una casa y la manera en que esta se convierte en un hogar. A lo largo de 368 páginas, se muestran una gran variedad de imágenes, que se colocaron por tonalidades cromáticas, con las que se acompañan los distintos espacios que conforman un hogar.</p>
 				</div>
 			</div>
 			<div class="col-md-4 pad-cajas">
 				<div class="img-cont servicios">
-					<h4>HOGARES 2</h4>
+					<h4>HOGARES LUMINOSOS Y ALEGRES</h4>
 					<img class="" alt="Servicios Mariangel Coghlan" src="img/libros/portada-HOGARES2.jpg">
 					<p>Después del gran éxito de HOGARES hemos iniciado a trabajar en la segunda edición de esta serie, en esta ocasión contará con nueve capítulos en los que profundizaremos acerca de nueve conceptos que nos ayudan a disfrutar más de nuestro hogar. Mostraremos un recorrido visual por nueve hogares diseñados por nuestra firma.</p>
 				</div>

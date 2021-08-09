@@ -30,42 +30,42 @@ include('../global/header-en.php');
 				</div>
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-monterrey">
+				<a href="/en/projects/interior-design-monterrey">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/fresno.jpg" onmouseover="this.src='/img/proyectos/fresno-hover.jpg'" onmouseout="this.src='/img/proyectos/fresno.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-cdmx">
+				<a href="/en/projects/interior-design-mexico-city">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/roble.jpg" onmouseover="this.src='/img/proyectos/roble-hover.jpg'" onmouseout="this.src='/img/proyectos/roble.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-guadalajara">
+				<a href="/en/projects/interior-design-guadalajara">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/almendros.jpg" onmouseover="this.src='/img/proyectos/almendros-hover.jpg'" onmouseout="this.src='/img/proyectos/almendros.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-estado-de-mexico">
+				<a href="/en/projects/interior-design-state-of-mexico">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/acacias.jpg" onmouseover="this.src='/img/proyectos/acacias-hover.jpg'" onmouseout="this.src='/img/proyectos/acacias.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interiorismo-mexicano">
+				<a href="/en/projects/mexican-interior-design">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/encinos.jpg" onmouseover="this.src='/img/proyectos/encinos-hover.jpg'" onmouseout="this.src='/img/proyectos/encinos.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-guanajuato">
+				<a href="/en/projects/interior-design-guanajuato">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/laurel.jpg" onmouseover="this.src='/img/proyectos/laurel-hover.jpg'" onmouseout="this.src='/img/proyectos/laurel.jpg'">
 				</div>
@@ -81,42 +81,42 @@ include('../global/header-en.php');
 				</div>
 			</div>
 			<div class="item-3">
-				<a href="/projects/remodelacion-de-casa-en-campo">
+				<a href="/en/projects/country-house-remodeling">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="olivo" data-src="/img/proyectos/olivo-up.jpg" onmouseover="this.src='/img/proyectos/olivo-hover.jpg'" onmouseout="this.src='/img/proyectos/olivo-up.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/transformando-espacios-estado-de-mexico">
+				<a href="/en/projects/transforming-spaces">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="Primavera" data-src="/img/proyectos/primavera.jpg" onmouseover="this.src='/img/proyectos/primavera-hover.jpg'" onmouseout="this.src='/img/proyectos/primavera.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-morelos">
+				<a href="/en/projects/interior-design-morelos">
 				<div class="img-cont servicios">
 				<img class="lazy" alt="Limoneros" data-src="/img/proyectos/limoneros.jpg" onmouseover="this.src='/img/proyectos/limoneros-hover.jpg'" onmouseout="this.src='/img/proyectos/limoneros.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-casa-de-campo">
+				<a href="/en/projects/interior-design-country-home">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="Montana" data-src="/img/proyectos/montana.jpg" onmouseover="this.src='/img/proyectos/montana-hover.jpg'" onmouseout="this.src='/img/proyectos/montana.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interiorismo-en-monterrey">
+				<a href="/en/projects/home-decor-monterrey">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="proyectos-principal-pirul-350x350" data-src="/img/proyectos/proyectos-principal-pirul-350x350.jpg" onmouseover="this.src='/img/proyectos/proyectos-principal-pirul-hover350x350.jpg'" onmouseout="this.src='/img/proyectos/proyectos-principal-pirul-350x350.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-valle-de-bravo">
+				<a href="/en/projects/interior-design-valle-de-bravo">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="proyectos-principal-cedro-350x350-1" data-src="/img/proyectos/proyectos-principal-cedro-350x350-1.jpg" onmouseover="this.src='/img/proyectos/proyectos-principal-cedro-350x350-hover.jpg'" onmouseout="this.src='/img/proyectos/proyectos-principal-cedro-350x350-1.jpg'">
 				</div>
@@ -132,42 +132,42 @@ include('../global/header-en.php');
 				</div>
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-acapulco">
+				<a href="/en/projects/interior-design-acapulco">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="acapulco" data-src="/img/proyectos/acapulco.jpg" onmouseover="this.src='/img/proyectos/acapulco-hover.jpg'" onmouseout="this.src='/img/proyectos/acapulco.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-ixtapa">
+				<a href="/en/projects/interior-design-ixtapa">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="ixtapa" data-src="/img/proyectos/ixtapa.jpg" onmouseover="this.src='/img/proyectos/ixtapa-hover.jpg'" onmouseout="this.src='/img/proyectos/ixtapa.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-campeche">
+				<a href="/en/projects/interior-design-campeche">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="boton-casas-de-playa-caracol-up" data-src="/img/proyectos/caracol.jpg" onmouseover="this.src='/img/proyectos/caracol-hover.jpg'" onmouseout="this.src='/img/proyectos/caracol.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-playa-paraiso">
+				<a href="/en/projects/interior-design-playa-paraiso">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="proyectos-principal-ceiba-350x350-1" data-src="/img/proyectos/proyectos-principal-ceiba-350x350-1.jpg" onmouseover="this.src='/img/proyectos/proyectos-principal-ceibahover-350x350.jpg'" onmouseout="this.src='/img/proyectos/proyectos-principal-ceiba-350x350-1.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-jalisco">
+				<a href="/en/projects/interior-design-jalisco">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="proyectos-principal-mangle-350x350" data-src="/img/proyectos/proyectos-principal-mangle-350x350.jpg" onmouseover="this.src='/img/proyectos/proyectos-principal-mangle-350x350-hover.jpg'" onmouseout="this.src='/img/proyectos/proyectos-principal-mangle-350x350.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-puerto-escondido">
+				<a href="/en/projects/interior-design-puerto-escondido">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="Palmas" data-src="/img/proyectos/Palmas.jpg" onmouseover="this.src='/img/proyectos/palmas-hover.jpg'" onmouseout="this.src='/img/proyectos/Palmas.jpg'">
 				</div>
@@ -183,21 +183,21 @@ include('../global/header-en.php');
 				</div>
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-firm">
+				<a href="/en/projects/interior-design-study">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="up-lisboa" data-src="/img/proyectos/lisboa.jpg" onmouseover="this.src='/img/proyectos/lisboa-hover.jpg'" onmouseout="this.src='/img/proyectos/lisboa.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-offices-cuernavaca">
+				<a href="/en/projects/interior-design-offices-cuernavaca">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="marruecos-up" data-src="/img/proyectos/marruecos.jpg" onmouseover="this.src='/img/proyectos/marruecos-hover.jpg'" onmouseout="this.src='/img/proyectos/marruecos.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/projects/interior-design-coworking">
+				<a href="/en/projects/interior-design-coworking">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="bagan-up" data-src="/img/proyectos/bagan.jpg" onmouseover="this.src='/img/proyectos/bagan-hover.jpg'" onmouseout="this.src='/img/proyectos/bagan.jpg'">
 				</div>
@@ -316,7 +316,15 @@ include('../global/header-en.php');
 					<img class="lazy" alt="Casa en la playa Guaymas" data-src="/img/proyectos/UP-PORTADA-EBOOK-casa-en-la-playa-GUAYMAS-2.jpg" onmouseover="this.src='/img/proyectos/OVER-PORTADA-EBOOK-casa-en-la-playa-GUAYMAS-2.jpg'" onmouseout="this.src='/img/proyectos/UP-PORTADA-EBOOK-casa-en-la-playa-GUAYMAS-2.jpg'">
 				</div>
 				</a>	
-			</div>	
+			</div>
+			<div class="item-3">
+				<a href="https://indd.adobe.com/view/b4191046-929a-4f50-bff5-198007b2d7e3" target="_blank">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="Penthouse Ceiba" data-src="/img/proyectos/PORTADAEBOOKCEIBA.jpg" onmouseover="this.src='/img/proyectos/PORTADAEBOOKCEIBA-hover.jpg'" onmouseout="this.src='/img/proyectos/PORTADAEBOOKCEIBA.jpg'">
+				</div>
+				</a>	
+			</div>
+			
 		</div>
 	</div>
 </section>

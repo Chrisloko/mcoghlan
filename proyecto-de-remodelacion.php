@@ -36,13 +36,13 @@ include('global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
-			<!-- <div class="item-3">
-				<a href="https://www.mcoghlan.mx/hubfs/blogUP-loqueconsegui-serviciosresidencial.jpg">
+			<div class="item-3">
+				<a href="https://www.mcoghlan.mx/blog/lo-que-consegui-al-renovar-mi-casa/">
 					<div class="img-cont servicios">
 						<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/vemas-serviciosremod.jpg" onmouseover="this.src='img/servicios/vemasHOVER-serviciosremod.jpg'" onmouseout="this.src='img/servicios/vemas-serviciosremod.jpg'" >
 					</div>
 				</a>	
-			</div> -->
+			</div>
 			<div class="item-3">
 				<a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/ExCu4A6Ou4A">
 					<div class="img-cont servicios">

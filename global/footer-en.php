@@ -95,9 +95,10 @@
           <div class="menu-footer" style="display: inline-block">
             <h4>SERVICES</h4>
             <ul role="menu" class="hs-menu-children-wrapper">
-              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.mcoghlan.mx/en/commercial-interior-design" role="menuitem">Commercial interior design</a></li>
-              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.mcoghlan.mx/en/remodeling-project" role="menuitem">Remodeling project</a></li>
-              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.mcoghlan.mx/en/architectural-design" role="menuitem">Architectural design</a></li>
+            <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/en/residential-interior-design" role="menuitem">Residential interior design</a></li>
+              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/en/commercial-interior-design" role="menuitem">Commercial interior design</a></li>
+              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/en/remodeling-project" role="menuitem">Remodeling project</a></li>
+              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/en/architectural-design" role="menuitem">Architectural design</a></li>
             </ul>
           </div>
         </div>

@@ -95,9 +95,10 @@
           <div class="menu-footer" style="display: inline-block">
             <h4>SERVICIOS</h4>
             <ul role="menu" class="hs-menu-children-wrapper">
-              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.mcoghlan.mx/mc/interiorismo-comercial" role="menuitem">Interiorismo Comercial</a></li>
-              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.mcoghlan.mx/mc/remodelacion" role="menuitem">Proyecto de Remodelación</a></li>
-              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.mcoghlan.mx/mc/diseno-arquitectonico" role="menuitem">Diseño Arquitectònico</a></li>
+            <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/diseno-de-interiores-casas" role="menuitem">Interiorismo Residencial</a></li>
+              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/diseno-de-interiores-comercial" role="menuitem">Interiorismo Comercial</a></li>
+              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/proyecto-de-remodelacion" role="menuitem">Proyecto de Remodelación</a></li>
+              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/diseno-arquitectonico" role="menuitem">Diseño Arquitectònico</a></li>
             </ul>
           </div>
         </div>

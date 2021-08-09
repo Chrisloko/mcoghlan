@@ -37,7 +37,7 @@ include('global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="item-3">
-				<a href="https://www.mcoghlan.mx/hubfs/blogUP-loqueconsegui-serviciosresidencial.jpg">
+				<a href="/blog/lo-que-consegui-al-renovar-mi-casa/">
 				<div class="img-cont servicios">
 					<img class="" alt="Servicios Mariangel Coghlan" src="img/servicios/ve-mas-serviciosresidencial.jpg" onmouseover="this.src='img/servicios/ve-mas-hover-serviciosresidencial.jpg'" onmouseout="this.src='img/servicios/ve-mas-serviciosresidencial.jpg'" >
 				</div>

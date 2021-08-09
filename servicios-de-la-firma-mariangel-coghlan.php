@@ -8,11 +8,11 @@ include('global/header.php');
 ?>	
 
       <!-- #header-wrap -->
- <section id="hero-interior" class="hero-libros">
+ <section id="hero-interior" class="hero-servicios">
  <div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h2>SERVICOS</h2>
+				<h2>SERVICIOS</h2>
 			</div>
 		</div>
   </div>
@@ -155,7 +155,7 @@ include('global/header.php');
                       
                        <div class="col-12">
                           <div class="btn-cont">
-                            <a class="btn-acc" href="https://www.mcoghlan.mx/mc/interiorismo-residencial">Conoce más<img class="arrow-hero" src="img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>
+                            <a class="btn-acc" href="/diseno-de-interiores-casas">Conoce más<img class="arrow-hero" src="img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>
                           </div>
                       </div>
                     </div>  
@@ -256,7 +256,7 @@ include('global/header.php');
                       </div> 
                        <div class="col-12">
                           <div class="btn-cont">
-                            <a class="btn-acc" href="https://www.mcoghlan.mx/mc/interiorismo-comercial">Conoce más<img class="arrow-hero" src="img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>
+                            <a class="btn-acc" href="/diseno-de-interiores-comercial">Conoce más<img class="arrow-hero" src="img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>
                           </div>
                       </div>
                     </div>  
@@ -368,7 +368,7 @@ include('global/header.php');
                       </div>
                        <div class="col-12">
                           <div class="btn-cont">
-                            <a class="btn-acc" href="https://www.mcoghlan.mx/mc/remodelacion">Conoce más<img class="arrow-hero" src="img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>
+                            <a class="btn-acc" href="/proyecto-de-remodelacion">Conoce más<img class="arrow-hero" src="img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>
                           </div>
                       </div>
                     </div>  
@@ -491,7 +491,7 @@ include('global/header.php');
                       </div>
                        <div class="col-12">
                           <div class="btn-cont">
-                            <a class="btn-acc" href="https://www.mcoghlan.mx/mc/diseno-arquitectonico">Conoce más<img class="arrow-hero" src="img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>
+                            <a class="btn-acc" href="/diseno-arquitectonico">Conoce más<img class="arrow-hero" src="img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>
                           </div>
                       </div>
                     </div>  

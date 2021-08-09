@@ -30,12 +30,18 @@ html {
 
 @font-face {
     font-family: 'Catamaran';
-    src: url(../fonts/Catamaran-VariableFont_wght.ttf) format('truetype-variations');
+    src: url('../fonts/Catamaran-VariableFont_wght.ttf') format('truetype-variations');
     font-weight: 100 1000;
     font-stretch: 25% 151%;
     font-display: swap;
 }
-
+@font-face {
+    font-family: Comorant;
+    src: url('../fonts/Cormorant-Light.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
 
 
 /* @font-face {
@@ -932,7 +938,7 @@ a:hover{
         background-image: url('../img/faq/header-conversaciones.jpg');
     }
     .hero-servicios {
-        background-image: url('../img/servicios/header-conversaciones.jpg');
+        background-image: url('../img/header-servicios2021.jpg');
     }
     .hero-int-res {
         background-image: url('../img/servicios/header_ir-1.jpg');
@@ -959,7 +965,7 @@ a:hover{
         background-image: url('../img/proyectos/almendros/almendros-top-nueva.jpg');
     }
     .hero-acacias {
-        background-image: url('../img/proyectos/acacias/acacias-top-nueva.jpg');
+        background-image: url('../img/proyectos/acacias/acacias-top.jpg');
     }
     .hero-encinos {
         background-image: url('../img/proyectos/encinos/encinos-top-nueva.jpg');
@@ -1474,7 +1480,7 @@ a:hover{
     max-width: 100%;
 }
 #cajas-texto h4{
-    color: #3D5F86;
+    color: #737373;
     font-weight: 700;
     font-size: 20px !important;
     text-align: left;
@@ -1671,8 +1677,8 @@ a:hover{
   }
 
   #videos-conversaciones h3{
-    font-family: Comorant;
-    font-weight: 300;
+    font-family: Catamaran;
+    font-weight: 700;
     color: #3D5F86;
     font-size: 24px;
     text-align: left;

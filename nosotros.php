@@ -34,7 +34,7 @@ include('global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="item-3">
-				<a href="/conocenos">
+				<a href="/equipo-mariangel-coghlan">
 				<div class="img-cont servicios">
 					<img class="" alt="Servicios Mariangel Coghlan" src="img/nosotros/conocenosUP-nosotros.jpg" onmouseover="this.src='img/nosotros/conocenosHOVER-nosotros.jpg'" onmouseout="this.src='img/nosotros/conocenosUP-nosotros.jpg'" >
 				</div>
@@ -55,7 +55,7 @@ include('global/header.php');
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/conocenos#resp-social">
+				<a href="/equipo-mariangel-coghlan#resp-social">
 				<div class="img-cont servicios">
 					<img class="" alt="Servicios Mariangel Coghlan" src="img/nosotros/respsocialUP-nosotros.jpg" onmouseover="this.src='img/nosotros/respsocialHOVER-nosotros.jpg'" onmouseout="this.src='img/nosotros/respsocialUP-nosotros.jpg'" >
 				</div>

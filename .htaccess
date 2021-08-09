@@ -1,0 +1,98 @@
+RewriteEngine On
+
+# Unless directory, remove trailing slash
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+?)/$ /$1 [R=301,L]
+
+# Redirect external .php requests to extensionless url
+RewriteCond %{THE_REQUEST} \s/.+?\.php
+RewriteRule ^(.+)\.php$ /$1 [R=301,L]
+
+# Resolve .php file for extensionless php urls
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1\.php -f [NC]
+RewriteRule ^(.+?)/?$ /$1.php [L]
+
+Redirect 301 /mariangel-coghlan-firma-mexicana-de-dise%C3%B1o-de-interiores https://www.mcoghlan.mx/index
+Redirect 301 /mariangel-coghlan-firma-mexicana-de-diseño-de-interiores https://www.mcoghlan.mx/index
+
+Redirect 301 /mc/interiorismo-comercial https://www.mcoghlan.mx/diseno-de-interiores-comercial
+Redirect 301 /mc/remodelacion https://www.mcoghlan.mx/proyecto-de-remodelacion
+Redirect 301 /mc/diseno-arquitectonico https://www.mcoghlan.mx/diseno-arquitectonico
+Redirect 301 /mc/proyectos https://www.mcoghlan.mx/diseno-interior
+Redirect 301 /mc/proyectos/fresno https://www.mcoghlan.mx/proyectos/diseno-de-interiores-monterrey
+Redirect 301 /mc/roble https://www.mcoghlan.mx/proyectos/proyectos/diseno-de-interiores-cdmx
+Redirect 301 /mc/almendros https://www.mcoghlan.mx/proyectos/diseno-de-interiores-guadalajara
+Redirect 301 /mc/acacias https://www.mcoghlan.mx/proyectos/diseno-de-interiores-estado-de-mexico
+Redirect 301 /mc/encinos https://www.mcoghlan.mx/proyectos/interiorismo-mexicano
+Redirect 301 /mc/laurel https://www.mcoghlan.mx/proyectos/diseno-de-interiores-guanajuato
+Redirect 301 /mc/olivo https://www.mcoghlan.mx/proyectos/remodelacion-de-casa-en-campo
+Redirect 301 /mc/primavera https://www.mcoghlan.mx/proyectos/transformando-espacios-estado-de-mexico
+Redirect 301 /mc/limonero https://www.mcoghlan.mx/proyectos/diseno-de-interiores-morelos
+Redirect 301 /mc/montana https://www.mcoghlan.mx/proyectos/diseno-de-interiores-casa-de-campo
+Redirect 301 /mc/pirul https://www.mcoghlan.mx/proyectos/interiorismo-en-monterrey
+Redirect 301 /mc/cedro https://www.mcoghlan.mx/proyectos/diseno-de-interiores-valle-de-bravo
+Redirect 301 /mc/acapulco https://www.mcoghlan.mx/proyectos/diseno-de-interiores-acapulco
+Redirect 301 /mc/ixtapa https://www.mcoghlan.mx/proyectos/diseno-de-interiores-ixtapa
+Redirect 301 /mc/campeche2 https://www.mcoghlan.mx/proyectos/diseno-de-interiores-campeche
+Redirect 301 /mc/ceiba https://www.mcoghlan.mx/proyectos/diseno-de-interiores-playa-paraiso
+Redirect 301 /mc/mangle https://www.mcoghlan.mx/proyectos/diseno-de-interiores-jalisco
+Redirect 301 /mc/palmas https://www.mcoghlan.mx/proyectos/diseno-de-interiores-puerto-escondido
+Redirect 301 /mc/oficinas-lisboa https://www.mcoghlan.mx/proyectos/diseno-de-interiores-despacho
+Redirect 301 /mc/oficinas-marruecos https://www.mcoghlan.mx/proyectos/diseno-de-oficinas-cuernavaca
+Redirect 301 /mc/oficinas-bagan https://www.mcoghlan.mx/proyectos/diseno-de-interiores-coworking
+
+
+Redirect 301 /mc/galeria https://www.mcoghlan.mx/diseno-de-interiores-en-mexico
+Redirect 301 /mc/salas https://www.mcoghlan.mx/galeria/diseno-de-interiores-salas
+Redirect 301 /mc/habitaciones https://www.mcoghlan.mx/galeria/diseno-de-interiores-habitaciones
+Redirect 301 /mc/comedores https://www.mcoghlan.mx/galeria/diseno-de-interiores-comdedores
+Redirect 301 /mc/cocinas https://www.mcoghlan.mx/galeria/diseno-de-interiores-cocinas
+Redirect 301 /mc/banos https://www.mcoghlan.mx/galeria/diseno-de-interiores-banos
+Redirect 301 /mc/terrazas https://www.mcoghlan.mx/galeria/diseno-de-interiores-terrazas
+Redirect 301 /mc/desayunadores https://www.mcoghlan.mx/galeria/diseno-de-interiores-desayunadores
+Redirect 301 /mc/ninos https://www.mcoghlan.mx/galeria/diseno-de-habitaciones-para-ninos
+Redirect 301 /mc/estudios https://www.mcoghlan.mx/galeria/diseno-de-interiores-estudios
+Redirect 301 /mc/bares https://www.mcoghlan.mx/galeria/diseno-de-interiores-bares
+Redirect 301 /mc/vestibulos https://www.mcoghlan.mx/galeria/diseno-de-interiores-vestibulos
+Redirect 301 /mc/vestidores https://www.mcoghlan.mx/galeria/diseno-de-interiores-vestidores
+Redirect 301 /mc/bibliotecas https://www.mcoghlan.mx/galeria/diseno-de-interiores-bibliotecas
+Redirect 301 /mc/amenidades https://www.mcoghlan.mx/galeria/diseno-de-interiores-amenidades
+Redirect 301 /mc/oficinas https://www.mcoghlan.mx/galeria/diseno-de-interiores-oficinas
+Redirect 301 /mc/diseno-hoteles https://www.mcoghlan.mx/galeria/diseno-de-interiores-hoteles
+Redirect 301 /mc/diseno-restaurantes https://www.mcoghlan.mx/galeria/diseno-de-interiores-restaurantes
+Redirect 301 /mc/accesorios https://www.mcoghlan.mx/galeria/diseno-de-interiores-accesorios
+
+Redirect 301 /mc/color https://www.mcoghlan.mx/colores-para-interiorismo
+Redirect 301 /mc/inspiracion https://www.mcoghlan.mx/color/inspiracion-diseno-de-interiores
+Redirect 301 /mc/obsidiana https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-obsidiana
+Redirect 301 /mc/piedra https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-piedra
+Redirect 301 /mc/coco https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-coco
+Redirect 301 /mc/lavanda https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-lavanda
+Redirect 301 /mc/marino https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-marino
+Redirect 301 /mc/cian https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-cian
+Redirect 301 /mc/turquesa https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-turquesa
+Redirect 301 /mc/agave https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-agave
+Redirect 301 /mc/limon https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-limon
+Redirect 301 /mc/girasol https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-girasol
+Redirect 301 /mc/naranja https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-naranja
+Redirect 301 /mc/mandarina https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-mandarina
+Redirect 301 /mc/granada https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-granada
+Redirect 301 /mc/buganvilia https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-buganvilia
+Redirect 301 /mc/lila https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-lila
+
+Redirect 301 /mc/paletasdecolor https://www.mcoghlan.mx/color/diseno-de-interiores-paletas-de-color
+Redirect 301 /mc/origencolor https://www.mcoghlan.mx/color/paletas/paletas-de-color-origen
+Redirect 301 /mc/contrapunto https://www.mcoghlan.mx/color/paletas/paletas-de-color-contrapunto
+Redirect 301 /mc/alegria https://www.mcoghlan.mx/color/paletas/paletas-de-color-alegria
+Redirect 301 /mc/elegante-color https://www.mcoghlan.mx/color/paletas/paletas-de-color-elegante
+Redirect 301 /mc/tabique-color https://www.mcoghlan.mx/color/paletas/paletas-de-color-tabique
+Redirect 301 /mc/palmera-color https://www.mcoghlan.mx/color/paletas/paletas-de-color-palmera
+Redirect 301 /mc/paletadecolor-pirul https://www.mcoghlan.mx/color/paletas/paletas-de-color-pirul
+Redirect 301 /mc/paletadecolor-bambu https://www.mcoghlan.mx/color/paletas/paletas-de-color-bambu
+Redirect 301 /mc/paletadecolor-coco https://www.mcoghlan.mx/color/paletas/paletas-de-color-coco
+Redirect 301 /mc/tendencias-de-color-2021 https://www.mcoghlan.mx/color/tendencias-de-colores-interiorismo
+Redirect 301 /mc/classic-blue https://www.mcoghlan.mx/color/tendencias/tendencias-de-colores-classic-blue
+Redirect 301 /mc/verde-vegetal https://www.mcoghlan.mx//color/tendencias/tendencias-de-colores-vegetal
+Redirect 301 /mc/contacto https://www.mcoghlan.mx//contacto-mariangel-coghlan
+

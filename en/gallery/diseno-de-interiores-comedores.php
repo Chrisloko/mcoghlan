@@ -225,200 +225,200 @@ include('../global/header.php');
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor1%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor1.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor1%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor1.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor2%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor2.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor2%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor2.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor3%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor3.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor3%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor3.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor4%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor4.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor4%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor4.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor5%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor5.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor5%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor5.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor6%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor6.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor6%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor6.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor7%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor7.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor7%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor7.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor8%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor8.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor8%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor8.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor9%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor9.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor9%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor9.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor10%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor10.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor10%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor10.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor11%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor11.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor11%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor11.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor12%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor12.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor12%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor12.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor13%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor13.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor13%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor13.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor14%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor14.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor14%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor14.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor15%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor15.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor15%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor15.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor16%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor16.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor16%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor16.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor17%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor17.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor17%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor17.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor18%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor18.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor18%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor18.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor19%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor19.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor19%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor19.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor20%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor20.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor20%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor20.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor21%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor21.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor21%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor21.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor22%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor22.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor22%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor22.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor23%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor23.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor23%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor23.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor28%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor28.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor28%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor28.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor24%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor24.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor24%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor24.jpg" alt="Comedor">
 			</a>
 
 			</div>
@@ -426,7 +426,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/cedro-1000-02-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/cedro-350-02-1.jpg" alt="cedro-350-02-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-02-1.jpg" alt="cedro-350-02-1">
 			</a>
 
 			</div>
@@ -434,7 +434,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/cedro-1000-01-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/cedro-350-01-1.jpg" alt="cedro-350-01-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-01-1.jpg" alt="cedro-350-01-1">
 			</a>
 
 			</div>
@@ -442,7 +442,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/pirul-1000-08-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/pirul-350-08-1.jpg" alt="pirul-350-08-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/pirul-350-08-1.jpg" alt="pirul-350-08-1">
 			</a>
 
 			</div>
@@ -450,7 +450,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/pirul-1000-07-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/pirul-350-07-1.jpg" alt="pirul-350-07-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/pirul-350-07-1.jpg" alt="pirul-350-07-1">
 			</a>
 
 			</div>
@@ -458,7 +458,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-79-3.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-79-3.jpg" alt="ceiba-350x350-79-3">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-79-3.jpg" alt="ceiba-350x350-79-3">
 			</a>
 
 			</div>
@@ -466,7 +466,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-75-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-75-2.jpg" alt="ceiba-350x350-75-2">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-75-2.jpg" alt="ceiba-350x350-75-2">
 			</a>
 
 			</div>
@@ -474,7 +474,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-17-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-17-2.jpg" alt="ceiba-350x350-17-2">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-17-2.jpg" alt="ceiba-350x350-17-2">
 			</a>
 
 			</div>
@@ -482,7 +482,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-18-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-18-2.jpg" alt="ceiba-350x350-18-2">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-18-2.jpg" alt="ceiba-350x350-18-2">
 			</a>
 
 			</div>
@@ -490,7 +490,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-06-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-06-2.jpg" alt="ceiba-350x350-06-2">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-06-2.jpg" alt="ceiba-350x350-06-2">
 			</a>
 
 			</div>
@@ -498,7 +498,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-04-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-04-1.jpg" alt="ceiba-350x350-04-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-04-1.jpg" alt="ceiba-350x350-04-1">
 			</a>
 
 			</div>
@@ -506,7 +506,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-19-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-19-2.jpg" alt="ceiba-350x350-19-2">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-19-2.jpg" alt="ceiba-350x350-19-2">
 			</a>
 
 			</div>
@@ -514,7 +514,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-01-1000x650-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-01-350x350-1.jpg" alt="ceiba-01-350x350-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-01-350x350-1.jpg" alt="ceiba-01-350x350-1">
 			</a>
 
 			</div>
@@ -522,7 +522,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-03-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-03-1.jpg" alt="ceiba-350x350-03-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-03-1.jpg" alt="ceiba-350x350-03-1">
 			</a>
 
 			</div>
@@ -530,7 +530,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-02-1000x650-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-02-350x350-1.jpg" alt="ceiba-02-350x350-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-02-350x350-1.jpg" alt="ceiba-02-350x350-1">
 			</a>
 
 			</div>
@@ -538,7 +538,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-67-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-67-1.jpg" alt="ceiba-350x350-67-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-67-1.jpg" alt="ceiba-350x350-67-1">
 			</a>
 
 			</div>
@@ -546,7 +546,7 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-68-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-68-1.jpg" alt="ceiba-350x350-68-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-68-1.jpg" alt="ceiba-350x350-68-1">
 			</a>
 
 			</div>
@@ -554,199 +554,199 @@ include('../global/header.php');
 			<div class="col-md-4">
 
 			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-66-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/ceiba-350x350-66-1.jpg" alt="ceiba-350x350-66-1">
+				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-66-1.jpg" alt="ceiba-350x350-66-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor25%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor25.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor25%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor25.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor26%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor26.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor26%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor26.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor27%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor27.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor27%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor27.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor29%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor29.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor29%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor29.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor30%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor30.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor30%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor30.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor31%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor31.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor31%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor31.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor32%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor32.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor32%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor32.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor33%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor33.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor33%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor33.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor34%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor34.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor34%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor34.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor35%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor35.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor35%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor35.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor37%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor37.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor37%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor37.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor36%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor36.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor36%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor36.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor38%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor38.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor38%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor38.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor39%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor39.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor39%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor39.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor40%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor40.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor40%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor40.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor41%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor41.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor41%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor41.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor42%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor42.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor42%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor42.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor43%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor43.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor43%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor43.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor44%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor44.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor44%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor44.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor45%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor45.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor45%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor45.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor46%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor46.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor46%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor46.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor47%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor47.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor47%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor47.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor48%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor48.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor48%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor48.jpg" alt="Comedor">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/comedor49%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://www.mcoghlan.mx/hubfs/MCoghlan_April2018/images/comedor49.jpg" alt="Comedor">
+			<a href="../img/galeria/comedores/comedor49%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/comedores/comedor49.jpg" alt="Comedor">
 			</a>
 
 			</div>

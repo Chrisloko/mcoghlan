@@ -18,7 +18,7 @@
     <script src="/js/jquery3.5.1.min.js" ></script>
     <link rel="stylesheet" href="/css/bootstrap.css">
     <link rel="stylesheet" href="/css/style.css">
-	<link rel="preload" href="https://previo.mcoghlan.mx/fonts/Catamaran-VariableFont_wght.ttf" as="font" crossorigin="">
+	<!-- <link rel="preload" href="https://mcoghlan.mx/fonts/Catamaran-VariableFont_wght.ttf" as="font" crossorigin=""> -->
 	<!-- <link rel="preconnect" href="https://www.google-analytics.com">
 	<link rel="preconnect" href="https://www.googletagmanager.com">	 -->
 	<!-- Global site tag (gtag.js) - Google Analytics -->
