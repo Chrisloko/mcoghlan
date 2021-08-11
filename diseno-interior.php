@@ -318,7 +318,7 @@ include('global/header.php');
 				</a>	
 			</div>	
 			<div class="item-3">
-				<a href="https://indd.adobe.com/view/b4191046-929a-4f50-bff5-198007b2d7e3" target="_blank">
+				<a href="https://indd.adobe.com/view/32af1151-4668-4e08-bc72-bad4784f127b" target="_blank">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="Penthouse Ceiba" data-src="/img/proyectos/PORTADAEBOOKCEIBA.jpg" onmouseover="this.src='/img/proyectos/PORTADAEBOOKCEIBA-hover.jpg'" onmouseout="this.src='/img/proyectos/PORTADAEBOOKCEIBA.jpg'">
 				</div>

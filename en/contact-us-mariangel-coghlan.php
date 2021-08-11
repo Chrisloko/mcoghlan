@@ -1,10 +1,10 @@
 <?php 
 $title="Contacto Mariangel Coghlan";
-$desc = "Contáctanos, te ayudamos a diseñar tu casa, departamento, oficina, restaurante o hotel y que así sea única y exclusiva.";
+$desc = "Contact us, we can help you design your house, apartment, office, restaurant or hotel making it unique and exclusive.";
 $key = "diseño de interiores";
 $page = 'contacto';
-$canonical = "https://www.mcoghlan.mx/contacto";
-include('global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/contact-us-mariangel-coghlan";
+include('../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,12 +12,12 @@ include('global/header.php');
  <div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h2>CONTACTO</h2>
+				<h2>CONTACT US</h2>
 			</div>
 		</div>
   </div>
  </section>  
-<?php include('global/formu-contacto.php');?>
+<?php include('../global/formu-contacto-en.php');?>
 <section id="datos-contacto">
 	<div class="container">
 		<div class="row">
@@ -53,9 +53,9 @@ include('global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('global/cta-visita.php');?>	
+<?php include('../global/cta-visita-en.php');?>	
 <?php 
-include('global/footer.php');
+include('../global/footer-en.php');
 ?>	
 
     

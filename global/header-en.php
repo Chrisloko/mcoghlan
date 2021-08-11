@@ -108,7 +108,7 @@
 							</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 							   		<a href="/en/color/interior-design-inspiration" class="dropdown-item">Inspiration</a>
-									<a href="/en/color/interior-design-color-palettes" class="dropdown-item">Color pallets</a>
+									<a href="/en/color/interior-design-color-palettes" class="dropdown-item">Color palettes</a>
 									<a href="/en/color/interior-design-color-tendencies" class="dropdown-item">Tendencies</a>
 							</div>
 						  </li>

@@ -41,16 +41,16 @@ include('global/header.php');
 				<a href="https://wa.me/5215567833642" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/mandanosunwhatsUP.jpg"></a>
 			</div>
 			<div class="col-md-4">
-				<a href="https://www.mcoghlan.mx/mc/nosotros" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/acercademiUP.jpg"></a>
+				<a href="https://www.mcoghlan.mx/nosotros" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/acercademiUP.jpg"></a>
 			</div>
 			<div class="col-md-4">
-				<a href="https://www.mcoghlan.mx/mc/interiorismo-residencial" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/disenoresidencialUP.jpg"></a>
+				<a href="https://www.mcoghlan.mx/diseno-de-interiores-casas" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/disenoresidencialUP.jpg"></a>
 			</div>
 			<div class="col-md-4">
 				<a href="https://www.youtube.com/c/mariangelcoghlanmx/featured" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/youtubeUP.jpg"></a>
 			</div>
 			<div class="col-md-4">
-				<a href="https://www.mcoghlan.mx/mc/proyectos" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/proyectosUP.jpg"></a>
+				<a href="https://www.mcoghlan.mx/diseno-interior" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/proyectosUP.jpg"></a>
 			</div>
 			<div class="col-md-4">
 				<a href="https://www.mcoghlan.mx/blog" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/blogUP.jpg"></a>
@@ -59,10 +59,10 @@ include('global/header.php');
 				<a href="https://www.mcoghlan.mx/libros" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/hogaresUP.jpg"></a>
 			</div>
 			<div class="col-md-4">
-				<a href="https://www.mcoghlan.mx/mc/conversaciones" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/conversacionesUP-conocenos.jpg"></a>
+				<a href="https://www.mcoghlan.mx/conversaciones" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/conversacionesUP-conocenos.jpg"></a>
 			</div>
 			<div class="col-md-4">
-				<a href="https://www.mcoghlan.mx/mc/contacto" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/dudasUP.jpg"></a>
+				<a href="https://www.mcoghlan.mx/contacto-mariangel-coghlan" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/dudasUP.jpg"></a>
 			</div>
 		</div>
 	</div>

@@ -42,7 +42,12 @@ html {
     font-style: normal;
     font-display: swap
 }
-
+@font-face {
+    font-family: 'Gotham';
+    src: url('../fonts/GothamMedium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+}
 
 /* @font-face {
     font-family: Catamaran;
@@ -1832,6 +1837,87 @@ a:hover{
     color: #666;
     font-size: 16px;
 }
+
+/* blog cta */
+.white {
+    color: #fff;
+}
+
+#premio-lux-cta{
+    background-color:#3c4650;
+    padding:40px 15px;
+    
+  }
+  #premio-lux-cta .row{
+    display:flex;
+    flex-wrap:wrap;
+    margin:0 auto;
+    
+  }
+  #premio-lux-cta .left-text{
+    flex:0 0 60%;
+    max-width: 60%;
+    padding: 0 15px;
+    align-self: center;
+  }
+  #premio-lux-cta .left-text h2{
+    font-family: Gotham;
+    color:#fff;
+    text-align:right;
+    font-weight:500;
+    font-size:15.5px;
+    margin-bottom:0;
+  }
+  #premio-lux-cta .left-text h2.blue{
+    color:#54a7a7;
+  }
+  #premio-lux-cta .right-img-1, #premio-lux-cta .right-img-2{
+    align-self: center;
+    flex:0 0 20%;
+    max-width: 20%;
+    padding: 0 15px;
+  }
+  #premio-lux-cta .right-img-1 img, #premio-lux-cta .right-img-2 img{
+    width:100%;
+    max-width:100%;
+  }
+  @media(max-width:1024px){
+   #premio-lux-cta .left-text h2 {
+      font-size: 20px;
+    }
+  }
+  @media(max-width:768px){
+   #premio-lux-cta .left-text h2 {
+      font-size: 14px;
+    }
+  }
+  @media(max-width:767px){
+    #premio-lux-cta .left-text{
+    flex:0 0 100%;
+    max-width: 100%;
+    padding: 0 20px;
+    align-self: center;
+  }
+  #premio-lux-cta .right-img-1, #premio-lux-cta .right-img-2{
+    flex:0 0 100%;
+    max-width: 100%;
+    padding: 0 15px;
+  }
+    
+   #premio-lux-cta .left-text h2 {
+      font-family: Gotham;
+      color: #fff;
+      text-align: center;
+      font-weight: 500;
+      font-size: 18px;
+      margin-bottom: 2px;
+    }
+    #premio-lux-cta .right-img-1 img, #premio-lux-cta .right-img-2 img{
+      margin-top:20px;
+      width:100%;
+      max-width:100%;
+    }
+  }
 
 /* accordion servicios */
 
@@ -3790,6 +3876,17 @@ padding: 60px 0;
 .pt-40 {
     padding-top: 40px;
 }
+
+.social-item-v2 {
+    flex: 0 0 12.5%;
+    max-width: 12.5%;
+    margin-bottom: 15px;
+}
+.social-item-v2 img {
+    max-width: 41px;
+    display: block;
+    margin: 0 auto;
+}
 @media screen and (max-width: 993px){
 
 	.como-padding {
@@ -3866,6 +3963,11 @@ padding: 60px 0;
     }
     .pad-logo-f {
         padding-bottom: 30px;
+    }
+    .social-item-v2 {
+        flex: 0 0 25%;
+        max-width: 25%;
+        margin-bottom: 15px;
     }
 }
 

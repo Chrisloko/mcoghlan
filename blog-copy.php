@@ -24,7 +24,7 @@ include('global/header.php');
                 <div class="row">
                   <div class="sl-img">
                    <div class="blog-post-image">
-                      <div class="bck-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA1blogcocinaydiseno-1.jpg?width=980&amp;height=551&amp;name=PORTADA1blogcocinaydiseno-1.jpg')">
+                      <div class="bck-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA1blogcocinaydiseno-1.jpg?width=980&amp;height=551&amp;name=PORTADA1blogcocinaydiseno-1.jpg')">
                    </div>
                     
                    </div>
@@ -72,7 +72,7 @@ include('global/header.php');
                 <div class="row">
                   <div class="sl-img">
                    <div class="blog-post-image">
-                      <div class="bck-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/blog-tipsparadisfrutardetuterraza-PORTADA1.jpg?width=980&amp;height=551&amp;name=blog-tipsparadisfrutardetuterraza-PORTADA1.jpg')">
+                      <div class="bck-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/blog-tipsparadisfrutardetuterraza-PORTADA1.jpg?width=980&amp;height=551&amp;name=blog-tipsparadisfrutardetuterraza-PORTADA1.jpg')">
                    </div>
                     
                    </div>
@@ -154,7 +154,7 @@ include('global/header.php');
               <a href="https://www.mcoghlan.mx/blog/mi-inspiracion-para-transformar-espacios" title="" class="hs-featured-image-link">
                 
                   
-                  <div class="bck-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-Miinspiracionparatransformarespacios.jpg?width=750&amp;height=750&amp;name=PORTADA-Miinspiracionparatransformarespacios.jpg')">
+                  <div class="bck-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-Miinspiracionparatransformarespacios.jpg?width=750&amp;height=750&amp;name=PORTADA-Miinspiracionparatransformarespacios.jpg')">
                   </div>
                         
 
@@ -189,7 +189,7 @@ include('global/header.php');
               <a href="https://www.mcoghlan.mx/blog/10-de-mayo-2021" title="" class="hs-featured-image-link">
                 
                   
-                  <div class="bck-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/10%20de%20mayo%202021.jpg?width=750&amp;height=750&amp;name=10%20de%20mayo%202021.jpg')">
+                  <div class="bck-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/10%20de%20mayo%202021.jpg?width=750&amp;height=750&amp;name=10%20de%20mayo%202021.jpg')">
                   </div>
                         
 
@@ -286,7 +286,7 @@ include('global/header.php');
 <div class="post-item index-1">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/mi-inspiracion-para-transformar-espacios" title="Mi inspiración para transformar espacios" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-Miinspiracionparatransformarespacios.jpg?width=848&amp;name=PORTADA-Miinspiracionparatransformarespacios.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-Miinspiracionparatransformarespacios.jpg?width=848&amp;name=PORTADA-Miinspiracionparatransformarespacios.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -303,7 +303,7 @@ Mariangel Coghlan | junio 2, 2021
 <div class="post-item index-2">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/10-de-mayo-2021" title="10 de mayo 2021" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/10%20de%20mayo%202021.jpg?width=848&amp;name=10%20de%20mayo%202021.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/10%20de%20mayo%202021.jpg?width=848&amp;name=10%20de%20mayo%202021.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -320,7 +320,7 @@ Mariangel Coghlan | mayo 10, 2021
 <div class="post-item index-3">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/dia-internacional-de-la-mujer" title="Día internacional de la mujer" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-diadelamujer8demarzo2021.jpg?width=848&amp;name=PORTADA-diadelamujer8demarzo2021.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-diadelamujer8demarzo2021.jpg?width=848&amp;name=PORTADA-diadelamujer8demarzo2021.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -337,7 +337,7 @@ Mariangel Coghlan | marzo 8, 2021
 <div class="post-item index-4">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/ideas-de-como-poner-los-accesorios-en-nuestra-casa" title="Ideas de cómo poner los accesorios en nuestra casa" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-blog-Ideasdecomoponerlosaccesoriosennuestracasa.jpg?width=848&amp;name=PORTADA-blog-Ideasdecomoponerlosaccesoriosennuestracasa.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-blog-Ideasdecomoponerlosaccesoriosennuestracasa.jpg?width=848&amp;name=PORTADA-blog-Ideasdecomoponerlosaccesoriosennuestracasa.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -355,7 +355,7 @@ Mariangel Coghlan | febrero 27, 2021
 <div class="post-item index-5">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/el-dia-que-me-dijeron-que-mc-es-la-mejor-firma-de-diseno-de-mexico" title="El día que me dijeron que MC es la mejor firma de diseño de México" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-blog-Eldiaquemedijeronquesomoslamejorfirmadediseno.jpg?width=848&amp;name=PORTADA-blog-Eldiaquemedijeronquesomoslamejorfirmadediseno.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-blog-Eldiaquemedijeronquesomoslamejorfirmadediseno.jpg?width=848&amp;name=PORTADA-blog-Eldiaquemedijeronquesomoslamejorfirmadediseno.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -373,7 +373,7 @@ Mariangel Coghlan | febrero 19, 2021
 <div class="post-item index-6">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/ano-nuevo-espacio-nuevo" title="Año nuevo, espacio nuevo" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/blog-anonuevoespacionuevo-PORTADA.jpg?width=848&amp;name=blog-anonuevoespacionuevo-PORTADA.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/blog-anonuevoespacionuevo-PORTADA.jpg?width=848&amp;name=blog-anonuevoespacionuevo-PORTADA.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -391,7 +391,7 @@ Mariangel Coghlan | enero 27, 2021
 <div class="post-item index-7">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/ideas-para-tener-una-sala-con-armonia" title="Ideas para tener una sala con armonía" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/blog-ideasparatenerunasalaconarmonia-PORTADA.jpg?width=848&amp;name=blog-ideasparatenerunasalaconarmonia-PORTADA.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/blog-ideasparatenerunasalaconarmonia-PORTADA.jpg?width=848&amp;name=blog-ideasparatenerunasalaconarmonia-PORTADA.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -409,7 +409,7 @@ Mariangel Coghlan | enero 25, 2021
 <div class="post-item index-8">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/ideas-para-disfrutar-de-tu-terraza" title="Ideas&nbsp;para disfrutar de tu terraza" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/blog-tipsparadisfrutardetuterraza-PORTADA1.jpg?width=848&amp;name=blog-tipsparadisfrutardetuterraza-PORTADA1.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/blog-tipsparadisfrutardetuterraza-PORTADA1.jpg?width=848&amp;name=blog-tipsparadisfrutardetuterraza-PORTADA1.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -427,7 +427,7 @@ Mariangel Coghlan | enero 15, 2021
 <div class="post-item index-9">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/te-explicamos-como-realizamos-un-proyecto-arquitectonico" title="Te explicamos cómo realizamos un proyecto arquitectónico" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-BlogTe%20explicamoscomorealizamosunproyectoarquitectonico.jpg?width=848&amp;name=PORTADA-BlogTe%20explicamoscomorealizamosunproyectoarquitectonico.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-BlogTe%20explicamoscomorealizamosunproyectoarquitectonico.jpg?width=848&amp;name=PORTADA-BlogTe%20explicamoscomorealizamosunproyectoarquitectonico.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -445,7 +445,7 @@ Mariangel Coghlan | septiembre 30, 2020
 <div class="post-item index-10">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/contratar-a-un-experto-en-diseno-optimiza-tus-recursos.-te-decimos-porque" title="Contratar a un experto en diseño optimiza tus recursos. Te decimos porqué" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA2-Contratar%20a%20un%20experto%20en%20disen%CC%83o%20optimiza%20tus%20recursos.jpg?width=848&amp;name=PORTADA2-Contratar%20a%20un%20experto%20en%20disen%CC%83o%20optimiza%20tus%20recursos.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA2-Contratar%20a%20un%20experto%20en%20disen%CC%83o%20optimiza%20tus%20recursos.jpg?width=848&amp;name=PORTADA2-Contratar%20a%20un%20experto%20en%20disen%CC%83o%20optimiza%20tus%20recursos.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -463,7 +463,7 @@ Mariangel Coghlan | septiembre 30, 2020
 <div class="post-item index-11">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/nuestra-pasion-por-transformar-espacios" title="Nuestra pasión por transformar espacios..." class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-nuestrapasionportransformarespacio.jpg?width=848&amp;name=PORTADA-nuestrapasionportransformarespacio.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-nuestrapasionportransformarespacio.jpg?width=848&amp;name=PORTADA-nuestrapasionportransformarespacio.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -480,7 +480,7 @@ Mariangel Coghlan | septiembre 18, 2020
 <div class="post-item index-12">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/te-decimos-como-funciona-nuestra-firma-de-diseno" title="Te decimos cómo funciona nuestra firma de diseño" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-blogcomotrabajamosennuestrafirmadediseno.jpg?width=848&amp;name=PORTADA-blogcomotrabajamosennuestrafirmadediseno.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-blogcomotrabajamosennuestrafirmadediseno.jpg?width=848&amp;name=PORTADA-blogcomotrabajamosennuestrafirmadediseno.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -498,7 +498,7 @@ Mariangel Coghlan | septiembre 14, 2020
 <div class="post-item index-13">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/la-influencia-del-interiorismo-en-la-vida-cotidiana" title="La influencia del interiorismo en la vida cotidiana" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-blog-lainfluencidelinteriorismoenlavidacotidiana.jpg?width=848&amp;name=PORTADA-blog-lainfluencidelinteriorismoenlavidacotidiana.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-blog-lainfluencidelinteriorismoenlavidacotidiana.jpg?width=848&amp;name=PORTADA-blog-lainfluencidelinteriorismoenlavidacotidiana.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -517,7 +517,7 @@ Mariangel Coghlan | agosto 28, 2020
 <div class="post-item index-14">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/estar-en-casa-mi-experiencia-creando-una-cancion-en-familia" title="Estar en casa… Mi experiencia creando una canción en familia" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-blog-estarencasa.jpg?width=848&amp;name=PORTADA-blog-estarencasa.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-blog-estarencasa.jpg?width=848&amp;name=PORTADA-blog-estarencasa.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -535,7 +535,7 @@ Mariangel Coghlan | agosto 27, 2020
 <div class="post-item index-15">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/cinco-puntos-para-disfrutar-de-nuestra-casa-en-estos-tiempos" title="Cinco puntos para disfrutar de nuestra casa en estos tiempos" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA2-blogcincopuntosparadisfrutardenuestracasaenestostiempos.jpg?width=848&amp;name=PORTADA2-blogcincopuntosparadisfrutardenuestracasaenestostiempos.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA2-blogcincopuntosparadisfrutardenuestracasaenestostiempos.jpg?width=848&amp;name=PORTADA2-blogcincopuntosparadisfrutardenuestracasaenestostiempos.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -552,7 +552,7 @@ Mariangel Coghlan | agosto 26, 2020
 <div class="post-item index-16">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/nuevos-paradigmas-de-convivencia-y-diseno-en-el-hogar" title="Nuevos paradigmas de convivencia y diseño en el hogar" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA1-blognuevosparadigmasdeconvivenciaydisenoenelhogar.jpg?width=848&amp;name=PORTADA1-blognuevosparadigmasdeconvivenciaydisenoenelhogar.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA1-blognuevosparadigmasdeconvivenciaydisenoenelhogar.jpg?width=848&amp;name=PORTADA1-blognuevosparadigmasdeconvivenciaydisenoenelhogar.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -569,7 +569,7 @@ Mariangel Coghlan | agosto 26, 2020
 <div class="post-item index-17">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/ventajas-de-contratar-a-un-profesional-para-disenar-tu-casa" title="Ventajas de contratar a un profesional para diseñar tu casa" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADAblogventajasdecontrataraunexpertoparadisenarmicasa.jpg?width=848&amp;name=PORTADAblogventajasdecontrataraunexpertoparadisenarmicasa.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADAblogventajasdecontrataraunexpertoparadisenarmicasa.jpg?width=848&amp;name=PORTADAblogventajasdecontrataraunexpertoparadisenarmicasa.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -586,7 +586,7 @@ Mariangel Coghlan | agosto 8, 2020
 <div class="post-item index-18">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/cocina-y-diseno" title="Cocina y Diseño" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA1blogcocinaydiseno-1.jpg?width=848&amp;name=PORTADA1blogcocinaydiseno-1.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA1blogcocinaydiseno-1.jpg?width=848&amp;name=PORTADA1blogcocinaydiseno-1.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -604,7 +604,7 @@ Mariangel Coghlan | agosto 8, 2020
 <div class="post-item index-19">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/tendencias-de-color-2020" title="Tendencias de color 2020" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADACUADRADA-salaverdeespejos.jpg?width=848&amp;name=PORTADACUADRADA-salaverdeespejos.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADACUADRADA-salaverdeespejos.jpg?width=848&amp;name=PORTADACUADRADA-salaverdeespejos.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -622,7 +622,7 @@ Mariangel Coghlan | agosto 2, 2020
 <div class="post-item index-20">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/solo-llevamos-22-anos" title="Sólo llevamos 22 años…" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/Solo%20llevamos/historiadeamor-mariangelygabrielPORTADA.jpg?width=848&amp;name=historiadeamor-mariangelygabrielPORTADA.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/Solo%20llevamos/historiadeamor-mariangelygabrielPORTADA.jpg?width=848&amp;name=historiadeamor-mariangelygabrielPORTADA.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -640,7 +640,7 @@ Mariangel Coghlan | julio 28, 2020
 <div class="post-item index-21">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/lo-que-tienes-que-saber-para-crear-una-paleta-de-color-exitosa" title="7 Claves para crear paletas de color" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA%20%281%29.jpg?width=848&amp;name=PORTADA%20%281%29.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA%20%281%29.jpg?width=848&amp;name=PORTADA%20%281%29.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -658,7 +658,7 @@ Mariangel Coghlan | julio 25, 2020
 <div class="post-item index-22">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/10-ideas-para-disenar-tu-terraza" title="10 ideas para diseñar tu terraza" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/INT6-blog10terrazasysussecretos.jpg?width=848&amp;name=INT6-blog10terrazasysussecretos.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/INT6-blog10terrazasysussecretos.jpg?width=848&amp;name=INT6-blog10terrazasysussecretos.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -676,7 +676,7 @@ Mariangel Coghlan | julio 17, 2020
 <div class="post-item index-23">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/inspiracion-para-combinar-colores-en-el-interior-de-tu-casa" title="Inspiración para combinar colores en el interior de tu casa" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/PORTADA-blog-Inspiracionparacombinarcoloresenelinteriordetucasa.jpg?width=848&amp;name=PORTADA-blog-Inspiracionparacombinarcoloresenelinteriordetucasa.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/PORTADA-blog-Inspiracionparacombinarcoloresenelinteriordetucasa.jpg?width=848&amp;name=PORTADA-blog-Inspiracionparacombinarcoloresenelinteriordetucasa.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">
@@ -694,7 +694,7 @@ Mariangel Coghlan | julio 15, 2020
 <div class="post-item index-24">
 <div class="hs_featured_image_wrapper">
 <a href="https://www.mcoghlan.mx/blog/9-puntos-a-considerar-antes-de-empezar-a-disenar-un-espacio" title="9 puntos a considerar antes de empezar a diseñar un espacio" class="hs_featured_image_link">
-<div class="back-img" style="background-image:url('https://www.mcoghlan.mx/hs-fs/hubfs/portada-blog-Loquetienesquesaberantesdecomenzaradisenar.jpg?width=848&amp;name=portada-blog-Loquetienesquesaberantesdecomenzaradisenar.jpg')"></div>
+<div class="back-img" style="background-image:url('https://cdn2.hubspot.net/hubfs/2379052/portada-blog-Loquetienesquesaberantesdecomenzaradisenar.jpg?width=848&amp;name=portada-blog-Loquetienesquesaberantesdecomenzaradisenar.jpg')"></div>
 </a>
 </div>
 <div class="post-body clearfix">

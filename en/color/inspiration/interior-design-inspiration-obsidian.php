@@ -1,10 +1,10 @@
 <?php 
-$title="Inspiración diseño de interiores: obsidiana";
-$desc = "Inspiración diseño de interiores: obsidiana";
-$key = "Diseño interior";
+$title="Inspiration from color: Obsidian";
+$desc = "Inspiration from color: Obsidian";
+$key = "Inspiration from color: Obsidian";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
-include('../../global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/color/inspiration/interior-design-inspiration-obsidian";
+include('../../../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('../../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>INSPIRACIÓN PARA DISEÑO DE INTERIORES: OBSIDIANA</h1>
+				<h1>Inspiration from color: Obsidian</h1>
 			</div>
 		</div>
 	</div>
@@ -23,16 +23,15 @@ include('../../global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>El color de la obsidiana es generalmente negro, pero puede variar según la composición de las impurezas de la piedra: desde los verdes muy oscuros hasta los claros o rojizos, y puede estar veteada con blanco, negro y rojo.</p>
-					<p>Las tonalidades oscuras ofrecen mucha riqueza en cualquier espacio, suelen proporcionar elegancia y sofisticación. Los acentos con estas gamas cromáticas son un acierto en la decoración de una casa y siempre se pueden emplear para generar contrastes.</p>
+					<p>Obsidian’s color is generally black, but can vary according to the composition of the stone's impurities: from very dark to light greens or reddish, and can be veined with white, black, and red.</p>
+					<p>Dark shades offer a tremendous richness in any space, often providing it with elegance and sophistication. The accents with these chromatic ranges are a hit in the decoration process of a house, and can always be used to generate contrasts.</p>
 				</div>
 			</div>
-
 			<div class="col-md-12">
-					<img class="lazy" alt="inspiracion-color-obsidiana-home-up" data-src="/img/color/inspiracion/interiorismo-color-negro1.jpg">			
+					<img class="lazy" alt="inspiracion-color-obsidiana-home-up" data-src="../../../img/color/inspiracion/interiorismo-color-negro1.jpg">			
 			</div>
 			<div class="col-md-12">
-					<img class="lazy" alt="inspiracion-color-obsidiana-home-up" data-src="/img/color/inspiracion/interiorismo-color-negro2.jpg">			
+					<img class="lazy" alt="inspiracion-color-obsidiana-home-up" data-src="../../../img/color/inspiracion/interiorismo-color-negro2.jpg">			
 			</div>
 			<div class="col-md-4">
 					<img class="lazy" alt="inspiracion-color-obsidiana-home-up" data-src="https://cdn2.hubspot.net/hubfs/2379052/color-paletas/obsidiana/negro1-comedor-cava.jpg?width=1680&name=negro1-comedor-cava.jpg">			
@@ -70,12 +69,12 @@ include('../../global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('../../global/ventajas.php');?>
-<?php include('../../global/counter.php');?>
-<?php include('../../global/cta-visita.php');?>	
+<?php include('../../../global/ventajas-en.php');?>
+<?php include('../../../global/counter-en.php');?>
+<?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../global/footer.php');
+include('../../../global/footer-en.php');
 ?>	
 
     
