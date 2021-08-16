@@ -17,7 +17,7 @@ include('global/header.php');
 		</div>
   </div>
  </section>  
-<section id="servicios-top" style="">
+<!-- <section id="servicios-top" style="">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
@@ -27,7 +27,7 @@ include('global/header.php');
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <section id="premio-lux-cta">
 	<div class="container">
 		<div class="row">
@@ -48,7 +48,7 @@ include('global/header.php');
 		</div>
 	</div>
 </section>
-<section id="premio-lux-cta">
+<!-- <section id="premio-lux-cta">
 	<div class="container">
 		<div class="row">
 		  <div class="left-text">
@@ -90,7 +90,7 @@ include('global/header.php');
 		  </div>
 		</div>
 	</div>
-</section>
+</section> -->
 <style>
 
 #premio-lux-cta{
