@@ -28,7 +28,7 @@ include('global/header.php');
 		</div>
 	</div>
 </section> -->
-<section id="premio-lux-cta">
+<!-- <section id="premio-lux-cta">
 	<div class="container">
 		<div class="row">
 		  <div class="left-text">
@@ -47,7 +47,7 @@ include('global/header.php');
 		  </div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!-- <section id="premio-lux-cta">
 	<div class="container">
 		<div class="row">
