@@ -1,10 +1,10 @@
 <?php 
-$title="Paletas de color: Bambú";
-$desc = "Paletas de color: Bambú";
-$key = "Paletas de color";
+$title="Interior design color palettes: Bamboo";
+$desc = "Interior design color palettes: Bamboo";
+$key = "Interior design color palettes";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-bambu";
-include('../../global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/color/palettes/color-palettes-bamboo";
+include('../../../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('../../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Paletas de color: Bambú</h1>
+				<h1>INTERIOR DESIGN COLOR PALETTES: Bamboo</h1>
 			</div>
 		</div>
 	</div>
@@ -23,8 +23,8 @@ include('../../global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Hacer una paleta de color es una de las importantes tareas que un diseñador tiene al momento de decorar un espacio. Hay que elegir muy bien los materiales, las texturas y, por supuesto, los colores que harán que cada espacio cobre vida propia.</p>
-					<p>El bambú es un elemento de la naturaleza que ha jugado un papel importante en diferentes culturas durante muchos años. Se ha utilizado para la construcción y ha transformado miles de hogares y la vida de millones de personas en el mundo. La nobleza de este elemento en combinación con la madera, los textiles más los accesorios decorativos hacen de esta paleta una combinación llena de armonía y felicidad.</p>
+					<p>One of the important tasks a designer has when decorating a space is the creation of a color palette. It is necessary to carefully choose the materials, textures and, of course, the colors that will make each space take on a life of its own.</p>
+					<p>Bamboo is an element of nature that has played an important role in different cultures for many years. It has been used for construction and has transformed thousands of homes and the lives of millions of people around the world. The nobility of this element in combination with wood, textiles plus decorative accessories make this palette a combination full of harmony and happiness.</p>
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -90,12 +90,12 @@ include('../../global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('../../global/ventajas.php');?>
-<?php include('../../global/counter.php');?>
-<?php include('../../global/cta-visita.php');?>	
+<?php include('../../../global/ventajas-en.php');?>
+<?php include('../../../global/counter-en.php');?>
+<?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../global/footer.php');
+include('../../../global/footer-en.php');
 ?>	
 
     

@@ -1,10 +1,10 @@
 <?php 
-$title="Paletas de color: Pirul";
-$desc = "Paletas de color: Pirul";
-$key = "Paletas de color";
+$title="Interior design color palettes: Pirul";
+$desc = "Interior design color palettes: Pirul";
+$key = "Interior design color palettes";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-pirul";
-include('../../global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/color/palettes/color-palettes-pirul";
+include('../../../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('../../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Paletas de color: Pirul</h1>
+				<h1>INTERIOR DESIGN COLOR PALETTES: Pirul</h1>
 			</div>
 		</div>
 	</div>
@@ -23,8 +23,8 @@ include('../../global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>En cada proyecto y para cada ambiente diseñado por nosotros, existe detrás una paleta de color que se planea y se combina previamente para lograr balance y armonía al momento de decorar el espacio.</p>
-					<p>La paleta de color que se diseñó para “Pirul” hace que este proyecto sea resultado de una amalgama perfecta entre elegancia y modernidad. Los tonos que van desde la madera oscura, pasando por grises y azules, hasta llegar al cian en el arte y en los accesorios decorativos, hacen de esta residencia un lugar en donde definitivamente se antoja vivir.</p>
+					<p>For every project and atmosphere designed by us, there is a color palette that is pre-planned and combined to achieve balance and harmony when decorating the space.</p>
+					<p>The color palette that was chosen for "Pirul" makes this project the result of a perfect amalgam between elegance and modernity. The tones range from dark wood, through grays and blues, to cyan in the art and decorative accessories making this residence a place where you certainly want to live.</p>
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -91,12 +91,12 @@ include('../../global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('../../global/ventajas.php');?>
-<?php include('../../global/counter.php');?>
-<?php include('../../global/cta-visita.php');?>	
+<?php include('../../../global/ventajas-en.php');?>
+<?php include('../../../global/counter-en.php');?>
+<?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../global/footer.php');
-?>	
+include('../../../global/footer-en.php');
+?>		
 
     

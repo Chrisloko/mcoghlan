@@ -1,10 +1,10 @@
 <?php 
-$title="Paletas de color: Elegante";
-$desc = "Paletas de color: Elegante";
-$key = "Paletas de color";
+$title="Interior design color palettes: Elegant";
+$desc = "Interior design color palettes: Elegant";
+$key = "Interior design color palettes";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-elegante";
-include('../../global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/color/palettes/color-palettes-elegant";
+include('../../../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('../../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Paletas de color: elegante</h1>
+				<h1>INTERIOR DESIGN COLOR PALETTES: elegant</h1>
 			</div>
 		</div>
 	</div>
@@ -23,8 +23,8 @@ include('../../global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Crear una paleta de color es una de las tareas determinantes al momento de diseñar una casa, el color es uno de los ingredientes indispensables para crear un lenguaje en el diseño</p>
-					<p>Entendiendo la ¨elegancia¨ como el atributo de ser excepcionalmente sencillo y bello, desarrollamos el concepto de este proyecto. A partir de estas ideas se eligió la paleta cromática.</p>
+					<p>Creating a color palette is one of the most important tasks when designing a house, color is one of the indispensable ingredients to create a design language.</p>
+					<p>We developed the concept of this project by understanding ¨elegance¨ as the attribute of being exceptionally simple and beautiful.  The chromatic palette was chosen based on the aforementioned premise.</p>
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -90,12 +90,12 @@ include('../../global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('../../global/ventajas.php');?>
-<?php include('../../global/counter.php');?>
-<?php include('../../global/cta-visita.php');?>	
+<?php include('../../../global/ventajas-en.php');?>
+<?php include('../../../global/counter-en.php');?>
+<?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../global/footer.php');
+include('../../../global/footer-en.php');
 ?>	
 
     

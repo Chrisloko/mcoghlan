@@ -22,7 +22,7 @@ include('global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h2>Déjanos tus datos para explicarte cómo te podemos apoyar en un proyecto.</h2>
+					<h2>Déjanos tus datos para explicarte cómo te podemos apoyar en un proyecto</h2>
 				</div>
 			</div>
 		</div>

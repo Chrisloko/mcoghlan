@@ -1,10 +1,10 @@
 <?php 
-$title="Paletas de color: palmera";
-$desc = "Paletas de color: palmera";
-$key = "Paletas de color";
+$title="Interior design color palettes: Palm tree";
+$desc = "Interior design color palettes: Palm tree";
+$key = "Interior design color palettes";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-palmera";
-include('../../global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/color/palettes/color-palettes-brick";
+include('../../../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('../../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Paletas de color: palmera</h1>
+				<h1>INTERIOR DESIGN COLOR PALETTES: palmera</h1>
 			</div>
 		</div>
 	</div>
@@ -23,8 +23,8 @@ include('../../global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Realizar una paleta de color en un proyecto de interiorismo es proponer un conjunto de colores que armonizan o contrastan para crear equilibrio y balance en el espacio.</p>
-					<p>Tomando como punto de partida la “palmera”, en esta paleta buscamos crear un ambiente tropical, fresco y relajado, para generar sentimientos de placer y bienestar, por esto empleamos tonalidades neutras, azuladas y dimos unos pocos acentos contrastantes.</p>
+					<p>To create a color palette in an interior design project is to propose a set of colors that harmonize or contrast to create balance and equilibrium within the space.</p>
+					<p>Taking the "palm tree" as a starting point, we sought to create a palette with a tropical, fresh, and relaxed atmosphere in order to generate feelings of pleasure and wellbeing. For this reason, we used neutral, blue tones and gave a few contrasting accents.</p>
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -91,12 +91,12 @@ include('../../global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('../../global/ventajas.php');?>
-<?php include('../../global/counter.php');?>
-<?php include('../../global/cta-visita.php');?>	
+<?php include('../../../global/ventajas-en.php');?>
+<?php include('../../../global/counter-en.php');?>
+<?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../global/footer.php');
+include('../../../global/footer-en.php');
 ?>	
 
     

@@ -1,10 +1,10 @@
 <?php 
-$title="Paletas de color: alegría";
-$desc = "Paletas de color: alegría";
-$key = "Paletas de color";
+$title="Interior design color palettes: joy";
+$desc = "Interior design color palettes: joy";
+$key = "Interior design color palettes";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-alegria";
-include('../../global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/color/palettes/color-palettes-joy";
+include('../../../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('../../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Paletas de color: alegría</h1>
+				<h1>INTERIOR DESIGN COLOR PALETTES: JOY</h1>
 			</div>
 		</div>
 	</div>
@@ -23,8 +23,8 @@ include('../../global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Realizar una paleta de color en un proyecto de diseño interior es proponer un conjunto de colores que armonizan o contrastan sin estridencias y que crean una unidad decorativa en el espacio.</p>
-					<p>Tomando como punto de partida la “alegría”, en esta paleta buscamos crear ambientes que colaboren con la generación de un buen estado de ánimo en los usuarios del espacios, originando sentimientos de placer; es por esto que empleamos colores contrastantes y brillantes.</p>
+					<p>To create a color palette in an interior design project is to propose a set of colors that harmonize or contrast without being strident and creating a decorative unity in the space.</p>
+					<p>Taking "joy" as a starting point, in this palette we seek to create environments that collaborate with the formation of a positive mood in its inhabitants, originating feelings of pleasure; this is why we use contrasting and bright colors.</p>
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -90,12 +90,12 @@ include('../../global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('../../global/ventajas.php');?>
-<?php include('../../global/counter.php');?>
-<?php include('../../global/cta-visita.php');?>	
+<?php include('../../../global/ventajas-en.php');?>
+<?php include('../../../global/counter-en.php');?>
+<?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../global/footer.php');
+include('../../../global/footer-en.php');
 ?>	
 
     

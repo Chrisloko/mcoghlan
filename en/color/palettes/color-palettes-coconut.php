@@ -1,10 +1,10 @@
 <?php 
-$title="Paletas de color: Coco";
-$desc = "Paletas de color: Coco";
-$key = "Paletas de color";
+$title="Interior design color palettes: Coconut";
+$desc = "Interior design color palettes: Coconut";
+$key = "Interior design color palettes";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-coco";
-include('../../global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/color/palettes/color-palettes-coconut";
+include('../../../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('../../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Paletas de color: Coco</h1>
+				<h1>INTERIOR DESIGN COLOR PALETTES: Coconut</h1>
 			</div>
 		</div>
 	</div>
@@ -23,8 +23,8 @@ include('../../global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Cuando creamos una paleta de color debemos ser muy selectivos en la selección de los matices y materiales para decorar cada espacio que compone al proyecto. Es una herramienta que ayuda mucho al interiorista para crear un concepto y poder mostrar a los clientes el ambiente que se pretende crear.</p>
-					<p>Esta paleta no podía llamarse de otra manera. “Coco” nos deleita por su perfecta combinación que va entre los grises, cremas, beiges, cafés, crudos, sin dejar a un lado los blancos en selecciones como el piso y las lámparas. El mobiliario, las plantas y demás accesorios que visten los espacios, hacen que la conjugación de éstos con el entorno natural sea perfecta.</p>
+					<p>Every time we create a color palette we must be very particular in the selection of shades and materials to decorate each space that makes up the project. It is a tool that helps the interior designer to create a concept and to be able to show their clients the atmosphere that is intended to be created.</p>
+					<p>This palette could not be called any other way. "Coconut" delights us with its perfect combination of grays, creams, beiges, beige, browns, ecru, without leaving aside the whites in selections such as the floor and lamps. The furniture, plants and other accessories that dress the spaces make a seamless combination with the natural environment. </p>
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -49,7 +49,7 @@ include('../../global/header.php');
 			</div>
 			<div class="col-md-4">
 				<a href="/img/color/paletas-de-color/coco/paletadecolorsobria5.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="/img/color/paletas-de-color/coco/paletadecolorsobra5th.jpg" alt="paletadecolorbeigeth1">
+				<img class="lazy" data-src="/img/color/paletas-de-color/coco/paletadecolorsobria5th.jpg" alt="paletadecolorbeigeth1">
 				</a>	
 			</div>
 			<div class="col-md-4">
@@ -120,12 +120,12 @@ include('../../global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('../../global/ventajas.php');?>
-<?php include('../../global/counter.php');?>
-<?php include('../../global/cta-visita.php');?>	
+<?php include('../../../global/ventajas-en.php');?>
+<?php include('../../../global/counter-en.php');?>
+<?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../global/footer.php');
+include('../../../global/footer-en.php');
 ?>	
 
     

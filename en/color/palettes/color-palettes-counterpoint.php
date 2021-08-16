@@ -1,10 +1,10 @@
 <?php 
-$title="Paletas de color: Contrapunto";
-$desc = "Paletas de color: Contrapunto";
-$key = "Paletas de color";
+$title="Interior design color palettes: Vounterpoint";
+$desc = "Interior design color palettes: Vounterpoint";
+$key = "Interior design color palettes";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-contrapunto";
-include('../../global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/color/palettes/color-palettes-counterpoint";
+include('../../../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('../../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Paletas de color: contrapunto</h1>
+				<h1>INTERIOR DESIGN COLOR PALETTES: Counterpoint</h1>
 			</div>
 		</div>
 	</div>
@@ -23,8 +23,8 @@ include('../../global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Crear una paleta de colores que tengan vínculos entre sí, sin rivalizar por la mirada y que creen conjuntos entrañables, es una de las tareas determinantes al momento de diseñar una casa.</p>
-					<p>Con la idea de que el “contrapunto” es el contraste que se produce entre dos cosas que suceden simultáneamente, se desarrolló el concepto de esta vivienda y a partir de este concepto se creó la paleta de color. Siempre buscando obtener un balance, equilibrio y armonía en el espacio, y poniendo mucho cuidado en cada pequeño detalle decorativo.</p>
+					<p>Creating a color palette is essential to reach a project concept, it is necessary to dedicate time and analyze the space, materials, and most importantly, the  people's taste who will inhabit the space. </p>
+					<p>Considering design's "origin", we start off with natural materials such as stone, wood, metal, seeking to go back to the basics while simultaneously taking it to a more sophisticated level. We use neutral colors with some gold accents.</p>
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -32,7 +32,6 @@ include('../../global/header.php');
 				<img class="lazy" data-src="/img/color/paletas-de-color/contrapunto/paletadecolorazul1.jpg" alt="paletadecolorbeigeth1">
 				</a>	
 			</div>
-
 			<div class="col-md-4">
 				<a href="/img/color/paletas-de-color/contrapunto/paletadecolorazulth2.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="/img/color/paletas-de-color/contrapunto/paletadecolorazul2.jpg" alt="paletadecolorbeigeth1">
@@ -91,12 +90,12 @@ include('../../global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('../../global/ventajas.php');?>
-<?php include('../../global/counter.php');?>
-<?php include('../../global/cta-visita.php');?>	
+<?php include('../../../global/ventajas-en.php');?>
+<?php include('../../../global/counter-en.php');?>
+<?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../global/footer.php');
+include('../../../global/footer-en.php');
 ?>	
 
     

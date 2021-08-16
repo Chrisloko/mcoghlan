@@ -49,7 +49,8 @@
                   <div class="social-item">
                       <a href="https://www.youtube.com/c/MARIANGELCOGHLANmx" target="_blank">
                         <span class="icon">
-                          <i class="fa fa-youtube"></i>
+                        <img src="/img/youtube.svg" alt="">
+                          <!-- <i class="fa fa-youtube"></i> -->
                         </span>
                       </a>
                     </div>
@@ -108,7 +109,7 @@
           <iframe title="Instagram Widget" id="myIframe" src="" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>          
         </div>	
         <div class="col-md-4">	
-          <h4>SUSCRÍBETE</h4>
+          <h4>SUSCRÍBETE AL BLOG</h4>
           <script type="text/javascript" src="https://form.jotform.com/jsform/211797230346052"></script>
           <!-- <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
           <script>

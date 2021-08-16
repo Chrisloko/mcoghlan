@@ -43,7 +43,7 @@ include('../../global/header-en.php');
 				</a>			
 			</div>
 			<div class="col-md-4">			
-				<a href="/en/color/palettes/color-palettes-elegance">
+				<a href="/en/color/palettes/color-palettes-elegant">
 					<img class="lazy" alt="interiorismo-color-lavanda-home-up" data-src="/img/color/paletas-de-color/boton-eleganteUP.jpg" onmouseover="this.src='/img/color/paletas-de-color/boton-eleganteOVER.jpg'" onmouseout="this.src='/img/color/paletas-de-color/boton-eleganteUP.jpg'">
 				</a>				
 			</div>
@@ -63,7 +63,7 @@ include('../../global/header-en.php');
 				</a>				
 			</div>
 			<div class="col-md-4">			
-				<a href="/en/color/palettes/color-palettes-bambu">
+				<a href="/en/color/palettes/color-palettes-bamboo">
 					<img class="lazy" alt="interiorismo-color-agave-home-up" data-src="/img/color/paletas-de-color/botonbambuUP.jpg" onmouseover="this.src='/img/color/paletas-de-color/botonbambuOVER.jpg'" onmouseout="this.src='/img/color/paletas-de-color/botonbambuUP.jpg'">
 				</a>
 			</div>

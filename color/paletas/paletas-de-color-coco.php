@@ -49,7 +49,7 @@ include('../../global/header.php');
 			</div>
 			<div class="col-md-4">
 				<a href="/img/color/paletas-de-color/coco/paletadecolorsobria5.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="/img/color/paletas-de-color/coco/paletadecolorsobra5th.jpg" alt="paletadecolorbeigeth1">
+				<img class="lazy" data-src="/img/color/paletas-de-color/coco/paletadecolorsobria5th.jpg" alt="paletadecolorbeigeth1">
 				</a>	
 			</div>
 			<div class="col-md-4">

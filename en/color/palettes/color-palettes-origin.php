@@ -1,9 +1,9 @@
 <?php 
-$title="Paletas de color: Origen";
-$desc = "Paletas de color: Origen";
-$key = "Paletas de color";
+$title="Interior design color palettes: Origen";
+$desc = "Interior design color palettes: Origen";
+$key = "INTERIOR DESIGN COLOR PALETTES";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-origen";
+$canonical = "https://www.mcoghlan.mx/en/color/palettes/color-palettes-origin";
 include('../../../global/header-en.php');
 ?>	
 
@@ -12,7 +12,7 @@ include('../../../global/header-en.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Paletas de color: Origen</h1>
+				<h1>INTERIOR DESIGN COLOR PALETTES: Origen</h1>
 			</div>
 		</div>
 	</div>
@@ -23,8 +23,8 @@ include('../../../global/header-en.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Crear una paleta de color es indispensable para llegar a un concepto en el proyecto, es necesario dedicarle tiempo y analizar el espacio, los materiales y especialmente el gusto de cada una de las personas que habitará el espacio. </p>
-					<p>Considerando el “origen” del diseño, partimos de materiales naturales como piedra, madera, metal, buscando volver a lo básico y llevándolo a un nivel más sofisticado. Utilizamos colores neutros con algunos acentos en dorado.</p>
+					<p>Creating a palette of colors that are linked to one another, without competing for the eye, and that create a pleasing ensemble, is one of the most important tasks when designing a house. </p>
+					<p>With the idea that the "counterpoint" is the contrast that occurs between two things that happen simultaneously, the concept of this house was developed and from this concept, the color palette was created. Always looking for balance, equilibrium and harmony in the space while also taking great care in every small decorative detail.</p>
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -128,7 +128,7 @@ include('../../../global/header-en.php');
 <?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../../global/footer.php');
+include('../../../global/footer-en.php');
 ?>	
 
     

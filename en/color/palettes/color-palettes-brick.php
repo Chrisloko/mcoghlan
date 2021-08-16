@@ -1,10 +1,10 @@
 <?php 
-$title="Paletas de color: Tabique";
-$desc = "Paletas de color: Tabique";
-$key = "Paletas de color";
+$title="Interior design color palettes: Brick";
+$desc = "Interior design color palettes: Brick";
+$key = "Interior design color palettes";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-tabique";
-include('../../global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/color/palettes/color-palettes-brick";
+include('../../../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('../../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Paletas de color: tabique</h1>
+				<h1>INTERIOR DESIGN COLOR PALETTES: Brick</h1>
 			</div>
 		</div>
 	</div>
@@ -23,8 +23,8 @@ include('../../global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Realizar una paleta de color es indispensable a la hora de hacer un proyecto de remodelación, se tienen que elegir colores que armonizan o contrasten entre sí creando una unidad decorativa en el espacio.</p>
-					<p>Para crear la paleta de color es necesario tener claro el concepto de diseño y a partir de ahí definir las tonalidades que se usarán en el espacio. Pensando en el ¨tabique” como punto de partida elegimos esta paleta de color.</p>
+					<p>Creating a color palette is a must when it comes to a remodeling project, choosing colors that harmonize or contrast with each other, creating a decorative unity in the space.</p>
+					<p>To create the color palette, it is necessary to be clear about the design concept and from there define the shades to be used in the space. Thinking about "bricks" as a starting point, we chose this color palette.</p>
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -91,12 +91,12 @@ include('../../global/header.php');
 			
 	</div>
 </section>
-<?php include('../../global/ventajas.php');?>
-<?php include('../../global/counter.php');?>
-<?php include('../../global/cta-visita.php');?>	
+<?php include('../../../global/ventajas-en.php');?>
+<?php include('../../../global/counter-en.php');?>
+<?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../global/footer.php');
+include('../../../global/footer-en.php');
 ?>	
 
     
