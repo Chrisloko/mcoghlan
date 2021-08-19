@@ -187,3 +187,134 @@ include('global/footer-prev.php');
 ?>	
 
     
+<?php do_action('gridlove_before_end_content'); ?>
+
+<?php $page_options = gridlove_blank_page_options(); ?>
+
+<?php if ( $page_options['footer'] ) : ?>
+	
+	<?php get_template_part('template-parts/ads/above-footer'); ?>
+
+	<div id="footer" class="gridlove-footer">
+
+		<?php if( gridlove_get_option('footer_widgets') ): ?>
+
+				<div class="container">
+					<div class="row">
+						<?php 
+							$layout = explode( "_", gridlove_get_option('footer_layout') );
+							$columns = $layout[0];
+							$col_lg = $layout[1];
+							$col_md = $columns > 1 ? 6 : 12;
+
+
+						?>
+						<div class="col-md-6" style="display: flex; flex-wrap: wrap">
+							<div class="pad-logo-f">
+							  <a href="index">
+											<img class="foot-logo" src="/img/logomariangelcoghlan-38.png" style="" alt="">
+							  </a>
+							</div>
+              		  </div>
+					  <div class="col-md-6" style="">
+						<div class="social">
+						  <div class="social-item">
+							  <a href="https://www.facebook.com/InteriorismoMariangelCoghlan" target="_blank">
+								<span class="icon">
+								  <i class="fa fa-facebook"></i>
+								</span>
+							  </a>
+						  </div>
+						  <div class="social-item">
+							  <a href="https://www.instagram.com/mcoghlan.mx/" target="_blank">
+								<span class="icon">
+								  <i class="fa fa-instagram"></i>
+								</span>
+							  </a>
+							</div>
+						  <div class="social-item">
+							  <a href="https://es.pinterest.com/coghlanm/" target="_blank">
+								<span class="icon">
+								  <i class="fa fa-pinterest"></i>
+								</span>
+							  </a>
+							</div>
+							<div class="social-item">
+							  <a href="https://www.linkedin.com/company/firma-de-interiorismo-mariangel-coghlan" target="_blank">
+								<span class="icon">
+								  <i class="fa fa-linkedin"></i>
+								</span>
+							  </a>
+							</div>
+							<div class="social-item">
+							  <a href="https://www.houzz.es/pro/mariangelcoghlan/mariangel-coghlan?irs=US" target="_blank">
+								<span class="icon">
+								  <img src="/img/houzz.png" alt="">
+								</span>
+							  </a>
+						  </div>
+						  <div class="social-item">
+							  <a href="https://www.youtube.com/c/MARIANGELCOGHLANmx" target="_blank">
+								<span class="icon">
+								  <img src="/img/youtube.svg" alt="">
+								</span>
+							  </a>
+							</div>
+						  <div class="social-item">
+							  <a href="https://hub.eonetwork.org/" target="_blank">
+								<span class="icon">
+								<img src="/img/logo-ec.png" alt="">
+								</span>
+							  </a>
+						  </div>
+						  <div class="social-item">
+							  <a href="https://twitter.com/CoghlanM" target="_blank">
+								<span class="icon">
+								  <i class="fa fa-twitter"></i>
+								</span>
+							  </a>
+						  </div>
+						</div>
+					  </div>
+
+						<?php for($i = 1; $i <= $columns; $i++) : ?>
+							<div class="col-lg-<?php echo esc_attr($col_lg); ?> col-md-<?php echo esc_attr($col_md); ?> col-sm-12">
+								<?php if( is_active_sidebar( 'gridlove_footer_sidebar_'.$i ) ) : ?>
+									<?php dynamic_sidebar( 'gridlove_footer_sidebar_'.$i );?>
+								<?php endif; ?>
+							</div>
+						<?php endfor; ?>
+
+					</div>
+				</div>
+
+		<?php endif; ?>
+
+		<?php if( gridlove_get_option('footer_bottom') ): ?>
+
+				<div class="gridlove-copyright">
+					<div class="container">
+						<?php echo wp_kses_post( str_replace('{current_year}', date('Y'), gridlove_get_option('footer_copyright') ) ); ?>
+					</div>
+				</div>
+
+		<?php endif; ?>
+
+	</div>
+
+<?php endif; ?>
+
+<?php if( gridlove_get_option('back_to_top') ): ?>
+	<button class="gridlove-button back-to-top"><i class="fa fa-chevron-up"></i></button>
+<?php endif; ?>
+
+<?php get_template_part('template-parts/header/side'); ?>
+
+<?php wp_footer(); ?>
+</body>
+
+</html>
+
+
+
+<!-- col contact old -->

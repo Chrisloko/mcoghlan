@@ -2737,8 +2737,8 @@ a:hover{
 
   /* CTA galeria */
 
-#cta-galeria {
-    background-image: url('../img/cta-galeria.jpg');
+  #cta-galeria {
+    background-image: url('../img/cta-galeria-2021.jpg');
     background-size: cover;
     padding: 60px 0;
     background-size: cover;
@@ -3902,6 +3902,7 @@ padding: 60px 0;
 }
 .social-item-new {
     margin-bottom: 15px;
+    /* background-color: #878786; */
 }
 .social-item-new:last-child {
     margin-right: 25px;

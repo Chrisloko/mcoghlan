@@ -1,114 +1,88 @@
-  <div id="footer-wrap" class="is-clearfix" style="">
-        <footer id="footer" class="site-footer">
-          <div id="footer-inner" class="site-footer-inner container">
-            <div class="row">
-              <div class="col-md-6" style="display: flex; flex-wrap: wrap">
-                    <div class="pad-logo-f">
-                      <a href="/index">
-						            <img class="foot-logo" src="/img/logomariangelcoghlan-38.png" style="" alt="">
-                      </a>
-                    </div>
+<div id="footer-wrap" class="is-clearfix" style="">
+    <footer id="footer" class="site-footer">
+      <div id="footer-inner" class="site-footer-inner container">
+        <div id="new" class="row">
+          <div class="col-md-12" style="display: flex; flex-wrap: wrap">
+                <div class="pad-logo-f">
+                  <a href="/index">
+                    <img class="foot-logo" src="/img/logomariangelcoghlan-38.png" style="" alt="">
+                  </a>
                 </div>
-              <div class="col-md-6" style="">
-                <div class="social">
-                  <div class="social-item">
-                      <a href="https://www.facebook.com/InteriorismoMariangelCoghlan" target="_blank">
-                        <span class="icon">
-                          <i class="fa fa-facebook"></i>
-                        </span>
-                      </a>
-                  </div>
-                  <div class="social-item">
-                      <a href="https://www.instagram.com/mcoghlan.mx/" target="_blank">
-                        <span class="icon">
-                          <i class="fa fa-instagram"></i>
-                        </span>
-                      </a>
-                    </div>
-                  <div class="social-item">
-                      <a href="https://es.pinterest.com/coghlanm/" target="_blank">
-                        <span class="icon">
-                          <i class="fa fa-pinterest"></i>
-                        </span>
-                      </a>
-                    </div>
-                    <div class="social-item">
-                      <a href="https://www.linkedin.com/company/firma-de-interiorismo-mariangel-coghlan" target="_blank">
-                        <span class="icon">
-                          <i class="fa fa-linkedin"></i>
-                        </span>
-                      </a>
-                    </div>
-                    <div class="social-item">
-                      <a href="https://www.houzz.es/pro/mariangelcoghlan/mariangel-coghlan?irs=US" target="_blank">
-                        <span class="icon">
-                          <img src="/img/houzz.png" alt="">
-                        </span>
-                      </a>
-                  </div>
-                  <div class="social-item">
-                      <a href="https://www.youtube.com/c/MARIANGELCOGHLANmx" target="_blank">
-                        <span class="icon">
-                        <img src="/img/youtube.svg" alt="">
-                          <!-- <i class="fa fa-youtube"></i> -->
-                        </span>
-                      </a>
-                    </div>
-                  <div class="social-item">
-                      <a href="https://hub.eonetwork.org/" target="_blank">
-                        <span class="icon">
-                        <img src="/img/logo-ec.png" alt="">
-                        </span>
-                      </a>
-                  </div>
-                  <div class="social-item">
-                      <a href="https://twitter.com/CoghlanM" target="_blank">
-                        <span class="icon">
-                          <i class="fa fa-twitter"></i>
-                        </span>
-                      </a>
-                  </div>
-                </div>
-              </div>
             </div>
-
+      </div>
       <div class="row pt-40">
-        <div class="col-sm-2">
-          <div class="menu-footer" style="display: inline-block">
-            <h4>CONTACTO</h4>
-            <ul>
-              <li>
-                <a href="https://g.page/InteriorismoMariangelCoghlan?share" target="_blank" rel="noopener">AV. REVOLUCIÓN 1495<br>SAN ÁNGEL, CDMX.</a>
-              </li>
-              <li>
-                <a href="tel:+5556619385" onclick="sendEvent('Contact')">(55) 5661 9385</a>
-              </li>
-              <li>
-                <a href="tel:+5556629789" onclick="sendEvent('Contact')">(55) 5662 9789</a>
-              </li>
-              <li>
-                <a href="mailto:info@mcoghlan.mx" onclick="sendEvent('Contact')">info@mcoghlan.mx</a>
-              </li>
-            </ul>
+        <div class="col-sm-4 cols-pre-sub">
+          <div class="cols-sub">
+            <div class="sub-col" style="display: inline-block">
+                <h4>CONTACTO</h4>
+                <ul>
+                  <li>
+                    <a href="https://g.page/InteriorismoMariangelCoghlan?share" target="_blank" rel="noopener">Av. Revolución 1495<br>San Ángel, CDMX</a>
+                  </li>
+                  <li>
+                    <a href="tel:+5567833642" onclick="sendEvent('Contact')">(55) 6783 3642</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="sub-col" style="display: inline-block">
+                <h4>SERVICIOS</h4>
+                <ul role="menu" class="hs-menu-children-wrapper">
+                <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/diseno-de-interiores-casas" role="menuitem">Interiorismo Residencial</a></li>
+                  <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/diseno-de-interiores-comercial" role="menuitem">Interiorismo Comercial</a></li>
+                  <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/proyecto-de-remodelacion" role="menuitem">Proyecto de Remodelación</a></li>
+                  <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/diseno-arquitectonico" role="menuitem">Diseño Arquitectònico</a></li>
+                </ul>
+              </div>
           </div>
-        </div>
-        <div class="col-sm-2">
-          <div class="menu-footer" style="display: inline-block">
-            <h4>SERVICIOS</h4>
-            <ul role="menu" class="hs-menu-children-wrapper">
-            <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/diseno-de-interiores-casas" role="menuitem">Interiorismo Residencial</a></li>
-              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/diseno-de-interiores-comercial" role="menuitem">Interiorismo Comercial</a></li>
-              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/proyecto-de-remodelacion" role="menuitem">Proyecto de Remodelación</a></li>
-              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="/diseno-arquitectonico" role="menuitem">Diseño Arquitectònico</a></li>
-            </ul>
-          </div>
+            
+          <div class="social">
+            <div class="social-item-new">
+                <a href="https://www.instagram.com/mcoghlan.mx/" target="_blank">
+                  <span class="icon">
+                    <img src="/img/instagram.svg">
+                    <!-- <i class="fa fa-instagram"></i> -->
+                  </span>
+                </a>
+              </div>
+            <div class="social-item-new">
+                <a href="https://www.facebook.com/InteriorismoMariangelCoghlan" target="_blank">
+                  <span class="icon">
+                    <img src="/img/facebook.svg">
+                    <!-- <i class="fa fa-facebook"></i> -->
+                  </span>
+                </a>
+            </div>
+              <div class="social-item-new">
+                  <a href="https://www.youtube.com/c/MARIANGELCOGHLANmx" target="_blank">
+                    <span class="icon">
+                      <img src="/img/youtube-dg.svg">
+                      <!-- <i class="fa fa-youtube"></i> -->
+                    </span>
+                  </a>
+              </div>
+            <div class="social-item-new">
+                <a href="https://es.pinterest.com/coghlanm/" target="_blank">
+                  <span class="icon">
+                    <!-- <i class="fa fa-pinterest"></i> -->
+                    <img src="/img/pinterest.svg">
+                  </span>
+                </a>
+            </div>
+            <div class="social-item-new">
+                <a href="https://wa.me/5215567833642" target="_blank">
+                  <span class="icon">
+                    <img src="/img/whatsapp.svg">
+                  </span>
+                </a>
+            </div>
+          </div>        
         </div>
         <div class="col-md-4">      	
           <h4>INSTAGRAM</h4>
           <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
           <iframe title="Instagram Widget" id="myIframe" src="" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>          
         </div>	
-        <div class="col-md-4">	
+        <div class="col-md-4 mt-15-mov">	
           <h4>SUSCRÍBETE AL BLOG</h4>
           <script type="text/javascript" src="https://form.jotform.com/jsform/211797230346052"></script>
           <!-- <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
@@ -120,15 +94,12 @@
           });
           </script>		 -->
         </div>
-                  <!-- .tagcloud -->
-                
-            
-              <!-- .column -->
-            </div>
+
+       </div>
             <!-- .columns -->
-          </div>
+     </div>
           <!-- #footer-inner -->
-        </footer>
+    </footer>
         <!-- #footer -->
       
       <!-- #footer-bottom-wrap -->
