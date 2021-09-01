@@ -31,7 +31,7 @@ include('../global/header-en.php');
 			<div class="col-md-4">
   
   			  	<a href="/en/gallery/living-room-interior-design">
-					<img class="lazy" alt="salas" data-src="../img/galeria/boton-salasUP.jpg" onmouseover="this.src='../img/galeria/boton-salasOVER.jpg'" onmouseout="this.src='../img/galeria/boton-salasUP.jpg'">
+					<img class="lazy" alt="salas" data-src="../img/galeria/boton-salas-ingles.jpg" onmouseover="this.src='../img/galeria/boton-salasOVER-ingles.jpg'" onmouseout="this.src='../img/galeria/boton-salas-ingles.jpg'">
 				</a>
 				
 			</div>
@@ -45,7 +45,7 @@ include('../global/header-en.php');
 			<div class="col-md-4">
 			
 				<a href="/en/gallery/dining-room-interior-design">
-					<img class="lazy" alt="comedores" data-src="../img/galeria/boton-comedoresUP.jpg" onmouseover="this.src='../img/galeria/boton-comedoresOVER.jpg'" onmouseout="this.src='../img/galeria/boton-comedoresUP.jpg'">
+					<img class="lazy" alt="comedores" data-src="../img/galeria/boton-comedores-ingles.jpg" onmouseover="this.src='../img/galeria/boton-comedores-hover-ingles.jpg'" onmouseout="this.src='../img/galeria/boton-comedores-ingles.jpg'">
 				</a>
 				
 			</div>
@@ -58,17 +58,17 @@ include('../global/header-en.php');
 			</div>
 			<div class="col-md-4">		
 				<a href="/en/gallery/bathroom-interior-design">
-					<img class="lazy" alt="baños" data-src="../img/galeria/boton-banosUP.jpg" onmouseover="this.src='../img/galeria/boton-banosOVER.jpg'" onmouseout="this.src='../img/galeria/boton-banosUP.jpg'">
+					<img class="lazy" alt="baños" data-src="../img/galeria/boton-banos-ingles.jpg" onmouseover="this.src='../img/galeria/boton-banos-hover-ingles.jpg'" onmouseout="this.src='../img/galeria/boton-banos-ingles.jpg'">
 				</a>				
 			</div>
 			<div class="col-md-4">			
 				<a href="/en/gallery/terrace-interior-design">
-					<img class="lazy" alt="terrazas" data-src="../img/galeria/boton-terrazasUP.jpg" onmouseover="this.src='../img/galeria/boton-terrazasOVER.jpg'" onmouseout="this.src='../img/galeria/boton-terrazasUP.jpg'">
+					<img class="lazy" alt="terrazas" data-src="../img/galeria/boton-terrazas-ingles.jpg" onmouseover="this.src='../img/galeria/boton-terrazas-hover-ingles.jpg'" onmouseout="this.src='../img/galeria/boton-terrazas-ingles.jpg'">
 				</a>			
 			</div>
 			<div class="col-md-4">			
 				<a href="/en/gallery/breakfast-room-interior-design">
-					<img class="lazy" alt="desayunadores" data-src="../img/galeria/boton-desayunadoresUP.jpg" onmouseover="this.src='../img/galeria/boton-desayunadoresOVER.jpg'" onmouseout="this.src='../img/galeria/boton-desayunadoresUP.jpg'">
+					<img class="lazy" alt="desayunadores" data-src="../img/galeria/boton-desayunadores-ingles.jpg" onmouseover="this.src='../img/galeria/boton-desayunadores-hover-ingles.jpg'" onmouseout="this.src='../img/galeria/boton-desayunadores-ingles.jpg'">
 				</a>				
 			</div>
 			<div class="col-md-4">			
@@ -84,17 +84,17 @@ include('../global/header-en.php');
 			<div class="col-md-4">
 			
 				<a href="/en/gallery/bar-interior-design">
-					<img class="lazy" alt="boton-baresUP" data-src="../img/galeria/boton-baresUP.jpg" onmouseover="this.src='../img/galeria/boton-baresOVER-1.jpg'" onmouseout="this.src='../img/galeria/boton-baresUP.jpg'">
+					<img class="lazy" alt="boton-baresUP" data-src="../img/galeria/boton-bares-ingles.jpg" onmouseover="this.src='../img/galeria/boton-bares-hover-ingles.jpg'" onmouseout="this.src='../img/galeria/boton-bares-ingles.jpg'">
 				</a>				
 			</div>
 			<div class="col-md-4">			
 				<a href="/en/gallery/foyer-interior-design">
-					<img class="lazy" alt="vestibulos" data-src="../img/galeria/boton-vestibulosUPjpg.jpg" onmouseover="this.src='../img/galeria/boton-vestibulosOVER.jpg'" onmouseout="this.src='../img/galeria/boton-vestibulosUPjpg.jpg'">
+					<img class="lazy" alt="vestibulos" data-src="../img/galeria/boton-vestibulos-ingles.jpg" onmouseover="this.src='../img/galeria/boton-vestibulos-hover-ingles.jpg'" onmouseout="this.src='../img/galeria/boton-vestibulos-ingles.jpg'">
 				</a>			
 			</div>
 			<div class="col-md-4">			
 				<a href="/en/gallery/dress-room-interior-design">
-					<img class="lazy" alt="vestidores" data-src="../img/galeria/boton-vestidoresUP.jpg" onmouseover="this.src='../img/galeria/boton-vestidoresOVER.jpg'" onmouseout="this.src='../img/galeria/boton-vestidoresUP.jpg'">
+					<img class="lazy" alt="vestidores" data-src="../img/galeria/boton-vestidores-ingles.jpg" onmouseover="this.src='../img/galeria/boton-vestidores-hover-ingles.jpg'" onmouseout="this.src='../img/galeria/boton-vestidores-ingles.jpg'">
 				</a>				
 			</div>
 			<div class="col-md-4">			
@@ -117,7 +117,7 @@ include('../global/header-en.php');
 			</div>
 			<div class="col-md-4">
 				<a href="/en/gallery/hotel-interior-design">
-					<img class="lazy" alt="hoteles" data-src="../img/galeria/hoteles-up.jpg" onmouseover="this.src='../img/galeria/hoteles-over.jpg'" onmouseout="this.src='../img/galeria/hoteles-up.jpg'">	
+					<img class="lazy" alt="hoteles" data-src="../img/galeria/hoteles-ingles.jpg" onmouseover="this.src='../img/galeria/boton-hoteles-hover.jpg'" onmouseout="this.src='../img/galeria/hoteles-ingles.jpg'">	
 				</a>
 				
 			</div>

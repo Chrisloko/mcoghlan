@@ -4,7 +4,7 @@ $desc = "Frequently asked questions";
 $key = "Interior design";
 $page = 'nosotros';
 $canonical = "https://www.mcoghlan.mx/conocenos";
-include('../global/header.php');
+include('../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->

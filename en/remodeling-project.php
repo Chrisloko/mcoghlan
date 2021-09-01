@@ -27,7 +27,7 @@ include('../global/header-en.php');
 					<p>In order to begin with the process, it is necessary to arrange a visit that costs starting at $10,000.00 MXN, depending on the location and complexity of the project. This amount includes the design and presentation of an interior design proposal.</p>
 					<h5>The process for this service consists of the following steps:</h5>
 				</div>
-				<img src="/img/servicios/infograma-proyecto-remodelacion-1.jpg" alt="Infograma proyecto remodelacion">
+				<img src="/img/servicios/infograma_remodeling_project.jpg" alt="Infograma proyecto remodelacion">
 			</div>
 		</div>
 	</div>

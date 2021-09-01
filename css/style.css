@@ -546,6 +546,8 @@ a:hover{
     flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 40px;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 #firma-index img {
     display: block;
@@ -1952,7 +1954,7 @@ a:hover{
     margin-bottom:15px;
   }
   #faq-module.en h3{
-    font-size: 34px;
+    font-size: 31px;
   }
   #faq-module h4 {
     font-weight: 700;
@@ -2145,7 +2147,7 @@ a:hover{
   .faq-container button{
     text-transform: uppercase;
   }
-  @media(min-width: 1920px) {
+  @media(min-width: 2520px) {
      #faq-module .accordion .card-body .item-content .img-paso {
      flex: 0 0 50%;
      max-width:50%;

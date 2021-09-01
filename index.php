@@ -90,12 +90,26 @@ include('global/header.php');
 
 				</div>
 				<div class="cont-awards">
-					<a href="https://luxurylifestyleawards.com/winners/search?q=Firma+de+dise%C3%B1o+MARIANGEL+COGHLAN" target="_blank">
-						<img class="luxury-awards" src="/img/luxury-awards-347x121.jpg" alt="Luxury Lifestyle Awards">
-					</a>
-					<a href="https://www.entrepreneursherald.com/blog/top-20-interior-designers-to-look-out-for-in-2021" target="_blank">
-						<img class="luxury-awards" src="/img/mencion-home-top-342x121.jpg" alt="Entrepenuer's Herald Award">
-					</a>
+					<div class="col-md-3">
+						<a href="https://es.upscalelivingmag.com/sumergete-en-el-tesoro-natural-de-mexico-a-traves-de-una-disenadora-galardonada/" target="_blank">
+							<img class="luxury-awards" src="/img/boton-unadisenadoragalardonada.jpg" alt="Upscale Living">
+						</a>
+					</div>
+					<div class="col-md-3">
+						<a href="https://theluxurylifestylemagazine.com/immerse-yourself-in-mexicos-natural-treasure-with-an-award-winning-designer/" target="_blank">
+							<img class="luxury-awards" src="/img/boton-anawardwinning.jpg" alt="Luxury Lifestyle Magazine">
+						</a>
+					</div>
+					<div class="col-md-3">
+						<a href="https://luxurylifestyleawards.com/winners/search?q=Firma+de+dise%C3%B1o+MARIANGEL+COGHLAN" target="_blank">
+							<img class="luxury-awards" src="/img/luxury-awards-347x121.jpg" alt="Luxury Lifestyle Awards">
+						</a>
+					</div>
+					<div class="col-md-3">
+						<a href="https://www.entrepreneursherald.com/blog/top-20-interior-designers-to-look-out-for-in-2021" target="_blank">
+							<img class="luxury-awards" src="/img/mencion-home-top-342x121.jpg" alt="Entrepenuer's Herald Award">
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>

@@ -318,3 +318,35 @@ include('global/footer-prev.php');
 
 
 <!-- col contact old -->
+
+<div class="row">
+<div class="col-sm-6">
+          <div class="menu-footer" style="display: inline-block">
+            <h4>CONTACTO</h4>
+            <ul>
+              <li>
+                <a href="https://g.page/InteriorismoMariangelCoghlan?share" target="_blank" rel="noopener">AV. REVOLUCIÓN 1495<br>SAN ÁNGEL, CDMX.</a>
+              </li>
+              <li>
+                <a href="tel:+5556619385" onclick="sendEvent('Contact')">(55) 5661 9385</a>
+              </li>
+              <li>
+                <a href="tel:+5556629789" onclick="sendEvent('Contact')">(55) 5662 9789</a>
+              </li>
+              <li>
+                <a href="mailto:info@previo.mcoghlan.mx" onclick="sendEvent('Contact')">info@previo.mcoghlan.mx</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="menu-footer" style="display: inline-block">
+            <h4>SERVICIOS</h4>
+            <ul role="menu" class="hs-menu-children-wrapper">
+              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.mcoghlan.mx/mc/interiorismo-comercial" role="menuitem">Interiorismo Comercial</a></li>
+              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.mcoghlan.mx/mc/remodelacion" role="menuitem">Proyecto de Remodelación</a></li>
+              <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.mcoghlan.mx/mc/diseno-arquitectonico" role="menuitem">Diseño Arquitectònico</a></li>
+            </ul>
+          </div>
+        </div>
+</div>

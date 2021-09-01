@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es-mx" class="no-js no-svg">
+<html lang="en-us" class="no-js no-svg">
 <head>
     <!-- Google Tag Manager -->
 	

@@ -64,7 +64,7 @@ include('../global/header-en.php');
                       </div>
                       <div class="item-3">
                         <h3>
-                         Proyect
+                        Project
                         </h3> 
                         <div class="item-content">
                           <img data-src="/img/servicios/ir-2proyecto.jpg" class="img-paso lazy" alt="ir-2Proyect">
@@ -188,7 +188,7 @@ include('../global/header-en.php');
                       </div>
                       <div class="item-3">
                         <h3>
-                         Proyect
+                        Project
                         </h3> 
                         <div class="item-content">
                           <img data-src="/img/servicios/ic-2proyecto.jpg" class="img-paso lazy" alt="ic-2Proyect">
@@ -254,6 +254,17 @@ include('../global/header-en.php');
                           </p>
                         </div>                    
                       </div> 
+                      <div class="item-3">
+                        <h3>
+                        Guarantee
+                        </h3> 
+                        <div class="item-content">
+                          <img data-src="/img/servicios/ir-9garantia.jpg" class="img-paso lazy" alt="ir-9garantia">
+                           <p>
+                           In the event of any defect being present upon delivery, we pledge to correct it until everything is to your satisfaction.
+                          </p>
+                        </div>                    
+                      </div>
                        <div class="col-12">
                           <div class="btn-cont">
                             <a class="btn-acc" href="https://www.mcoghlan.mx/en/commercial-interior-design">Learn more<img class="arrow-hero" src="/img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>
@@ -289,7 +300,7 @@ include('../global/header-en.php');
                       </div>
                       <div class="item-3">
                         <h3>
-                        Proyect
+                        Project
                         </h3> 
                         <div class="item-content">
                           <img data-src="/img/servicios/pr-2proyecto.jpg" class="img-paso lazy" alt="pr-2Proyect">
@@ -305,7 +316,7 @@ include('../global/header-en.php');
                         <div class="item-content">
                           <img data-src="/img/servicios/pr-3presentacion.jpg" class="img-paso lazy" alt="pr-3presentacion">
                            <p>
-                             Te mostramos el Proyect con un presupuesto, lo analizamos y realizamos los cambios que sugieras.
+                           We will present to you the project and its budget. Together we’ll analyze it, and make any changes you may suggest. 
                           </p>
                         </div>                    
                       </div>
@@ -317,18 +328,18 @@ include('../global/header-en.php');
                         <div class="item-content">
                           <img data-src="/img/servicios/pr-4aprobacion.jpg" class="img-paso lazy" alt="pr-4aprobacion">
                            <p>
-                             Se firma un contrato que incluye alcances, ejecución, Supervision, tiempos, pedidos y especificaciones técnicas del Proyect.
+                           A contract is signed, it includes the scopes, execution, supervision, timing, orders, and the technical specifications of the project.
                           </p>
                         </div>                    
                       </div>
                       <div class="item-3">
                         <h3>
-                         Obra y producción
+                        Production
                         </h3> 
                         <div class="item-content">
                           <img data-src="/img/servicios/pr-5obrayproduccion.jpeg" class="img-paso lazy" alt="pr-5obrayproduccion">
                            <p>
-                             Se ejecuta la construcción, las adecuaciones necesarias al espacio y la producción de cada pieza.
+                           The construction is started along with the necessary adaptations to the space and the production of each piece.
                           </p>
                         </div>                    
                       </div>
@@ -362,7 +373,7 @@ include('../global/header-en.php');
                         <div class="item-content">
                           <img data-src="/img/servicios/pr-8garantia.jpg" class="img-paso lazy" alt="pr-8garantia">
                            <p>
-                             Si existe algún desperfecto a la entrega nos comprometemos a corregir hasta que todo sea de tu agrado.
+                            In the event of any defect being present upon delivery, we pledge to correct it until everything is to your satisfaction.
                           </p>
                         </div>                    
                       </div>
@@ -401,7 +412,7 @@ include('../global/header-en.php');
                       </div>
                       <div class="item-3">
                         <h3>
-                         Proyect
+                        Project
                         </h3> 
                         <div class="item-content">
                           <img data-src="/img/servicios/pa-2proyecto.jpg" class="img-paso lazy" alt="pa-2Proyect">
@@ -479,17 +490,7 @@ include('../global/header-en.php');
                           </p>
                         </div>                    
                       </div>
-                      <div class="item-3">
-                        <h3>
-                         
-                        </h3> 
-                        <div class="item-content">
-                          <img data-src="" class="img-paso lazy" alt="">
-                           <p>
-                             
-                          </p>
-                        </div>                    
-                      </div>
+                      
                        <div class="col-12">
                           <div class="btn-cont">
                             <a class="btn-acc" href="https://www.mcoghlan.mx/en/architectural-design">Learn more<img class="arrow-hero" src="/img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>

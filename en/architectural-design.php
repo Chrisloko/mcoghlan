@@ -26,7 +26,7 @@ include('../global/header-en.php');
 					<p>In order to begin with the process, it is necessary to arrange a visit that costs starting at $10,000.00 MXN, depending on the location and complexity of the project. This amount includes the elaboration of a working diagram, an estimated budget of the whole project as well as a calendar with the deadlines.</p>
 					<h5>The process for this service consists of the following steps:</h5>
 				</div>
-				<img src="/img/servicios/infograma-diseno-arquitectonico-1.jpg" alt="Infograma diseño arquitectónico">
+				<img src="/img/servicios/infograma_architectural_design.jpg" alt="Infograma diseño arquitectónico">
 			</div>
 		</div>
 	</div>

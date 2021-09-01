@@ -1,7 +1,7 @@
 <?php 
-$title="Mariangel Coghlan | Firma mexicana de diseño de Interiores ";
-$desc = "Firma mexicana de diseño especializada en la transformación de espacios. Amplia experiencia en diseño arquitectónico, diseño de interiores y decoración.";
-$key = "diseño de interiores";
+$title="Mariangel Coghlan Interior Design Firm";
+$desc = "Mariangel Coghlan is a full-service design firm specialized in transforming spaces. Extensive experience in architectural design, interior design, and decoration.";
+$key = "Interior Design Firm";
 $page = 'home';
 $canonical = "";
 include('../global/header-en.php');
@@ -90,6 +90,9 @@ include('../global/header-en.php');
 
 				</div>
 				<div class="cont-awards">
+					<a href="https://theluxurylifestylemagazine.com/immerse-yourself-in-mexicos-natural-treasure-with-an-award-winning-designer/" target="_blank">
+						<img class="luxury-awards" src="/img/boton-anawardwinning.jpg" alt="Luxury Lifestyle Magazine">
+					</a>
 					<a href="https://luxurylifestyleawards.com/winners/search?q=Firma+de+dise%C3%B1o+MARIANGEL+COGHLAN" target="_blank">
 						<img class="luxury-awards" src="/img/luxury-awards-347x121.jpg" alt="Luxury Lifestyle Awards">
 					</a>

@@ -1,10 +1,10 @@
 <?php 
-$title="Tendencias de color: Vegetal";
-$desc = "Tendencias de color: Vegetal";
+$title="Color tendencies: Vegetable green";
+$desc = "Color tendencies: Vegetable green";
 $key = "Paletas de color";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/tendencias/tendencias-de-colores-vegetal";
-include('../../global/header.php');
+$canonical = "https://www.mcoghlan.mx/en/color/tendencies/color-tendencies-vegtable-green";
+include('../../../global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->
@@ -12,7 +12,7 @@ include('../../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Tendencias de color: Vegetal</h1>
+				<h1>Color tendencies: Vegetable green</h1>
 			</div>
 		</div>
 	</div>
@@ -23,9 +23,9 @@ include('../../global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>En Comex todos los años se presentan diversas propuestas decorativas con relación a un color predominante y junto a un panel de diseñadores, creativos y expertos, se opta por la tendencia en color del año. Para este 2020 Comex nos presenta Vegetal 294-05.</p>
-					<p>En el centro del espectro de colores, el verde es el color que actúa como alivio contra la contaminación visual y nos da un punto focal para desconectarnos del exterior y encontrarnos con nosotros mismos. Los matices azulados de este verde se relacionan con la planta del agave, magueyes y cactáceas. Este color nos remite a la naturaleza en su estado más puro y nos transmite añoranza por lo verde extinto.</p>
-					<p>El cambio en la percepción de lo que sería un color neutro, se ve reflejado en el tono gris de Vegetal, que simboliza la nostalgia por la naturaleza. El color Vegetal armoniza con los acabados de concreto y enriquece la sensación de bienestar en los ambientes construidos.</p>
+					<p>Comex presents several decorative proposals every year, in relation to a predominant color. Together with a panel of designers, creatives, and experts, they choose the color trend of the year. For 2020, Comex introduces Vegetal 294-05.</p>
+					<p>Located in the center of the color spectrum, green is the color that acts as a relief against visual pollution and gives us a focal point to disconnect from the outside and find ourselves. The bluish hues of this green are related to the agave plant, magueys and cacti. This color reminds us of nature in its purest state and transmits longing for the extinct green.</p>
+					<p>The change in the perception of what would be a neutral color is reflected in the gray tone of Vegetal, which symbolizes nostalgia for nature. The Vegetal color harmonizes with concrete finishes and enriches the feeling of well-being in built environments.</p>
 				</div>
 			</div>
 			<div class="col-md-12">
@@ -91,12 +91,12 @@ include('../../global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('../../global/ventajas.php');?>
-<?php include('../../global/counter.php');?>
-<?php include('../../global/cta-visita.php');?>	
+<?php include('../../../global/ventajas-en.php');?>
+<?php include('../../../global/counter-en.php');?>
+<?php include('../../../global/cta-visita-en.php');?>	
 <?php // include('../../global/tips-blog.php');?>		
 <?php 
-include('../../global/footer.php');
+include('../../../global/footer-en.php');
 ?>	
 
     

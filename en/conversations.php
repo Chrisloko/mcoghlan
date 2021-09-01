@@ -4,7 +4,7 @@ $desc = "Diseñadora optimista e incansable empresaria apasionada del color y la
 $key = "diseño de interiores";
 $page = 'nosotros';
 $canonical = "https://www.mcoghlan.mx/conocenos";
-include('global/header.php');
+include('global/header-en.php');
 ?>	
 
       <!-- #header-wrap -->

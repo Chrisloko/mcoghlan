@@ -12,7 +12,7 @@ include('../../global/header-en.php');
 	<div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h1>Tendencia de colores para interiores 2021</h1>
+				<h1>Interior design color tendencies for 2021</h1>
 			</div>
 		</div>
 	</div>
@@ -33,7 +33,7 @@ include('../../global/header-en.php');
 				</a>				
 			</div>
 			<div class="col-md-4">		
-				<a href="/en/color/tendencies/color-tendencies-vegtable.php">
+				<a href="/en/color/tendencies/color-tendencies-vegtable-green.php">
 					<img class="lazy" alt="" data-src="/img/color/tendencias/boton-vegetal-up.jpg" onmouseover="this.src='/img/color/tendencias/boton-vegetal-hover.jpg'" onmouseout="this.src='/img/color/tendencias/boton-vegetal-up.jpg'">
 				</a>				
 			</div>

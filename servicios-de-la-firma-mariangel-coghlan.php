@@ -254,6 +254,17 @@ include('global/header.php');
                           </p>
                         </div>                    
                       </div> 
+                      <div class="item-3">
+                        <h3>
+                         Garantía
+                        </h3> 
+                        <div class="item-content">
+                          <img data-src="img/servicios/ir-9garantia.jpg" class="img-paso lazy" alt="ir-9garantia">
+                           <p>
+                             Si existe algún desperfecto a la entrega nos comprometemos a corregir hasta que todo sea de tu agrado.
+                          </p>
+                        </div>                    
+                      </div>
                        <div class="col-12">
                           <div class="btn-cont">
                             <a class="btn-acc" href="/diseno-de-interiores-comercial">Conoce más<img class="arrow-hero" src="img/servicios/icon-arrow-white.svg" alt="flecha botón"></a>
