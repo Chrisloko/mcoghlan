@@ -77,7 +77,7 @@ include('global/header.php');
 			<div class="col-md-8">
 				<h3>Mariangel Coghlan</h3>
 				<p>Arquitecta, fundadora de la firma de diseño <b> MARIANGEL COGHLAN</b>. Con más de 25 años de experiencia se ha convertido en un referente del interiorismo Mexicano. Mariangel, madre de cuatro hijos y esposa de un gran artista, es una empresaria incansable y optimista apasionada del color y la belleza. Constantemente se involucra en iniciativas que le permitan difundir el valor del diseño como instrumento de cambio positivo en nuestra sociedad.</p>
-				<p><a href="https://www.mcoghlan.mx/hubfs/CV-MARIANGELCOGHLAN.pdf" target="_blank">DESCARGA SU CV</a></p>
+				<p><a href="/pdf/CV-MARIANGELCOGHLAN.pdf" target="_blank">DESCARGA SU CV</a></p>
 				<div class="datos-mc">
 					<a href="mailto:mariangel@mcoghlan.mx"><img class="" src="img/mail-3.jpg" alt="Mail"> </a>
 					<a href="https://www.instagram.com/mariangelcoghlan/?hl=es-la"><img src="img/ig.jpg" alt="Mail"> </a>
@@ -271,10 +271,10 @@ include('global/header.php');
 				<h4>Nuestra Firma trabaja diariamente para ser la mejor, por lo mismo solamente contratamos a los mejores. Tú puedes formar parte de este increíble equipo.</h4>
 				<p>Vacantes</p>
 				<ul>
-					<li><a href="https://www.mcoghlan.mx/hubfs/lider-de-proyecto-vacante-mariangelcoghlan.pdf" target="_blank">Líder de Proyecto</a></li>
-					<li><a href="https://www.mcoghlan.mx/hubfs/disenador-jr.pdf" target="_blank">Diseñador Jr.</a></li>
-					<li><a href="https://www.mcoghlan.mx/hubfs/practicas-vacante-mariangelcoghlan.pdf" target="_blank">Prácticas profesionales</a></li>
-					<li><a href="https://www.mcoghlan.mx/hubfs/AUXILIAR%20ADMINISTRATIVO.pdf" target="_blank">Auxiliar Administrativo</a></li>
+					<li><a href="/pdf/lider-de-proyecto-vacante-mariangelcoghlan.pdf" target="_blank">Líder de Proyecto</a></li>
+					<li><a href="/pdf/disenador-jr.pdf" target="_blank">Diseñador Jr.</a></li>
+					<li><a href="/pdf/practicas-vacante-mariangelcoghlan.pdf" target="_blank">Prácticas profesionales</a></li>
+					<li><a href="/pdf/AUXILIAR ADMINISTRATIVO.pdf" target="_blank">Auxiliar Administrativo</a></li>
 				</ul>
 			</div>
 			<div class="col-md-6">

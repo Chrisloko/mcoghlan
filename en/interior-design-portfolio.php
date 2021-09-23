@@ -30,6 +30,27 @@ include('../global/header-en.php');
 				</div>
 			</div>
 			<div class="item-3">
+				<a href="/en/projects/interior-design-portfolio-nubes">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/nubes.jpg" onmouseover="this.src='/img/proyectos/nubes-hover.jpg'" onmouseout="this.src='/img/proyectos/nubes.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/en/projects/interior-design-portfolio-avenue">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/avenue.jpg" onmouseover="this.src='/img/proyectos/avenue-hover.jpg'" onmouseout="this.src='/img/proyectos/avenue.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/en/projects/interior-design-portfolio-origen">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/origen.jpg" onmouseover="this.src='/img/proyectos/origen-hover.jpg'" onmouseout="this.src='/img/proyectos/origen.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="/en/projects/interior-design-monterrey">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/fresno.jpg" onmouseover="this.src='/img/proyectos/fresno-hover.jpg'" onmouseout="this.src='/img/proyectos/fresno.jpg'">

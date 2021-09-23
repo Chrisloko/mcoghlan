@@ -30,6 +30,27 @@ include('global/header.php');
 				</div>
 			</div>
 			<div class="item-3">
+				<a href="/proyectos/portafolio-nubes">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/nubes.jpg" onmouseover="this.src='img/proyectos/nubes-hover.jpg'" onmouseout="this.src='img/proyectos/nubes.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/proyectos/portafolio-avenue">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/avenue.jpg" onmouseover="this.src='img/proyectos/avenue-hover.jpg'" onmouseout="this.src='img/proyectos/avenue.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/proyectos/portafolio-origen">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/origen.jpg" onmouseover="this.src='img/proyectos/origen-hover.jpg'" onmouseout="this.src='img/proyectos/origen.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="/proyectos/diseno-de-interiores-monterrey">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/fresno.jpg" onmouseover="this.src='img/proyectos/fresno-hover.jpg'" onmouseout="this.src='img/proyectos/fresno.jpg'">
@@ -81,6 +102,27 @@ include('global/header.php');
 				</div>
 			</div>
 			<div class="item-3">
+				<a href="/proyectos/portafolio-diseno-san-juan.php">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/sanjuanUP.jpg" onmouseover="this.src='img/proyectos/sanjuanOVER.jpg'" onmouseout="this.src='img/proyectos/sanjuanUP.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/proyectos/portafolio-diseno-monterrey.php">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/monterreyUP.jpg" onmouseover="this.src='img/proyectos/monterreyOVER.jpg'" onmouseout="this.src='img/proyectos/monterreyUP.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/proyectos/portafolio-diseno-fresnos.php">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/fresnosUP.jpg" onmouseover="this.src='img/proyectos/fresnosOVER.jpg'" onmouseout="this.src='img/proyectos/fresnosUP.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="/proyectos/remodelacion-de-casa-en-campo">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="olivo" data-src="img/proyectos/olivo-up.jpg" onmouseover="this.src='img/proyectos/olivo-hover.jpg'" onmouseout="this.src='img/proyectos/olivo-up.jpg'">
@@ -130,6 +172,27 @@ include('global/header.php');
 					<h2>Playa</h2>
 					<p>Las casas de playa se han convertido, para muchos, en el lugar ideal para poder disfrutar de vacaciones y días libres. Sin duda son un entorno único donde se puede contemplar desde la ventana o desde la arena de la playa, de una magnífica puesta del sol. En la firma nos consideramos muy afortunados de poder intervenir en este tipo de proyectos que nos dan la oportunidad de cumplir los sueños de nuestros clientes en un ambiente de paz y tranquilidad.</p>
 				</div>
+			</div>
+			<div class="item-3">
+				<a href="/proyectos/portafolio-diseno-balano">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="acapulco" data-src="img/proyectos/balano.jpg" onmouseover="this.src='img/proyectos/balano-hover.jpg'" onmouseout="this.src='img/proyectos/balano.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/proyectos/diseno-de-interiores-puerto-cancun">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="ixtapa" data-src="img/proyectos/coco.jpg" onmouseover="this.src='img/proyectos/coco-hover.jpg'" onmouseout="this.src='img/proyectos/coco.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/proyectos/diseno-de-interiores-sonora">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="boton-casas-de-playa-caracol-up" data-src="img/proyectos/guaymas.jpg" onmouseover="this.src='img/proyectos/guaymas-hover.jpg'" onmouseout="this.src='img/proyectos/guaymas.jpg'">
+				</div>
+				</a>	
 			</div>
 			<div class="item-3">
 				<a href="/proyectos/diseno-de-interiores-acapulco">

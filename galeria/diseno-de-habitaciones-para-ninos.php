@@ -32,8 +32,24 @@ include('../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
+				<a href="../img/galeria/ninos/origen-12.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/ninos/origen-ch-12.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/ninos/origen-13.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/ninos/origen-ch-13.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/ceiba/" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-34.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<!-- older projects -->
+			<div class="col-md-4">
   
-			<a href="../img/galeria/ninos/1-recamaraninoslitera.jpg" data-lightbox="acacias">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-34.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="../img/galeria/ninos/1-recamaraninoslitera-th.jpg" alt="1-recamaraninoslitera-th">
 			</a>
 

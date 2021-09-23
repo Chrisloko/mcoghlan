@@ -3,7 +3,7 @@ $title="Contacto Mariangel Coghlan";
 $desc = "Contáctanos, te ayudamos a diseñar tu casa, departamento, oficina, restaurante o hotel y que así sea única y exclusiva.";
 $key = "diseño de interiores";
 $page = 'contacto';
-$canonical = "https://www.mcoghlan.mx/contacto";
+$canonical = "https://www.mcoghlan.mx/contacto-mariangel-coghlan";
 include('global/header.php');
 ?>	
 
@@ -44,7 +44,7 @@ include('global/header.php');
 				</div>
 				<div class="item-lg">
 					<a href="mailto:info@mcoghlan.mx">info@mcoghlan.mx</a>
-					<a href="www.mcoghlan.mx">www.mcoghlan.mx</a>
+					<a href="https://www.mcoghlan.mx">www.mcoghlan.mx</a>
 				</div>
 			</div>
 			<div class="col-12">

@@ -31,6 +31,128 @@ include('../global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
+
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/guaymas-2.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/guaymas-ch-2.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/guaymas-3.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/guaymas-ch-3.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/guaymas-7.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/guaymas-ch-7.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/guaymas-13.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/guaymas-ch-13.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/guaymas-14.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/guaymas-ch-14.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/guaymas-15.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/guaymas-ch-15.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/avenue-3.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/avenue-ch-3.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/avenue-8.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/avenue-ch-8.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/fresnos-6.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/fresnos-ch-6.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/nubes-5.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/nubes-ch-5.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/coco-7.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/coco-ch-7.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/coco-8.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/coco-ch-8.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/nubes-8.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/nubes-ch-8.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/origen-11.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/origen-ch-11.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/origen-10.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/origen-ch-10.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/fresnos-5.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/fresnos-ch-5.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/fresnos-4.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/fresnos-ch-4.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/monterrey-9.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/monterrey-ch-9.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/monterrey-4.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/monterrey-ch-4.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/monterrey-5.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/monterrey-ch-5.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/monterrey-7.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/monterrey-ch-7.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/origen-2.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/origen-ch-2.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/origen-3.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/origen-ch-3.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/salas/origen-4.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/salas/origen-ch-4.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+		<!-- older projects -->
 			<div class="col-md-4">
   
 			<a href="../img/galeria/salas/salamoderna1.jpg" data-lightbox="acacias">

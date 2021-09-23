@@ -1043,7 +1043,33 @@ a:hover{
     .hero-e-palmas {
         background-image: url('../img/proyectos/head-proyectos-nueva.jpg');
     }
-
+    .hero-avenue {
+        background-image: url('../img/proyectos/avenue/avenue-head.jpg');
+    }
+    .hero-nubes {
+        background-image: url('../img/proyectos/nubes/nubes-head.jpg');
+    }
+    .hero-origen {
+        background-image: url('../img/proyectos/origen/origen-head.jpg');
+    }
+    .hero-fresnos {
+        background-image: url('../img/proyectos/fresnos/headerfresnos.jpg');
+    }
+    .hero-monterrey {
+        background-image: url('../img/proyectos/monterrey/headermonterrey.jpg');
+    }
+    .hero-san-juan {
+        background-image: url('../img/proyectos/san-juan/headersanjuan.jpg');
+    }
+    .hero-balano {
+        background-image: url('../img/proyectos/balano/headerbalano.jpg');
+    }
+    .hero-coco-p {
+        background-image: url('../img/proyectos/coco/headercoco.jpg');
+    }
+    .hero-guaymas {
+        background-image: url('../img/proyectos/guaymas/headerguaymas.jpg');
+    }
     /* lp */
     .hero-cuanto {
         background-image: url('../img/cuanto-dinero-necesitas-para-decorar-tu-casa.jpg');

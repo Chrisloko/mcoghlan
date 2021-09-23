@@ -32,337 +32,393 @@ include('../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/guaymas-1.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/guaymas-ch-1.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/avenue-2.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/avenue-ch-2.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/nubes-10.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/nubes-ch-10.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/nubes-1.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/nubes-ch-1.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/origen-1.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/origen-ch-1.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/monterrey-1.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/monterrey-ch-1.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/monterrey-8.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/monterrey-ch-8.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/san-juan-2.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/san-juan-ch-2.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/san-juan-1.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/san-juan-ch-1.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/balano-2.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/balano-ch-2.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/balano-1.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/balano-ch-1.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+		<!-- older projects -->
+			<div class="col-md-4">
   
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/banos2020-02/vestibulos2020/1-vestibulocasadeplaya.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/banos2020-02/vestibulos2020/1-vestibulocasadeplaya-th.jpg" alt="1-vestibulocasadeplaya-th">
+			<a href="../img/galeria/vestibulos/1-vestibulocasadeplaya.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/1-vestibulocasadeplaya-th.jpg" alt="1-vestibulocasadeplaya-th">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/banos2020-02/vestibulos2020/2-vestibulomesaconespejo.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/banos2020-02/vestibulos2020/2-vestibulomesaconespejo-th.jpg" alt="2-vestibulomesaconespejo-th">
+			<a href="../img/galeria/vestibulos/2-vestibulomesaconespejo.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/2-vestibulomesaconespejo-th.jpg" alt="2-vestibulomesaconespejo-th">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/banos2020-02/vestibulos2020/3-vestibuloclosetdeblancos.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/banos2020-02/vestibulos2020/3-vestibuloclosetdeblancos-th.jpg" alt="3-vestibuloclosetdeblancos-th">
+			<a href="../img/galeria/vestibulos/3-vestibuloclosetdeblancos.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/3-vestibuloclosetdeblancos-th.jpg" alt="3-vestibuloclosetdeblancos-th">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-25-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-25-1.jpg" alt="ceiba-350x350-25-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-25-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-25-1.jpg" alt="ceiba-350x350-25-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-26-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-26-1.jpg" alt="ceiba-350x350-26-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-26-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-26-1.jpg" alt="ceiba-350x350-26-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-20-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-20-1.jpg" alt="ceiba-350x350-20-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-20-2.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-20-1.jpg" alt="ceiba-350x350-20-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/pirul-1000-06-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/pirul-350-06-1.jpg" alt="pirul-350-06-1">
+			<a href="../img/proyectos/pirul/pirul-1000-06-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/pirul/pirul-350-06-1.jpg" alt="pirul-350-06-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/cedro-1000-12-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-12-1.jpg" alt="cedro-350-12-1">
+			<a href="../img/proyectos/cedro/cedro-1000-12-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/cedro/cedro-350-12-1.jpg" alt="cedro-350-12-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-13-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-13-1.jpg" alt="cedro-350-13-1">
+			<a href="../img/proyectos/cedro/cedro-350-13-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/cedro/cedro-350-13-1.jpg" alt="cedro-350-13-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos1%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos1.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos1%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos1.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos2%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos2.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos2%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos2.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos3%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos3.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos3%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos3.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos4%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos4.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos4%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos4.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos5%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos5.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos5%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos5.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos6%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos6.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos6%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos6.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos7%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos7.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos7%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos7.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos1%20(1)-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos1-7.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos1%20(1)-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos1-7.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos8%20(1)-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos8-1.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos8%20(1)-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos8-1.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos9%20(1)-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos9-1.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos9%20(1)-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos9-1.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos10%20(1)-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos10-1.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos10%20(1)-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos10-1.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos11%20(1)-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos11-1.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos11%20(1)-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos11-1.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos12%20(1)-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos12-1.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos12%20(1)-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos12-1.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos13%20(1)-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos13-1.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos13%20(1)-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos13-1.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos14%20(1)-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos14-1.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos14%20(1)-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos14-1.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos15%20(1)-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos15-1.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos15%20(1)-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos15-1.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos28%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos16-1.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos28%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos16-1.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos16%20(1)-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos17.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos16%20(1)-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos17.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos17%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos18.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos17%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos18.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos29%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos19.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos29%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos19.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos30%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos20.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos30%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos20.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos18%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos21.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos18%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos21.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos19%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos22.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos19%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos22.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos20%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos23.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos20%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos23.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos21%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos24.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos21%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos24.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos22%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos25.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos22%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos25.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos26.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos26%20(1).jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos26.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos26%20(1).jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos32%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos27.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos32%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos27.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos23%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos28.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos23%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos28.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos24%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos29.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos24%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos29.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos25%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos30.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos25%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos30.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos26%20(2).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos31.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos26%20(2).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos31.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos27%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/vestibulos32.jpg" alt="VESTÍBULOS">
+			<a href="../img/galeria/vestibulos/vestibulos27%20(1).jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos32.jpg" alt="VESTÍBULOS">
 			</a>
 
 			</div>

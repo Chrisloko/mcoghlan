@@ -32,6 +32,37 @@ include('../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
+				<a href="../img/galeria/desayunadores/monterrey-2.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/desayunadores/monterrey-ch-2.jpg" alt="1-desyunadorblancoconjardin-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/desayunadores/monterrey-3.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/desayunadores/monterrey-ch-3.jpg" alt="1-desyunadorblancoconjardin-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/desayunadores/fresnos-3.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/desayunadores/fresnos-ch-3.jpg" alt="1-desyunadorblancoconjardin-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/desayunadores/fresnos-10.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/desayunadores/fresnos-ch-10.jpg" alt="1-desyunadorblancoconjardin-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/ceiba/ceiba-1000x650-67.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-67.jpg" alt="1-desyunadorblancoconjardin-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/ceiba/ceiba-1000x650-68.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-68.jpg" alt="1-desyunadorblancoconjardin-th">
+				</a>
+			</div>
+<!-- older projects -->
+			<div class="col-md-4">
   
 			<a href="../img/galeria/desayunadores/1-desyunadorblancoconjardin.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="../img/galeria/desayunadores/1-desyunadorblancoconjardin-th.jpg" alt="1-desyunadorblancoconjardin-th">

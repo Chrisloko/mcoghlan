@@ -32,6 +32,67 @@ include('../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/guaymas-10.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/guaymas-ch-10.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/guaymas-11.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/guaymas-ch-11.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/guaymas-12.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/guaymas-ch-12.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/san-juan-10.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/san-juan-ch-10.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/san-juan-11.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/san-juan-ch-11.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/san-juan-12.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/san-juan-ch-12.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/balano-7.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/balano-ch-7.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/balano-8.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/balano-ch-8.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/balano-9.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/balano-ch-9.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/avenue-7.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/avenue-ch-7.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/nubes-9.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/nubes-ch-9.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/cocinas/origen-9.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/cocinas/origen-ch-9.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<!-- older projects -->
+			<div class="col-md-4">
 
 			<a href="../img/galeria/cocinas/1-cocinaelegante.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="../img/galeria/cocinas/1-cocinaelegante-th.jpg" alt="1-cocinaelegante-th">

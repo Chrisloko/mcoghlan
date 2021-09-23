@@ -31,6 +31,84 @@ include('../global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
+
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/guaymas-5.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/guaymas-ch-5.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/guaymas-6.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/guaymas-ch-6.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/origen-5.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/origen-ch-5.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/avenue-4.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/avenue-ch-4.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/avenue-5.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/avenue-ch-5.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/avenue-6.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/avenue-ch-6.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/san-juan-7.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/san-juan-ch-7.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/san-juan-8.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/san-juan-ch-8.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/san-juan-9.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/san-juan-ch-9.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/fresnos-7.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/fresnos-ch-7.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/fresnos-8.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/fresnos-ch-8.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/fresnos-9.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/fresnos-ch-9.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/nubes-3.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/nubes-ch-3.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/nubes-4.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/nubes-ch-4.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/comedores/monterrey-6.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/comedores/monterrey-ch-6.jpg" alt="Diseño de interiores: comedores">
+				</a>
+			</div>
+
+		<!-- old projects -->
 			<div class="col-md-4">
   
 			<a href="../img/galeria/comedores/1-comedordeplaya.jpg" data-lightbox="acacias">
@@ -425,136 +503,136 @@ include('../global/header.php');
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/cedro-1000-02-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-02-1.jpg" alt="cedro-350-02-1">
+			<a href="../img/proyectos/cedro/cedro-1000-02-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/cedro/cedro-350-02-1.jpg" alt="cedro-350-02-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/cedro-1000-01-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-01-1.jpg" alt="cedro-350-01-1">
+			<a href="../img/proyectos/cedro/cedro-1000-01-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/cedro/cedro-350-01-1.jpg" alt="cedro-350-01-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/pirul-1000-08-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/pirul-350-08-1.jpg" alt="pirul-350-08-1">
+			<a href="../img/proyectos/pirul/pirul-1000-08-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/pirul/pirul-350-08-1.jpg" alt="pirul-350-08-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/pirul-1000-07-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/pirul-350-07-1.jpg" alt="pirul-350-07-1">
+			<a href="../img/proyectos/pirul/pirul-1000-07-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/pirul/pirul-350-07-1.jpg" alt="pirul-350-07-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-79-3.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-79-3.jpg" alt="ceiba-350x350-79-3">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-79-3.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-79-3.jpg" alt="ceiba-350x350-79-3">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-75-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-75-2.jpg" alt="ceiba-350x350-75-2">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-75-2.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-75-2.jpg" alt="ceiba-350x350-75-2">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-17-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-17-2.jpg" alt="ceiba-350x350-17-2">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-17-2.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-17-2.jpg" alt="ceiba-350x350-17-2">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-18-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-18-2.jpg" alt="ceiba-350x350-18-2">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-18-2.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-18-2.jpg" alt="ceiba-350x350-18-2">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-06-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-06-2.jpg" alt="ceiba-350x350-06-2">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-06-2.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-06-2.jpg" alt="ceiba-350x350-06-2">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-04-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-04-1.jpg" alt="ceiba-350x350-04-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-04-2.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-04-1.jpg" alt="ceiba-350x350-04-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-19-2.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-19-2.jpg" alt="ceiba-350x350-19-2">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-19-2.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-19-2.jpg" alt="ceiba-350x350-19-2">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-01-1000x650-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-01-350x350-1.jpg" alt="ceiba-01-350x350-1">
+			<a href="../img/proyectos/ceiba/ceiba-01-1000x650-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-01-350x350-1.jpg" alt="ceiba-01-350x350-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-03-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-03-1.jpg" alt="ceiba-350x350-03-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-03-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-03-1.jpg" alt="ceiba-350x350-03-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-02-1000x650-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-02-350x350-1.jpg" alt="ceiba-02-350x350-1">
+			<a href="../img/proyectos/ceiba/ceiba-02-1000x650-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-02-350x350-1.jpg" alt="ceiba-02-350x350-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-67-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-67-1.jpg" alt="ceiba-350x350-67-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-67-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-67-1.jpg" alt="ceiba-350x350-67-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-68-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-68-1.jpg" alt="ceiba-350x350-68-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-68-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-68-1.jpg" alt="ceiba-350x350-68-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-66-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-66-1.jpg" alt="ceiba-350x350-66-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-66-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-66-1.jpg" alt="ceiba-350x350-66-1">
 			</a>
 
 			</div>

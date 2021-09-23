@@ -32,6 +32,38 @@ include('../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
+				<a href="../img/galeria/banos/origen-20.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/origen-ch-20.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/san-juan-27.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/san-juan-ch-27.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/san-juan-18.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/san-juan-ch-18.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/balano-3.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/balano-ch-3.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/san-juan-3.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/san-juan-ch-3.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/avenue-9.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/avenue-ch-9.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+
+			<!-- older projects -->
+			<div class="col-md-4">
   
 			<a href="../img/galeria/banos/1-decoraciontocador.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="../img/galeria/banos/1-decoraciontocador-th.jpg" alt="1-decoraciontocador-th">
@@ -201,168 +233,168 @@ include('../global/header.php');
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-40-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-40-1.jpg" alt="ceiba-350x350-40-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-40-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-40-1.jpg" alt="ceiba-350x350-40-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-41-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-41-1.jpg" alt="ceiba-350x350-41-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-41-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-41-1.jpg" alt="ceiba-350x350-41-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-42-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-42-1.jpg" alt="ceiba-350x350-42-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-42-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-42-1.jpg" alt="ceiba-350x350-42-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-40-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-43-1.jpg" alt="ceiba-350x350-43-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-40-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-43-1.jpg" alt="ceiba-350x350-43-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-44-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-44-1.jpg" alt="ceiba-350x350-44-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-44-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-44-1.jpg" alt="ceiba-350x350-44-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-63-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-63-1.jpg" alt="ceiba-350x350-63-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-63-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-63-1.jpg" alt="ceiba-350x350-63-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/cedro-1000-14-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-14-1.jpg" alt="cedro-350-14-1">
+			<a href="../img/proyectos/cedro/cedro-1000-14-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/cedro/cedro-350-14-1.jpg" alt="cedro-350-14-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/pirul-1000-21-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/pirul-350-21-1.jpg" alt="pirul-350-21-1">
+			<a href="../img/proyectos/pirul/pirul-1000-21-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/pirul/pirul-350-21-1.jpg" alt="pirul-350-21-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/ceiba-1000x650-64-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/ceiba-350x350-64-1.jpg" alt="ceiba-350x350-64-1">
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-64-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-64-1.jpg" alt="ceiba-350x350-64-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/cedro-1000-15-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/cedro-350-15-1.jpg" alt="cedro-350-15-1">
+			<a href="../img/proyectos/cedro/cedro-1000-15-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/cedro/cedro-350-15-1.jpg" alt="cedro-350-15-1">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/proyectos-ciudad-fresno-1000x650px-22.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/proyectos-fresno-350x350px-22.jpg" alt="proyectos-fresno-350x350px-22">
+			<a href="../img/galeria/banos/proyectos-ciudad-fresno-1000x650px-22.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/proyectos-fresno-350x350px-22.jpg" alt="proyectos-fresno-350x350px-22">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos1-g.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos1-ch.jpg" alt="banos">
+			<a href="../img/galeria/banos/banos1-g.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/banos1-ch.jpg" alt="banos">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos2-g.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos2-ch.jpg" alt="banos">
+			<a href="../img/galeria/banos/banos2-g.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/banos2-ch.jpg" alt="banos">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos3-g.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos3-ch.jpg" alt="banos">
+			<a href="../img/galeria/banos/banos3-g.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/banos3-ch.jpg" alt="banos">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos4-g.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos4-ch.jpg" alt="banos">
+			<a href="../img/galeria/banos/banos4-g.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/banos4-ch.jpg" alt="banos">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos5-g.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos5-ch.jpg" alt="banos">
+			<a href="../img/galeria/banos/banos5-g.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/banos5-ch.jpg" alt="banos">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos6-g.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos6-ch.jpg" alt="banos">
+			<a href="../img/galeria/banos/banos6-g.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/banos6-ch.jpg" alt="banos">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos7-g.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos7-ch.jpg" alt="banos">
+			<a href="../img/galeria/banos/banos7-g.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/banos7-ch.jpg" alt="banos">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos8-g.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos8-ch.jpg" alt="banos">
+			<a href="../img/galeria/banos/banos8-g.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/banos8-ch.jpg" alt="banos">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos9-g.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos9-ch.jpg" alt="banos">
+			<a href="../img/galeria/banos/banos9-g.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/banos9-ch.jpg" alt="banos">
 			</a>
 
 			</div>
 
 			<div class="col-md-4">
 
-			<a href="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos10-g.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="https://cdn2.hubspot.net/hubfs/2379052/MCoghlan_April2018/images/banos10-ch.jpg" alt="banos">
+			<a href="../img/galeria/banos/banos10-g.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/banos/banos10-ch.jpg" alt="banos">
 			</a>
 
 			</div>

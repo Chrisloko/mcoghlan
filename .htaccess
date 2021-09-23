@@ -13,6 +13,9 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{DOCUMENT_ROOT}/$1\.php -f [NC]
 RewriteRule ^(.+?)/?$ /$1.php [L]
 
+RewriteCond %{HTTP_HOST} ^mcoghlan\.mx$ [NC]
+RewriteRule ^(.*)$ https://www.mcoghlan.mx/$1 [R=301,L]
+
 
 Redirect 301 /mariangel-coghlan-firma-mexicana-de-dise%C3%B1o-de-interiores https://www.mcoghlan.mx/index
 Redirect 301 /mariangel-coghlan-firma-mexicana-de-diseño-de-interiores https://www.mcoghlan.mx/index
