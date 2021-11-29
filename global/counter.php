@@ -1,4 +1,4 @@
-<section id="counter" class="default-padding" style="">
+<section id="counter" class="default-padding disp-n-m" style="">
 		<div class="container">
 			<div class="row counter-row">
 				<div class="col-md-3">

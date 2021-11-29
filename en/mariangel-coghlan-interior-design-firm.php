@@ -1,6 +1,6 @@
 <?php 
 $title="Mariangel Coghlan Interior Design Firm";
-$desc = "Mariangel Coghlan is a full-service design firm specialized in transforming spaces. Extensive experience in architectural design, interior design, and decoration.";
+$desc = "Mariangel Coghlan is a full-service interior design firm specialized in transforming spaces. Extensive experience in architectural design, interior design, and decoration.";
 $key = "Interior Design Firm";
 $page = 'home';
 $canonical = "";

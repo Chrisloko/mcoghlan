@@ -139,21 +139,21 @@ include('global/header.php');
 				</div>
 				</a>	
 			</div>
-			<div class="item-3">
+			<div class="item-3 disp-n-m">
 				<a href="/diseno-interior#ebooks">
 				<div class="img-cont servicios">
 					<img class="" alt="Servicios Mariangel Coghlan" src="img/index/ebooks-home.jpg" onmouseover="this.src='img/index/ebooksHOVER-home.jpg'" onmouseout="this.src='img/index/ebooks-home.jpg'" >
 				</div>
 				</a>	
 			</div>
-			<div class="item-3">
+			<div class="item-3 disp-n-m">
 				<a href="/colores-para-interiorismo">
 				<div class="img-cont servicios">
 					<img class="" alt="Servicios Mariangel Coghlan" src="img/index/color-home.jpg" onmouseover="this.src='img/index/colorHOVER-home.jpg'" onmouseout="this.src='img/index/color-home.jpg'" >
 				</div>
 				</a>	
 			</div>
-			<div class="item-3">
+			<div class="item-3 disp-n-m">
 				<a href="/conversaciones">
 				<div class="img-cont servicios">
 					<img class="" alt="Servicios Mariangel Coghlan" src="img/index/conversando-home.jpg" onmouseover="this.src='img/index/conversandoHOVER-home.jpg'" onmouseout="this.src='img/index/conversando-home.jpg'" >

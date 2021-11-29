@@ -1,4 +1,4 @@
-<section id="ventajas" class="">
+<section id="ventajas" class="disp-n-m">
   <div class="container">
     <h2>Ventajas al contratarnos</h2>
     <div class="row">

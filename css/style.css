@@ -677,6 +677,9 @@ a:hover{
       flex:0 0 100%;
       max-width:100%;
     }
+    .disp-n-m{
+     display: none;   
+    }
   }
   @media(max-width:393px){
    #cajas-index .img-cont img{
@@ -729,6 +732,12 @@ a:hover{
     display: table;
     color: #4ad1e5;
 }
+@media(max-width:767px){
+    
+    #counter .disp-n-m{
+     display: none;   
+    }
+  }
 /* #counter .counter h2::after {
 	content: '+';
 	color:#00879B;

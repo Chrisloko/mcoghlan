@@ -198,7 +198,7 @@ include('../global/header.php');
 			<div class="col-md-4">
   
 			<a href="../img/galeria/habitaciones/1-recamarabeige.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/galeria/habitaciones/Diseño de interiores: habitaciones.jpg" alt="Diseño de interiores: habitaciones">
+				<img class="lazy" data-src="../img/galeria/habitaciones/1-recamarabeige-th.jpg" alt="Diseño de interiores: habitaciones">
 			</a>
 
 			</div>
