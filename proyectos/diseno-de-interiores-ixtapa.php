@@ -131,7 +131,7 @@ include('../global/header.php');
 		</div>
 		<div class="row">
 			<div class="col-12 ver-proyecto">
-				<a target="_blank" href="https://indd.adobe.com/view/d692a956-cefc-4647-8dd1-63bc785d7942">DESCARGAR EBOOK</a>
+				<a target="_blank" href="https://indd.adobe.com/view/d692a956-cefc-4647-8dd1-63bc785d7942">VER EL PROYECTO COMPLETO</a>
 			</div>
 		</div>
 	</div>

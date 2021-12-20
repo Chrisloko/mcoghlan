@@ -3,7 +3,7 @@ $title="Diseño de interiores en México.";
 $desc = "Encontrarás el mejor diseño de interiores de salas, comedores, estancias, cocinas, salas de tv, habitaciones, recámaras de niños, baños, vestidores y terrazas.";
 $key = "Diseño de interiores en México";
 $page = 'galeria';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://mcoghlan.mx/diseno-de-interiores-en-mexico";
 include('global/header.php');
 ?>	
 
@@ -27,6 +27,13 @@ include('global/header.php');
 					<h1>Diseño de interiores en México</h1>
 					<p>En esta sección nos complace mucho poder mostrar algunos ejemplos de lo que hacemos tan apasionadamente todos los días. Dividida en esos espacios en los que habitamos, reímos, vivimos, sentimos y nos encontramos con nosotros mismos; con esta galería te ofrecemos un recorrido por todas esas secciones que componen a muy distintos hogares de clientes felices. ¡Esperemos que la disfrutes; está hecha para ti!</p>
 				</div>
+			</div>
+			<div class="col-md-4">
+  
+  			  	<a href="/galeria/diseno-de-interiores-navidad">
+					<img class="lazy" alt="navidad" data-src="/img/galeria/boton-navidad.jpg" onmouseover="this.src='/img/galeria/boton-havidad-hover.jpg'" onmouseout="this.src='/img/galeria/boton-navidad.jpg'">
+				</a>
+				
 			</div>
 			<div class="col-md-4">
   

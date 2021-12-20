@@ -619,6 +619,7 @@ a:hover{
   }
   #cajas-index .col-md-4 img{
     max-width: 100%;
+    width: 100%;
 }
   /* #cajas-index .servicios {
     background-image: url('../img/index/servicios-home.jpg');
@@ -1144,6 +1145,9 @@ a:hover{
     .hero-accesorios {
         background-image: url('../img/galeria/accesorios/header-accesorios.jpg');
     }
+    .hero-navidad {
+        background-image: url('../img/galeria/navidad/header-navidad.jpg');
+    }
 
     /* color */
 
@@ -1204,6 +1208,7 @@ a:hover{
     .hero-lila {
         background-image: url('../img/color/inspiracion/lila/lila-header.jpg');
     }
+    
 
 /* PALETAS */
 

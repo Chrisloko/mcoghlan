@@ -131,6 +131,11 @@ include('../global/header.php');
 			
 			
 		</div>
+		<div class="row">
+			<div class="col-12 ver-proyecto">
+				<a target="_blank" href="https://indd.adobe.com/view/3c24e0d6-0531-429b-8a01-a5bb654f12a3">VER EL PROYECTO COMPLETO</a>
+			</div>
+		</div>
 	</div>
 </section>
 <?php include('../global/ventajas.php');?>
