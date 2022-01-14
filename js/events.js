@@ -16,6 +16,7 @@
 
 let dev = false;
 let contentViewSent = false;
+let test_event_code = 'TEST3385';
 
 const API_URL = 'https://api.mcoghlan.mx/event';
 
@@ -169,6 +170,10 @@ let sendEvent = function (eventName, oActionSource){
     eventBody.event = eventName;
 
     oActionSource ? eventBody.action_source = oActionSource : eventBody.action_source = 'website';
+
+    if(test_event_code){
+        eventBody.test_event_code = test_event_code;
+    }
 
     let options = {
         method: 'POST',

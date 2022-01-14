@@ -34,6 +34,81 @@ include('../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-16.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-16-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-17.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-17-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-18.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-18-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-19.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-19-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-20.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-20-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-21.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-21-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-22.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-22-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-23.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-23-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-24.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-24-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-25.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-25-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-26.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-26-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-27.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-27-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-28.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-28-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-29.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-29-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/navidad/navidad-30.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/navidad/navidad-30-ch.jpg" alt="Diseño de interiores Navidad">
+				</a>
+			</div>
+			<div class="col-md-4">
   
 			<a href="../img/galeria/navidad/navidad-1.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="../img/galeria/navidad/navidad-1-ch.jpg" alt="Diseño de interiores Navidad">

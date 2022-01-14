@@ -51,6 +51,13 @@ include('global/header.php');
 				</a>	
 			</div>
 			<div class="item-3">
+				<a href="/proyectos/diseno-de-interiores-elegante">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/elegante.jpg" onmouseover="this.src='img/proyectos/elegante-hover.jpg'" onmouseout="this.src='img/proyectos/elegante.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="/proyectos/diseno-de-interiores-monterrey">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/fresno.jpg" onmouseover="this.src='img/proyectos/fresno-hover.jpg'" onmouseout="this.src='img/proyectos/fresno.jpg'">
@@ -252,6 +259,7 @@ include('global/header.php');
 				</div>
 				</a>	
 			</div>
+			
 			<div class="item-3">
 				<a href="/proyectos/diseno-de-oficinas-cuernavaca">
 				<div class="img-cont servicios">
@@ -267,14 +275,16 @@ include('global/header.php');
 				</a>	
 			</div>
 		</div>
+		<div id="ebooks" style=""></div>
 		<div class="row">
-		<div id="ebooks"></div>
+		
 			<div class="col-sm-12">
 				<div class="cont-text">
 					<h2>Ebooks</h2>
 					<p>A lo largo de la historia, los libros han pasado de ser pergaminos manuscritos o pintados, a ser volúmenes impresos gracias a la invención de la imprenta por Johannes Gutenberg. Actualmente, además, el libro está experimentando una revolución en el paso al formato digital, lo que hoy se conoce como libro electrónico o “ebook” Aquí te presentamos algunos de los que hemos realizado para mostrarte nuestro trabajo en distintas imágenes y de diferentes ángulos. Esperamos te sirvan de inspiración.</p>
 				</div>
 			</div>
+			
 			<div class="item-3">
 				<a href="https://indd.adobe.com/view/5b04d398-cc6e-4d57-a828-f1590b5d2942" target="_blank">
 				<div class="img-cont servicios">
@@ -289,6 +299,7 @@ include('global/header.php');
 				</div>
 				</a>	
 			</div>
+			
 			<div class="item-3">
 				<a href="https://indd.adobe.com/view/0a512698-2d5f-4d5d-adfe-df4e14a83f51" target="_blank">
 				<div class="img-cont servicios">
@@ -296,6 +307,7 @@ include('global/header.php');
 				</div>
 				</a>	
 			</div>
+			<div id="ebooks"></div>
 			<div class="item-3">
 				<a href="https://indd.adobe.com/view/7ece9765-859a-4a90-929e-655aa3dbb20b" target="_blank">
 				<div class="img-cont servicios">
@@ -303,6 +315,7 @@ include('global/header.php');
 				</div>
 				</a>	
 			</div>
+			
 			<div class="item-3">
 				<a href="https://indd.adobe.com/view/eb8ca899-7e25-41ac-87fd-34ca3b01841a" target="_blank">
 				<div class="img-cont servicios">
@@ -317,6 +330,7 @@ include('global/header.php');
 				</div>
 				</a>	
 			</div>
+			
 			<div class="item-3">
 				<a href="https://indd.adobe.com/view/aadd12da-05ca-42dd-9fa9-3f50dc5f6474" target="_blank">
 				<div class="img-cont servicios">

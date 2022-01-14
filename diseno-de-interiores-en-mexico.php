@@ -28,13 +28,7 @@ include('global/header.php');
 					<p>En esta sección nos complace mucho poder mostrar algunos ejemplos de lo que hacemos tan apasionadamente todos los días. Dividida en esos espacios en los que habitamos, reímos, vivimos, sentimos y nos encontramos con nosotros mismos; con esta galería te ofrecemos un recorrido por todas esas secciones que componen a muy distintos hogares de clientes felices. ¡Esperemos que la disfrutes; está hecha para ti!</p>
 				</div>
 			</div>
-			<div class="col-md-4">
-  
-  			  	<a href="/galeria/diseno-de-interiores-navidad">
-					<img class="lazy" alt="navidad" data-src="/img/galeria/boton-navidad.jpg" onmouseover="this.src='/img/galeria/boton-havidad-hover.jpg'" onmouseout="this.src='/img/galeria/boton-navidad.jpg'">
-				</a>
-				
-			</div>
+
 			<div class="col-md-4">
   
   			  	<a href="/galeria/diseno-de-interiores-salas">
@@ -177,6 +171,13 @@ include('global/header.php');
 			
 				<a href="/galeria/diseno-de-interiores-accesorios">
 					<img class="lazy" alt="accesorios" data-src="/img/galeria/boton-accesoriosUP.jpg" onmouseover="this.src='/img/galeria/boton-accesoriosOVER.jpg'" onmouseout="this.src='/img/galeria/boton-accesoriosUP.jpg'">
+				</a>
+				
+			</div>
+			<div class="col-md-4">
+			
+				<a href="/galeria/diseno-de-interiores-navidad.php">
+					<img class="lazy" alt="accesorios" data-src="/img/galeria/boton-navidad.jpg" onmouseover="this.src='/img/galeria/boton-navidad-hover.jpg'" onmouseout="this.src='/img/galeria/boton-navidad.jpg'">
 				</a>
 				
 			</div>

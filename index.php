@@ -119,16 +119,16 @@ include('global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="item-3">
-				<a href="/servicios-de-la-firma-mariangel-coghlan">
+				<a href="/diseno-interior">
 				<div class="img-cont servicios">
-					<img class="" alt="Servicios Mariangel Coghlan" src="img/index/servicios-home.jpg" onmouseover="this.src='img/index/serviciosHOVER-home.jpg'" onmouseout="this.src='img/index/servicios-home.jpg'" >
+					<img class="" alt="Servicios Mariangel Coghlan" src="img/index/proyectos-home.jpg" onmouseover="this.src='img/index/proyectosHOVER-home.jpg'" onmouseout="this.src='img/index/proyectos-home.jpg'" >
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/diseno-interior">
+				<a href="/servicios-de-la-firma-mariangel-coghlan">
 				<div class="img-cont servicios">
-					<img class="" alt="Servicios Mariangel Coghlan" src="img/index/proyectos-home.jpg" onmouseover="this.src='img/index/proyectosHOVER-home.jpg'" onmouseout="this.src='img/index/proyectos-home.jpg'" >
+					<img class="" alt="Servicios Mariangel Coghlan" src="img/index/servicios-home.jpg" onmouseover="this.src='img/index/serviciosHOVER-home.jpg'" onmouseout="this.src='img/index/servicios-home.jpg'" >
 				</div>
 				</a>	
 			</div>
@@ -184,7 +184,7 @@ include('global/header.php');
 		</div>
 	</div>
 </section>
-<?php include('global/ventajas.php');?>
+<?php // include('global/ventajas.php');?>
 <?php include('global/cta-dinero.php');?>
 <?php // include('global/tips-blog.php');?>	
 <?php 
