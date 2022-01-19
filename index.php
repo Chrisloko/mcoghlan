@@ -164,7 +164,7 @@ include('global/header.php');
 	</div>
 </section>
 <?php include('global/counter.php');?>	
-<section id="video-inicio-v2" style="">
+<section id="video-inicio-v3" style="">
 	<picture>
 		<source srcset="img/index/fondo-video-home-movil-400x538-30op.jpg" media="(max-width: 767px)">
 		<img class="lazy fondo" data-src="img/index/fondo-video-home-752.jpg" alt="Video Intro MC" width="1903" height="745">

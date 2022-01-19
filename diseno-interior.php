@@ -30,6 +30,13 @@ include('global/header.php');
 				</div>
 			</div>
 			<div class="item-3">
+				<a href="/proyectos/arquitectura-y-diseno-de-interiores-en-merida">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/fortaleza.jpg" onmouseover="this.src='img/proyectos/fortaleza-hover.jpg'" onmouseout="this.src='img/proyectos/fortaleza.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="/proyectos/portafolio-nubes">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/nubes.jpg" onmouseover="this.src='img/proyectos/nubes-hover.jpg'" onmouseout="this.src='img/proyectos/nubes.jpg'">

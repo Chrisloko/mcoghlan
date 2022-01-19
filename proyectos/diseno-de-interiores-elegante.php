@@ -1,7 +1,7 @@
 <?php 
 $title="Elegante | Diseño de interiores";
-$desc = "La casa Elegante es el resultado";
-$key = "Diseño de interiores Elegante";
+$desc = "Desde la entrada hasta el último rincón, este proyecto de diseño interior luce el uso de la madera en combinación con las paletas de color que armonizan cada uno de los espacios. La iluminación, tanto natural como artificial, es de llamar la atención.";
+$key = "";
 $page = 'proyectos';
 $canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-elegante";
 include('../global/header.php');
