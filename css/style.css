@@ -1504,6 +1504,12 @@ a:hover{
     .hero-fortaleza {
         background-image: url('../img/proyectos/fortaleza/headerfortaleza.jpg');
     }
+    .hero-prive {
+        background-image: url('../img/proyectos/prive/header-prive.jpg');
+    }
+    .hero-qubico {
+        background-image: url('../img/proyectos/qubico/qubicoheader.jpg');
+    }
     /* lp */
     .hero-cuanto {
         background-image: url('../img/cuanto-dinero-necesitas-para-decorar-tu-casa.jpg');

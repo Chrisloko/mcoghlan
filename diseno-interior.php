@@ -30,6 +30,13 @@ include('global/header.php');
 				</div>
 			</div>
 			<div class="item-3">
+				<a href="/proyectos/diseno-de-interiores-miami">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/prive.jpg" onmouseover="this.src='img/proyectos/prive-hover.jpg'" onmouseout="this.src='img/proyectos/prive.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="/proyectos/arquitectura-y-diseno-de-interiores-en-merida">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/fortaleza.jpg" onmouseover="this.src='img/proyectos/fortaleza-hover.jpg'" onmouseout="this.src='img/proyectos/fortaleza.jpg'">
@@ -258,6 +265,13 @@ include('global/header.php');
 					<h2>Oficinas</h2>
 					<p>Un lugar ideal para trabajar es una oficina cómoda y bien diseñada. Es donde las personas deben estar bien para producir más y mejor. Es por esto y por muchas razones más que el diseño y la decoración de las oficinas es tan importante para nosotros. En la firma trabajamos para que estos espacios se vivan, más que como espacios de trabajo, como espacios de vida y de sano esparcimiento que motive a las personas a desarrollar su creatividad.</p>
 				</div>
+			</div>
+			<div class="item-3">
+				<a href="/proyectos/diseno-de-oficinas-estado-de-mexico">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="up-lisboa" data-src="img/proyectos/qubico.jpg" onmouseover="this.src='img/proyectos/qubico-hover.jpg'" onmouseout="this.src='img/proyectos/qubico.jpg'">
+				</div>
+				</a>	
 			</div>
 			<div class="item-3">
 				<a href="/proyectos/diseno-de-interiores-despacho">

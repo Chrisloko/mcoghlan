@@ -160,7 +160,7 @@ include('global/header.php');
 			<div class="item-50 txt-cont"> 
 				<h2>ASÍ ENTREGAMOS LOS PROYECTOS</h2>
 				<div class="btn-cont">
-					<a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/iEeaCS2zavI">
+					<a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/sxVZhtZcNK8">
 						<p>
 						VER VIDEO
 						</p>
