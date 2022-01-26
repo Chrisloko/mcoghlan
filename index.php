@@ -74,41 +74,15 @@ include('global/header.php');
 
 	<!-- #header-bottom -->
 </div>
-<section id="firma-index" style="padding-bottom: 60px">
+<section id="firma-index" style="">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 title">
 				<img class="logo-firma-index" src="img/logomariangelcoghlan-38.png" alt="Logo Mariangel Cohlan">
 				<div class="cont-text">
 					<div class="h1-cont">
-						<h1>Somos una firma mexicana de diseño de interiores,</h1>
-						<span>especializada en reinventar espacios y crear experiencias únicas.</span>
-					</div>
-					<p>No importa el tamaño de tu proyecto; desde un sofá, una habitación, una casa, un restaurante, hasta un hotel completo, nos encargamos de todos los detalles con un enfoque integral, dejando un espacio listo para disfrutarse.</p>
-					<p>Nuestra fundadora fue seleccionada entre los 100 mejores arquitectos y diseñadores de Latinoamérica por la revista Architectural Digest.</p>
-					<h3>Premiados como la mejor firma de diseño de interiores en México 2020 por Luxury Lifestyle Awards y considerados dentro del Top 20 de diseñadores de interiores que hay que seguir en el 2021 por Entrepreneurs Herald</h3>
-
-				</div>
-				<div class="cont-awards">
-					<div class="col-md-3">
-						<a href="https://es.upscalelivingmag.com/sumergete-en-el-tesoro-natural-de-mexico-a-traves-de-una-disenadora-galardonada/" target="_blank">
-							<img class="luxury-awards" src="/img/boton-unadisenadoragalardonada.jpg" alt="Upscale Living">
-						</a>
-					</div>
-					<div class="col-md-3">
-						<a href="https://theluxurylifestylemagazine.com/immerse-yourself-in-mexicos-natural-treasure-with-an-award-winning-designer/" target="_blank">
-							<img class="luxury-awards" src="/img/boton-anawardwinning.jpg" alt="Luxury Lifestyle Magazine">
-						</a>
-					</div>
-					<div class="col-md-3">
-						<a href="https://luxurylifestyleawards.com/winners/search?q=Firma+de+dise%C3%B1o+MARIANGEL+COGHLAN" target="_blank">
-							<img class="luxury-awards" src="/img/luxury-awards-347x121.jpg" alt="Luxury Lifestyle Awards">
-						</a>
-					</div>
-					<div class="col-md-3">
-						<a href="https://www.entrepreneursherald.com/blog/top-20-interior-designers-to-look-out-for-in-2021" target="_blank">
-							<img class="luxury-awards" src="/img/mencion-home-top-342x121.jpg" alt="Entrepenuer's Herald Award">
-						</a>
+						<h1>Somos una firma mexicana de diseño de interiores</h1>
+						<span>especializada en reinventar espacios y crear experiencias únicas</span>
 					</div>
 				</div>
 			</div>
@@ -163,29 +137,111 @@ include('global/header.php');
 		</div>
 	</div>
 </section>
+<section id="" style="padding-bottom:45px">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12 title">
+				<div class="cont-text">
+					<p>No importa el tamaño de tu proyecto; desde un sofá, una habitación, una casa, un restaurante, hasta un hotel completo, nos encargamos de todos los detalles con un enfoque integral, dejando un espacio listo para disfrutarse.</p>
+					<p>Nuestra fundadora fue seleccionada entre los 100 mejores arquitectos y diseñadores de Latinoamérica por la revista Architectural Digest.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 <?php include('global/counter.php');?>	
+<section id="video-inicio-entregamos" style="">
+	<picture>
+		<!-- <source srcset="img/index/fondo-video-home-movil-400x538-30op.jpg" media="(max-width: 767px)"> -->
+		<img class="lazy fondo" data-src="img/index/entregamos-videoshome2022.jpg" alt="Video Intro MC" width="1903" height="745">
+	</picture>
+	<div class="h-100 d-f">
+		<div class="container">
+			<div class="item-50 txt-cont"> 
+				<h2>ASÍ ENTREGAMOS LOS PROYECTOS</h2>
+				<div class="btn-cont">
+					<a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/sxVZhtZcNK8">
+						<p>
+						VER VIDEO
+						</p>
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 297 297"  xml:space="preserve"><g><path d="M148.5,0C66.485,0,0,66.485,0,148.5S66.485,297,148.5,297S297,230.515,297,148.5S230.515,0,148.5,0z M99.167,230.551 V65.949l115,81.943L99.167,230.551z"/></g></svg>
+					</a>                 
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</section>
+<div id="border-middle"></div>
+<section id="video-inicio-conoce" style="">
+	<picture>
+		
+		<img class="lazy fondo" data-src="img/index/conoce-videoshome20222.jpg" alt="Video Intro MC" width="1903" height="745">
+	</picture>
+	<div class="h-100 d-f">
+		<div class="container">
+			<div class="item-50 txt-cont"> 
+				<h2>CONOCE QUIÉN ES MARIANGEL</h2>
+				<div class="btn-cont">
+					<a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/jaUuryVBhq0">
+						<p>
+						VER VIDEO
+						</p>
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 297 297"  xml:space="preserve"><g><path d="M148.5,0C66.485,0,0,66.485,0,148.5S66.485,297,148.5,297S297,230.515,297,148.5S230.515,0,148.5,0z M99.167,230.551 V65.949l115,81.943L99.167,230.551z"/></g></svg>
+					</a>                 
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</section>
+<div id="border-middle"></div>
 <section id="video-inicio-v3" style="">
 	<picture>
 		<source srcset="img/index/fondo-video-home-movil-400x538-30op.jpg" media="(max-width: 767px)">
 		<img class="lazy fondo" data-src="img/index/fondo-video-home-752.jpg" alt="Video Intro MC" width="1903" height="745">
 	</picture>
+	<div class="h-100 d-f">
+		<div class="container">
+			<div class="item-50 txt-cont"> 
+					<h2>REDEFINIMOS LA MANERA DE TRANSFORMAR ESPACIOS</h2>
+					<div class="btn-cont">
+					<a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/iEeaCS2zavI">
+						<p>
+						VER VIDEO
+						</p>
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 297 297"  xml:space="preserve"><g><path d="M148.5,0C66.485,0,0,66.485,0,148.5S66.485,297,148.5,297S297,230.515,297,148.5S230.515,0,148.5,0z M99.167,230.551 V65.949l115,81.943L99.167,230.551z"/></g></svg>
+					</a>                 
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section id="premios-index" style="">
 	<div class="container">
-		<div class="item-50 txt-cont"> 
-				<h2>REDEFINIMOS LA MANERA<br>DE TRANSFORMAR ESPACIOS</h2>
-				<h4>¡No te quedes con las ganas<br>de vivir en un hogar hermoso!</h4>
-				<div class="btn-cont">
-				<a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/iEeaCS2zavI">
-					<p>
-					VER VIDEO
-					</p>
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 297 297"  xml:space="preserve"><g><path d="M148.5,0C66.485,0,0,66.485,0,148.5S66.485,297,148.5,297S297,230.515,297,148.5S230.515,0,148.5,0z M99.167,230.551 V65.949l115,81.943L99.167,230.551z"/></g></svg>
-				</a>                 
+		<div class="row">
+			<div class="col-sm-12 title">
+				<div class="cont-text">
+					<h3>Premiados como la mejor firma de diseño de interiores en México 2020 por Luxury Lifestyle Awards y considerados dentro del Top 20 de diseñadores de interiores que hay que seguir en el 2021 por Entrepreneurs Herald</h3>
+				</div>
+				<div class="cont-awards">
+					<div class="col-md-5">
+						<a href="https://luxurylifestyleawards.com/winners/search?q=Firma+de+dise%C3%B1o+MARIANGEL+COGHLAN" target="_blank">
+							<img class="luxury-awards" src="/img/index/luxury-445x155.jpg" alt="Luxury Lifestyle Awards">
+						</a>
+					</div>
+					<div class="col-md-5">
+						<a href="https://www.entrepreneursherald.com/blog/top-20-interior-designers-to-look-out-for-in-2021" target="_blank">
+							<img class="luxury-awards" src="/img/index/entrepreneurs-445x155.jpg" alt="Entrepenuer's Herald Award">
+						</a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
 <?php // include('global/ventajas.php');?>
-<?php include('global/cta-dinero.php');?>
+<?php // include('global/cta-dinero.php');?>
 <?php // include('global/tips-blog.php');?>	
 <?php 
 include('global/footer.php');

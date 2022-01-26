@@ -30,16 +30,16 @@ include('../global/header-en.php');
 				</div>
 			</div>
 			<div class="item-3">
-				<a href="/en/projects/interior-design-portfolio-nubes">
+				<a href="/en/projects/interior-design-miami">
 				<div class="img-cont servicios">
-					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/nubes.jpg" onmouseover="this.src='/img/proyectos/nubes-hover.jpg'" onmouseout="this.src='/img/proyectos/nubes.jpg'">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/prive.jpg" onmouseover="this.src='/img/proyectos/prive-hover.jpg'" onmouseout="this.src='/img/proyectos/prive.jpg'">
 				</div>
 				</a>	
 			</div>
 			<div class="item-3">
-				<a href="/en/projects/interior-design-portfolio-avenue">
+				<a href="/proyectos/en/projects/merida-mexico-architecture">
 				<div class="img-cont servicios">
-					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/avenue.jpg" onmouseover="this.src='/img/proyectos/avenue-hover.jpg'" onmouseout="this.src='/img/proyectos/avenue.jpg'">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/fortaleza.jpg" onmouseover="this.src='/img/proyectos/fortaleza-hover.jpg'" onmouseout="this.src='/img/proyectos/fortaleza.jpg'">
 				</div>
 				</a>	
 			</div>
@@ -47,6 +47,13 @@ include('../global/header-en.php');
 				<a href="/en/projects/interior-design-portfolio-origen">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/origen.jpg" onmouseover="this.src='/img/proyectos/origen-hover.jpg'" onmouseout="this.src='/img/proyectos/origen.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/en/projects/elegant-interior-design">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/elegante.jpg" onmouseover="this.src='/img/proyectos/elegante-hover.jpg'" onmouseout="this.src='/img/proyectos/elegante.jpg'">
 				</div>
 				</a>	
 			</div>
@@ -153,6 +160,13 @@ include('../global/header-en.php');
 				</div>
 			</div>
 			<div class="item-3">
+				<a href="/en/projects/wai-sabi-interior-design">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="acapulco" data-src="/img/proyectos/balano.jpg" onmouseover="this.src='/img/proyectos/balano-hover.jpg'" onmouseout="this.src='/img/proyectos/balano.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="/en/projects/interior-design-acapulco">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="acapulco" data-src="/img/proyectos/acapulco.jpg" onmouseover="this.src='/img/proyectos/acapulco-hover.jpg'" onmouseout="this.src='/img/proyectos/acapulco.jpg'">
@@ -202,6 +216,13 @@ include('../global/header-en.php');
 					<h2>Offices</h2>
 					<p>An ideal place to work is a comfortable, well-designed office. It's where people need to be at their best in order to produce more and better results. For this and many other reasons office design and decoration is so important to us. At the firm, we work so that these spaces are enjoyed, more than as work spaces, as living spaces and spaces for healthy recreation that motivate people to develop their creativity.</p>
 				</div>
+			</div>
+			<div class="item-3">
+				<a href="/en/projects/office-interior-design">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="up-lisboa" data-src="/img/proyectos/qubico.jpg" onmouseover="this.src='/img/proyectos/qubico-hover.jpg'" onmouseout="this.src='/img/proyectos/qubico.jpg'">
+				</div>
+				</a>	
 			</div>
 			<div class="item-3">
 				<a href="/en/projects/interior-design-study">

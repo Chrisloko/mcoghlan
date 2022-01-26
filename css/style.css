@@ -1159,7 +1159,10 @@ a:hover{
        background-color: #373736;
        height: 5px;
    }
-
+iframe{
+    background-color: transparent;
+    background: transparent!important;
+}
 #video-inicio-v3 {
     position:relative;
     height:550px;
@@ -3457,14 +3460,14 @@ padding: 60px 0;
 #cajas-index.proyectos h1{
     color:#3C4650;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     font-weight: 700;
 }
 #cajas-index.proyectos.galeria h1{
     text-align: left;
 }
 #cajas-index.proyectos h2{
-    margin-top: 15px;
+    margin-top: 0px;
     color: #87b9a8;
 }
 #cajas-index.proyectos {
