@@ -1513,6 +1513,9 @@ iframe{
     .hero-qubico {
         background-image: url('../img/proyectos/qubico/qubicoheader.jpg');
     }
+    .hero-tik {
+        background-image: url('../img/proyectos/tik/headertik.jpg');
+    }
     /* lp */
     .hero-cuanto {
         background-image: url('../img/cuanto-dinero-necesitas-para-decorar-tu-casa.jpg');
@@ -3464,7 +3467,7 @@ padding: 60px 0;
     font-weight: 700;
 }
 #cajas-index.proyectos.galeria h1{
-    text-align: left;
+    text-align: center;
 }
 #cajas-index.proyectos h2{
     margin-top: 0px;

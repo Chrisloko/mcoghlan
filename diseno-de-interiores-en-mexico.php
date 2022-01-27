@@ -151,13 +151,13 @@ include('global/header.php');
 				
 			</div>
 
-			<div class="col-md-4">
+			<!-- <div class="col-md-4">
 			
 				<a href="/galeria/diseno-de-interiores-hoteles">
 					<img class="lazy" alt="hoteles" data-src="/img/galeria/hoteles-up.jpg" onmouseover="this.src='/img/galeria/hoteles-over.jpg'" onmouseout="this.src='/img/galeria/hoteles-up.jpg'">	
 				</a>
 				
-			</div>
+			</div> -->
 
 			<div class="col-md-4">
 			
@@ -176,7 +176,7 @@ include('global/header.php');
 			</div>
 			<div class="col-md-4">
 			
-				<a href="/galeria/diseno-de-interiores-navidad.php">
+				<a href="/galeria/diseno-de-interiores-navidad">
 					<img class="lazy" alt="accesorios" data-src="/img/galeria/boton-navidad.jpg" onmouseover="this.src='/img/galeria/boton-navidad-hover.jpg'" onmouseout="this.src='/img/galeria/boton-navidad.jpg'">
 				</a>
 				

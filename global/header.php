@@ -111,6 +111,7 @@
 									<a href="/diseno-interior#campo" class="dropdown-item">Campo</a>
 									<a href="/diseno-interior#playa" class="dropdown-item">Playa</a>
 									<a href="/diseno-interior#oficinas" class="dropdown-item">Oficinas</a>
+									<a href="/diseno-interior#hoteles" class="dropdown-item">Hoteles</a>
 									<a href="/ebooks" class="dropdown-item">Ebooks</a>
 							</div>
 						  </li>

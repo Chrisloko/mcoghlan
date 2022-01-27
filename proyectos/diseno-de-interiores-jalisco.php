@@ -105,7 +105,7 @@ include('../global/header.php');
 
 			</div>
 
-			<div class="col-md-4">
+			<!-- <div class="col-md-4">
 
 			<a href="../img/proyectos/mangle/proyectos-campeche-1000x650px-10.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="../img/proyectos/mangle/proyectos-campeche-350x350px-10.jpg" alt="Diseño de departamento en la playa de Puerta Vallarta">
@@ -191,7 +191,7 @@ include('../global/header.php');
 				<img class="lazy" data-src="../img/proyectos/mangle/proyectos-campeche-350x350px-20.jpg" alt="proyectos campeche">
 			</a>
 
-			</div>
+			</div> -->
 
 			<div class="col-md-4">
 
@@ -200,7 +200,7 @@ include('../global/header.php');
 			</a>
 
 			</div>
-
+<!-- 		
 			<div class="col-md-4">
 
 			<a href="../img/proyectos/mangle/proyectos-campeche-1000x650px-23.jpg" data-lightbox="acacias">
@@ -263,7 +263,7 @@ include('../global/header.php');
 				<img class="lazy" data-src="../img/proyectos/mangle/proyectos-campeche-350x350px-30.jpg" alt="proyectos campeche">
 			</a>
 
-			</div>
+			</div> -->
 
 			<div class="col-md-4">
 
@@ -272,7 +272,7 @@ include('../global/header.php');
 			</a>
 
 			</div>
-
+<!-- 			
 			<div class="col-md-4">
 
 			<a href="../img/proyectos/mangle/proyectos-campeche-1000x650px-32.jpg" data-lightbox="acacias">
@@ -287,7 +287,7 @@ include('../global/header.php');
 				<img class="lazy" data-src="../img/proyectos/mangle/proyectos-campeche-350x350px-33.jpg" alt="proyectos campeche">
 			</a>
 
-			</div>
+			</div> -->
 
 			<div class="col-md-4">
 

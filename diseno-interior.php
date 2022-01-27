@@ -195,20 +195,6 @@ include('global/header.php');
 				</div>
 			</div>
 			<div class="item-3">
-				<a href="/proyectos/portafolio-diseno-balano">
-				<div class="img-cont servicios">
-					<img class="lazy" alt="acapulco" data-src="img/proyectos/balano.jpg" onmouseover="this.src='img/proyectos/balano-hover.jpg'" onmouseout="this.src='img/proyectos/balano.jpg'">
-				</div>
-				</a>	
-			</div>
-			<div class="item-3">
-				<a href="/proyectos/diseno-de-interiores-puerto-cancun">
-				<div class="img-cont servicios">
-					<img class="lazy" alt="ixtapa" data-src="img/proyectos/coco.jpg" onmouseover="this.src='img/proyectos/coco-hover.jpg'" onmouseout="this.src='img/proyectos/coco.jpg'">
-				</div>
-				</a>	
-			</div>
-			<div class="item-3">
 				<a href="/proyectos/diseno-de-interiores-sonora">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="boton-casas-de-playa-caracol-up" data-src="img/proyectos/guaymas.jpg" onmouseover="this.src='img/proyectos/guaymas-hover.jpg'" onmouseout="this.src='img/proyectos/guaymas.jpg'">
@@ -216,9 +202,23 @@ include('global/header.php');
 				</a>	
 			</div>
 			<div class="item-3">
+				<a href="/proyectos/portafolio-diseno-balano">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="acapulco" data-src="img/proyectos/balano.jpg" onmouseover="this.src='img/proyectos/balano-hover.jpg'" onmouseout="this.src='img/proyectos/balano.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="/proyectos/diseno-de-interiores-acapulco">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="acapulco" data-src="img/proyectos/acapulco.jpg" onmouseover="this.src='img/proyectos/acapulco-hover.jpg'" onmouseout="this.src='img/proyectos/acapulco.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/proyectos/diseno-de-interiores-puerto-cancun">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="ixtapa" data-src="img/proyectos/coco.jpg" onmouseover="this.src='img/proyectos/coco-hover.jpg'" onmouseout="this.src='img/proyectos/coco.jpg'">
 				</div>
 				</a>	
 			</div>
@@ -250,13 +250,13 @@ include('global/header.php');
 				</div>
 				</a>	
 			</div>
-			<div class="item-3">
+			<!-- <div class="item-3">
 				<a href="/proyectos/diseno-de-interiores-puerto-escondido">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="Palmas" data-src="img/proyectos/Palmas.jpg" onmouseover="this.src='img/proyectos/palmas-hover.jpg'" onmouseout="this.src='img/proyectos/Palmas.jpg'">
 				</div>
 				</a>	
-			</div>	
+			</div>	 -->
 		</div>
 		<div class="row">
 			<div id="oficinas"></div>
@@ -288,6 +288,7 @@ include('global/header.php');
 				</div>
 				</a>	
 			</div>
+			
 			<div class="item-3">
 				<a href="/proyectos/diseno-de-interiores-coworking">
 				<div class="img-cont servicios">
@@ -295,6 +296,26 @@ include('global/header.php');
 				</div>
 				</a>	
 			</div>
+			
+		</div>
+		<div id="hoteles">
+		<div class="row">	
+		
+			<div class="col-sm-12">
+				<div class="cont-text">
+					<h2>Hoteles</h2>
+					<p>¿Qué mayor placer que estar en un hotel y sentirnos más a gusto que en nuestra propia casa? Ese es el reto que tenemos cada vez que diseñamos un espacio de este tipo. La decoración y el confort, el mobiliario y los accesorios son piezas clave para lograr que un proyecto sea 100% satisfactorio.</p>
+				</div>
+			</div>			
+			<div class="item-3">
+				<a href="/proyectos/diseno-de-hoteles">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="up-lisboa" data-src="img/proyectos/tik.jpg" onmouseover="this.src='img/proyectos/tik-hover.jpg'" onmouseout="this.src='img/proyectos/tik.jpg'">
+				</div>
+				</a>	
+			</div>
+		</div>
+			
 		</div>
 		<div id="ebooks" style=""></div>
 		<div class="row">
