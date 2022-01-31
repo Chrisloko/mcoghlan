@@ -1516,6 +1516,9 @@ iframe{
     .hero-tik {
         background-image: url('../img/proyectos/tik/headertik.jpg');
     }
+    .hero-palmares {
+        background-image: url('../img/proyectos/palmares/headerpalmares.jpg');
+    }
     /* lp */
     .hero-cuanto {
         background-image: url('../img/cuanto-dinero-necesitas-para-decorar-tu-casa.jpg');
@@ -3479,7 +3482,9 @@ padding: 60px 0;
 #cajas-index.proyectos img{
     max-width: 100%;
 }
-
+.pt-py-main{
+    padding-top: 20px;
+}
 @media(max-width:767px){
     #cajas-index.proyectos.galeria h1{
         text-align: center;

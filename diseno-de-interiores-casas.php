@@ -3,7 +3,7 @@ $title="Interiorismo residencial | Mariangel Coghlan";
 $desc = "Damos servicios de diseño de interiores residencial. El interiorismo residencial transforma el espacio en un hogar en función de las aspiraciones y necesidades de sus habitantes.";
 $key = "interiorismo residencial";
 $page = 'servicios';
-$canonical = "https://www.mcoghlan.mx/interiorismo-residencial";
+$canonical = "https://www.mcoghlan.mx/diseno-de-interiores-casas";
 include('global/header.php');
 ?>	
 

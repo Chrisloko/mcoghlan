@@ -23,7 +23,7 @@ include('../global/header.php');
 			<div class="col-sm-12">
 				<div class="cont-text">
 					<h2>CASA EN EL CAMPO</h2>
-					<h1>Malinalco, Estado de México</h1>
+					<h1>Arquitectura y diseño</h1>
 					<p>La residencia San Juan es una casa en donde los espacios para la convivencia familiar son extraordinarios. La decoración con madera y piedra, la doble altura del vestíbulo y las áreas pensadas para los niños son ejemplo de una solución de diseño sencilla y con un ambiente donde las vistas al campo y los acabados de lujo conviven armoniosamente.</p>
 				</div>
 			</div>

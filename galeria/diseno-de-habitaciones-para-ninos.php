@@ -3,7 +3,7 @@ $title="Mariangel Coghlan | Diseño de habitaciones para niños";
 $desc = "Nos ilusiona diseñar para los pequeños de la casa, considerar su inocencia, su espontaneidad es vital para crear espacios lúdicos en donde los niños puedan desarrollar su imaginación y su creatividad.";
 $key = "Diseño de habitaciones para niños";
 $page = 'galeria';
-$canonical = "https://www.mcoghlan.mx/galeria/diseno-de-habitaciones-para-niños";
+$canonical = "https://www.mcoghlan.mx/galeria/diseno-de-habitaciones-para-ninos";
 include('../global/header.php');
 ?>	
 
@@ -42,7 +42,7 @@ include('../global/header.php');
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="../img/proyectos/ceiba/" data-lightbox="acacias">
+				<a href="../img/proyectos/ceiba/ceiba-350x350-34.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-34.jpg" alt="1-recamaraninoslitera-th">
 				</a>
 			</div>

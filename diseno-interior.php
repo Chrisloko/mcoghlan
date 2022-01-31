@@ -118,7 +118,7 @@ include('global/header.php');
 			<div id="campo"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-				<h2>Campo</h2>
+				<h2 class="pt-py-main">Campo</h2>
 				<p>Las casas de campo son comunes en México, ya que muchas personas logran el sueño de comprar su terreno fuera de la ciudad y construir una casa donde puedan ir a descansar, pasar el fin de semana o periodos vacacionales más largos. Otros más la compran ya construida y nos contratan para dar ese ambiente íntimo con el diseño en los interiores que hará de ese espacio un lugar muy especial en sus vidas.</p>
 				</div>
 			</div>
@@ -190,7 +190,7 @@ include('global/header.php');
 			<div id="playa"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h2>Playa</h2>
+					<h2 class="pt-py-main">Playa</h2>
 					<p>Las casas de playa se han convertido, para muchos, en el lugar ideal para poder disfrutar de vacaciones y días libres. Sin duda son un entorno único donde se puede contemplar desde la ventana o desde la arena de la playa, de una magnífica puesta del sol. En la firma nos consideramos muy afortunados de poder intervenir en este tipo de proyectos que nos dan la oportunidad de cumplir los sueños de nuestros clientes en un ambiente de paz y tranquilidad.</p>
 				</div>
 			</div>
@@ -262,7 +262,7 @@ include('global/header.php');
 			<div id="oficinas"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h2>Oficinas</h2>
+					<h2 class="pt-py-main">Oficinas</h2>
 					<p>Un lugar ideal para trabajar es una oficina cómoda y bien diseñada. Es donde las personas deben estar bien para producir más y mejor. Es por esto y por muchas razones más que el diseño y la decoración de las oficinas es tan importante para nosotros. En la firma trabajamos para que estos espacios se vivan, más que como espacios de trabajo, como espacios de vida y de sano esparcimiento que motive a las personas a desarrollar su creatividad.</p>
 				</div>
 			</div>
@@ -303,14 +303,21 @@ include('global/header.php');
 		
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h2>Hoteles</h2>
+					<h2 class="pt-py-main">Hoteles</h2>
 					<p>¿Qué mayor placer que estar en un hotel y sentirnos más a gusto que en nuestra propia casa? Ese es el reto que tenemos cada vez que diseñamos un espacio de este tipo. La decoración y el confort, el mobiliario y los accesorios son piezas clave para lograr que un proyecto sea 100% satisfactorio.</p>
 				</div>
 			</div>			
 			<div class="item-3">
 				<a href="/proyectos/diseno-de-hoteles">
 				<div class="img-cont servicios">
-					<img class="lazy" alt="up-lisboa" data-src="img/proyectos/tik.jpg" onmouseover="this.src='img/proyectos/tik-hover.jpg'" onmouseout="this.src='img/proyectos/tik.jpg'">
+					<img class="lazy" alt="tik" data-src="img/proyectos/tik.jpg" onmouseover="this.src='img/proyectos/tik-hover.jpg'" onmouseout="this.src='img/proyectos/tik.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/proyectos/arquitectura-y-diseño">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="palmares" data-src="img/proyectos/palmares.jpg" onmouseover="this.src='img/proyectos/palmares-hover.jpg'" onmouseout="this.src='img/proyectos/palmares.jpg'">
 				</div>
 				</a>	
 			</div>
@@ -322,7 +329,7 @@ include('global/header.php');
 		
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h2>Ebooks</h2>
+					<h2 class="pt-py-main">Ebooks</h2>
 					<p>A lo largo de la historia, los libros han pasado de ser pergaminos manuscritos o pintados, a ser volúmenes impresos gracias a la invención de la imprenta por Johannes Gutenberg. Actualmente, además, el libro está experimentando una revolución en el paso al formato digital, lo que hoy se conoce como libro electrónico o “ebook” Aquí te presentamos algunos de los que hemos realizado para mostrarte nuestro trabajo en distintas imágenes y de diferentes ángulos. Esperamos te sirvan de inspiración.</p>
 				</div>
 			</div>

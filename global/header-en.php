@@ -16,7 +16,7 @@
 	<link rel="icon" type="image/png" href="/img/favicon.png" />
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
     <script src="/js/jquery3.5.1.min.js" ></script>
-    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/style.css">
 	<!-- <link rel="preload" href="https://mcoghlan.mx/fonts/Catamaran-VariableFont_wght.ttf" as="font" crossorigin=""> -->
 	<!-- <link rel="preconnect" href="https://www.google-analytics.com">
@@ -99,6 +99,7 @@
 									<a href="/en/commercial-interior-design" class="dropdown-item">Commercial interior design</a>
 									<a href="/en/remodeling-project" class="dropdown-item">Remodeling project</a>
 									<a href="/en/architectural-design" class="dropdown-item">Architectural design</a>
+									
 							</div>
 						  </li>
 						  <li class="nav-item dropdown <?php if ($page == "proyectos") echo 'active'; ?>">
@@ -112,6 +113,7 @@
 									<a href="/en/interior-design-portfolio#playa" class="dropdown-item">Beach</a>
 									<a href="/en/interior-design-portfolio#oficinas" class="dropdown-item">Offices</a>
 									<a href="/en/interior-design-portfolio#ebooks" class="dropdown-item">Ebooks</a>
+									<a href="/en/interior-design-portfolio#hoteles" class="dropdown-item">Hotels</a>
 							</div>
 						  </li>
 						  <li class="nav-item <?php if ($page == "galeria") echo 'active'; ?>">

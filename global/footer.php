@@ -110,7 +110,7 @@
     <!-- #site-wrap -->
 
  
-    <script src="/js/bootstrap.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
     <script src="/js/slick.js"></script>
   <!--TODO: Put this code in script file-->
   <script>

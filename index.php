@@ -3,7 +3,7 @@ $title="Mariangel Coghlan | Firma mexicana de diseño de Interiores ";
 $desc = "Firma mexicana de diseño especializada en la transformación de espacios. Amplia experiencia en diseño arquitectónico, diseño de interiores y decoración.";
 $key = "diseño de interiores";
 $page = 'home';
-$canonical = "";
+$canonical = "https://www.mcoghlan.mx";
 include('global/header.php');
 ?>	
 

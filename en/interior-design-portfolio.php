@@ -104,9 +104,30 @@ include('../global/header-en.php');
 			<div id="campo"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-				<h2>Country</h2>
+				<h2 class="pt-py-main">Country</h2>
 				<p>Country houses are common in Mexico, as many achieve the dream of buying their land away from the city and building a house where they can go to rest, spend the weekend or longer vacation periods. Others buy a previously built house and then hire us to provide that intimate atmosphere with the interior design that will make that space a very special part in their lives.</p>
 				</div>
+			</div>
+			<div class="item-3">
+				<a href="/en/projects/country-home-interior-design">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/sanjuanUP.jpg" onmouseover="this.src='/img/proyectos/sanjuanOVER.jpg'" onmouseout="this.src='/img/proyectos/sanjuanUP.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/en/projects/contemporary-style-interior-design">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/monterreyUP.jpg" onmouseover="this.src='/img/proyectos/monterreyOVER.jpg'" onmouseout="this.src='/img/proyectos/monterreyUP.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="/en/projects/interior-design-service">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="/img/proyectos/fresnosUP.jpg" onmouseover="this.src='/img/proyectos/fresnosOVER.jpg'" onmouseout="this.src='/img/proyectos/fresnosUP.jpg'">
+				</div>
+				</a>	
 			</div>
 			<div class="item-3">
 				<a href="/en/projects/country-house-remodeling">
@@ -155,7 +176,7 @@ include('../global/header-en.php');
 			<div id="playa"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h2>Beach</h2>
+					<h2 class="pt-py-main">Beach</h2>
 					<p>Beach houses have become, for many, the ideal place to enjoy vacations and days off. They are undoubtedly a unique environment where you can contemplate a magnificent sunset from a window or on the sand of the beach. In the firm we consider ourselves very fortunate to be able to intervene in this type of project giving us the opportunity to fulfill the dreams of our clients in an atmosphere of peace and tranquility.</p>
 				</div>
 			</div>
@@ -213,7 +234,7 @@ include('../global/header-en.php');
 			<div id="oficinas"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h2>Offices</h2>
+					<h2 class="pt-py-main">Offices</h2>
 					<p>An ideal place to work is a comfortable, well-designed office. It's where people need to be at their best in order to produce more and better results. For this and many other reasons office design and decoration is so important to us. At the firm, we work so that these spaces are enjoyed, more than as work spaces, as living spaces and spaces for healthy recreation that motivate people to develop their creativity.</p>
 				</div>
 			</div>
@@ -250,7 +271,7 @@ include('../global/header-en.php');
 		<div id="ebooks"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h2>Ebooks</h2>
+					<h2 class="pt-py-main">Ebooks</h2>
 					<p>Throughout history, books have evolved from handwritten or painted scrolls to printed volumes thanks to Johannes Gutenberg’s invention, the printing press. Currently, the book is experiencing a revolution in the transition to digital format, today known as electronic book or "ebook". Here we present some of the ones we have created to show you our work in different images and from different angles. We hope they will inspire you.</p>
 				</div>
 			</div>

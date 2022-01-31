@@ -3,7 +3,7 @@ $title="Interiorismo comercial | Mariangel Coghlan";
 $desc = "El interiorismo comercial tiene la posibilidad de crear atmósferas y experiencias envolventes. Diseño de interiores a hoteles, restaurantes y oficinas.";
 $key = "interiorismo comercial";
 $page = 'servicios';
-$canonical = "https://www.mcoghlan.mx/interiorismo-comercial";
+$canonical = "https://www.mcoghlan.mx/diseno-de-interiores-comercial";
 include('global/header.php');
 ?>	
 
