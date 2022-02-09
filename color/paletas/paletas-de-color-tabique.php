@@ -3,7 +3,7 @@ $title="Paletas de color: Tabique";
 $desc = "Paletas de color: Tabique";
 $key = "Paletas de color";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-tabique";
+$canonical = "https://www.mcoghlan.mx/color/paletas/paletas-de-color-tabique";
 include('../../global/header.php');
 ?>	
 

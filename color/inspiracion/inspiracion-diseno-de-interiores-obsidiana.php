@@ -3,7 +3,7 @@ $title="Inspiración diseño de interiores: obsidiana";
 $desc = "Inspiración diseño de interiores: obsidiana";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-obsidiana";
 include('../../global/header.php');
 ?>	
 

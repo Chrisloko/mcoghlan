@@ -3,7 +3,7 @@ $title="Proyectos de Interiorismo Residencial, Hoteles y Restaurantes.";
 $desc = "Conoce nuestros proyectos de interiorismo residencial en casas y departamento y diseño de interiores comercial en oficinas, restaurantes y hoteles.";
 $key = "Diseño interior";
 $page = 'proyectos';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/diseno-interior";
 include('global/header.php');
 ?>	
 

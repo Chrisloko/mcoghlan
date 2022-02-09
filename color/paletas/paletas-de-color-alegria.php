@@ -3,7 +3,7 @@ $title="Paletas de color: alegría";
 $desc = "Paletas de color: alegría";
 $key = "Paletas de color";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-alegria";
+$canonical = "https://www.mcoghlan.mx/color/paletas/paletas-de-color-alegria";
 include('../../global/header.php');
 ?>	
 

@@ -3,7 +3,7 @@ $title="Inspiración diseño de interiores: coco";
 $desc = "Inspiración diseño de interiores: coco";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-coco";
 include('../../global/header.php');
 ?>	
 

@@ -3,7 +3,7 @@ $title="Inspiración diseño de interiores";
 $desc = "Los colores del México mágico que he vivido, de los rincones del mundo que he caminado y de los amores que me han inspirado.";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/color/tendencias-de-colores-interiorismo";
 include('../global/header.php');
 ?>	
 

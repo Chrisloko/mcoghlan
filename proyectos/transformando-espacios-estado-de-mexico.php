@@ -3,7 +3,7 @@ $title="Fresno | Diseño de interiores Monterrey";
 $desc = "Fresno es un proyecto de diseño de interiores que brilla por su clase y sobriedad, por eso lo elegimos para la portada del libro HOGARES, Reinventando Espacios. La realización de la remodelación en un tiempo record fué todo un reto para nuestro equipo, nos sentimos muy orgullosos del resultado. Sus dobles alturas, las lámparas colgantes, la paleta cromática en grises y azules en combinación con la madera crean una atmósfera única en el diseño de sus interiores.";
 $key = "Diseño de interiores Monterrey";
 $page = 'proyectos';
-$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-monterrey";
+$canonical = "https://www.mcoghlan.mx/proyectos/transformando-espacios-estado-de-mexico";
 include('../global/header.php');
 ?>	
 

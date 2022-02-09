@@ -3,7 +3,7 @@ $title="Paletas de color: Contrapunto";
 $desc = "Paletas de color: Contrapunto";
 $key = "Paletas de color";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-contrapunto";
+$canonical = "https://www.mcoghlan.mx/color/paletas/paletas-de-color-contrapunto";
 include('../../global/header.php');
 ?>	
 

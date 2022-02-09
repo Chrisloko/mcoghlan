@@ -3,7 +3,7 @@ $title="Lisboa | Diseño de interiores, despacho";
 $desc = "En este proyecto nos solicitaron crear un espacio de trabajo acogedor y reconfortante que fuera clásico y actual aumentando la iluminación artificial. El audaz uso de color, las luminarias y las cortinas fueron parte esencial del diseño para la transformación del lugar. Cada detalle decorativo contribuye a la percepción integral del sitio.";
 $key = "Diseño de interiores, despacho";
 $page = 'proyectos';
-$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-monterrey";
+$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-despacho";
 include('../global/header.php');
 ?>	
 

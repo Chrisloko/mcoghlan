@@ -3,7 +3,7 @@ $title="Ceiba | Diseño interiores en Playa Paraiso";
 $desc = "Este proyecto fue un gran reto creativo, iniciamos a partir del espacio completamente vacío, desarrollando la distribución de los espacios y el concepto integral del diseño interior. El punto de partida fue priorizar las espectaculares vistas al mar. Las dobles alturas juegan un papel muy importante ya que nos permitieron aprovechar los espacios que, en relación con la imponente vista y la cuidada decoración de cada área dieron como resultado un espacio espectacular.";
 $key = "Diseño interiores en Playa Paraiso";
 $page = 'proyectos';
-$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-monterrey";
+$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-playa-paraiso";
 include('../global/header.php');
 ?>	
 

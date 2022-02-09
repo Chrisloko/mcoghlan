@@ -3,7 +3,7 @@ $title="Paletas de color: Pirul";
 $desc = "Paletas de color: Pirul";
 $key = "Paletas de color";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-pirul";
+$canonical = "https://www.mcoghlan.mx/color/paletas/paletas-de-color-pirul";
 include('../../global/header.php');
 ?>	
 

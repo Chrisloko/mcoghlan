@@ -3,7 +3,7 @@ $title="Influencer del color | Mariangel Coghlan";
 $desc = "Diseñadora optimista e incansable empresaria apasionada del color y la belleza. ";
 $key = "diseño de interiores";
 $page = 'nosotros';
-$canonical = "https://www.mcoghlan.mx/conocenos";
+$canonical = "https://www.mcoghlan.mx/conversaciones";
 include('global/header.php');
 ?>	
 

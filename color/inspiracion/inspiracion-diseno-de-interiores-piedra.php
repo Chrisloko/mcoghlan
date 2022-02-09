@@ -3,7 +3,7 @@ $title="Inspiración diseño de interiores: piedra";
 $desc = "Inspiración diseño de interiores: piedra";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-piedra";
 include('../../global/header.php');
 ?>	
 

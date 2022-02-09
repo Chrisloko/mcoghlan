@@ -3,7 +3,7 @@ $title="Inspiración diseño de interiores: mandarina";
 $desc = "Inspiración diseño de interiores: mandarina";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-mandarina";
 include('../../global/header.php');
 ?>	
 

@@ -97,7 +97,7 @@ include('../global/header.php');
 
 			<div class="col-md-4">
 
-			<a href="../img/galeria/ninos1%20(1).jpg" data-lightbox="acacias">
+			<a href="../img/galeria/ninos/ninos1.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="../img/galeria/ninos/ninos1.jpg" alt="Ninos">
 			</a>
 
@@ -177,7 +177,7 @@ include('../global/header.php');
 
 			<div class="col-md-4">
 
-			<a href="../img/galeria/ninos11%20(1).jpg" data-lightbox="acacias">
+			<a href="../img/galeria/ninos/ninos11.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="../img/galeria/ninos/ninos11.jpg" alt="Ninos">
 			</a>
 

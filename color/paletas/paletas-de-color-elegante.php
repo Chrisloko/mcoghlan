@@ -3,7 +3,7 @@ $title="Paletas de color: Elegante";
 $desc = "Paletas de color: Elegante";
 $key = "Paletas de color";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-elegante";
+$canonical = "https://www.mcoghlan.mx/color/paletas/paletas-de-color-elegante";
 include('../../global/header.php');
 ?>	
 

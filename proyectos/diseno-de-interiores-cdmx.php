@@ -3,7 +3,7 @@ $title="Mariangel Coghlan | Diseño de interiores CDMX";
 $desc = "Esta residencia se caracteriza por ser un ejemplo de elegancia y vida a la vez. Desde el recibidor uno puede sentir como la decoración nos acoge y esta sensación se logra durante todo el recorrido por cada espacio, cuidadosamente diseñado. La amabilidad que provoca la cocina y lo sofisticado de la biblioteca son ejemplos de la maestría con la que el proyecto se transformó.";
 $key = "Diseño de interiores CDMX";
 $page = 'proyectos';
-$canonical = "https://www.mcoghlan.mx/roble";
+$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-cdmx";
 include('../global/header.php');
 ?>	
 

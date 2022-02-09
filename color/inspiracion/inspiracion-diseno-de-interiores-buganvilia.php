@@ -3,7 +3,7 @@ $title="Inspiración diseño de interiores: buganvilia";
 $desc = "Inspiración diseño de interiores: buganvilia";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-buganvilia";
 include('../../global/header.php');
 ?>	
 

@@ -3,7 +3,7 @@ $title="Montaña | Diseño de interiores en casa de campo";
 $desc = "CASA EN EL CAMPO en El Oro, Estado de México. En este proyecto se buscó crear un diseño estilo clásico mexicano, tomando como inspiración las haciendas de la época de la colonia. El diseño del mobiliario fue parte fundamental del proyecto, así como el uso de la paleta cromática. La decoración de cada uno de  los espacios de la casa cuenta una historia.";
 $key = "Diseño de interiores en casa de campo";
 $page = 'proyectos';
-$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-monterrey";
+$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-casa-de-campo";
 include('../global/header.php');
 ?>	
 

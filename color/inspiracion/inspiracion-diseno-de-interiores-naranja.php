@@ -3,7 +3,7 @@ $title="Inspiración diseño de interiores: naranja";
 $desc = "Inspiración diseño de interiores: naranja";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-naranja";
 include('../../global/header.php');
 ?>	
 

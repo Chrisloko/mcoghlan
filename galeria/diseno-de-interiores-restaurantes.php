@@ -3,7 +3,7 @@ $title="Mariangel Coghlan | Diseño de interiores restaurantes";
 $desc = "Cuando llegamos a un restaurante queremos comer bien en un ambiente diferente al de casa y sentirnos a gusto para poder disfrutar un buen rato con amigos, familia e incluso con nosotros mismos. El diseño del espacio, la selección de materiales así como la elección del mobiliario deberá realizarse con el máximo cuidado y atención.";
 $key = "Diseño de interiores restaurantes";
 $page = 'galeria';
-$canonical = "https://www.mcoghlan.mx/galeria/diseno-de-interiores-salas";
+$canonical = "https://www.mcoghlan.mx/galeria/diseno-de-interiores-restaurantes";
 include('../global/header.php');
 ?>	
 

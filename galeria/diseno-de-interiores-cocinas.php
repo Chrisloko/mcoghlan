@@ -3,7 +3,7 @@ $title="Diseño de interiores cocinas";
 $desc = "La cocina suele ser el corazón de la casa, en donde nos reunimos para cocinar, conversar, convivir y pasar grandes momentos. Un buen diseño de cocina es un verdadero reto creativo entre forma y función, buscando equilibrio entre lo práctico y la estética. la elección de los materiales, los electrodomésticos y la  distribución son esenciales para el diseño.";
 $key = "Diseño de interiores coconas";
 $page = 'galeria';
-$canonical = "https://www.mcoghlan.mx/galeria/diseno-de-interiores-salas";
+$canonical = "https://www.mcoghlan.mx/galeria/diseno-de-interiores-cocinas";
 include('../global/header.php');
 ?>	
 

@@ -111,7 +111,7 @@
 
  
     <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/slick.js"></script>
+    <script src="/js/slick.min.js"></script>
   <!--TODO: Put this code in script file-->
   <script>
       $('div.dropdown').hover(function() {

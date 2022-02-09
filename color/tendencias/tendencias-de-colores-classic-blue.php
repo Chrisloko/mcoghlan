@@ -3,7 +3,7 @@ $title="Tendencias de color: Classic Blue";
 $desc = "Tendencias de color: Classic Blue";
 $key = "Paletas de color";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/tendencias/tendencias-de-colores-classic-blue";
+$canonical = "https://www.mcoghlan.mx/color/tendencias/tendencias-de-colores-classic-blue";
 include('../../global/header.php');
 ?>	
 

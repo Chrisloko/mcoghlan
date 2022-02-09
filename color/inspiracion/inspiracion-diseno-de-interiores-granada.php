@@ -3,7 +3,7 @@ $title="Inspiración diseño de interiores: granada";
 $desc = "Inspiración diseño de interiores: granada";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-granada";
 include('../../global/header.php');
 ?>	
 

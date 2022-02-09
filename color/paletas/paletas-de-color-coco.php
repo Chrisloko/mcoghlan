@@ -3,7 +3,7 @@ $title="Paletas de color: Coco";
 $desc = "Paletas de color: Coco";
 $key = "Paletas de color";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-coco";
+$canonical = "https://www.mcoghlan.mx/color/paletas/paletas-de-color-coco";
 include('../../global/header.php');
 ?>	
 

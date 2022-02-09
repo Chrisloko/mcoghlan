@@ -3,7 +3,7 @@ $title="Paletas de color: Bambú";
 $desc = "Paletas de color: Bambú";
 $key = "Paletas de color";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/paletas/paletas-de-color-bambu";
+$canonical = "https://www.mcoghlan.mx/color/paletas/paletas-de-color-bambu";
 include('../../global/header.php');
 ?>	
 

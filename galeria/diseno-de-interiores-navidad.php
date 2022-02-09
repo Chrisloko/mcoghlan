@@ -3,7 +3,7 @@ $title="Diseño de interiores Navidad";
 $desc = "En este proyecto de interiores se cuidaron todos los detalles que decoran los espacios, logrando armonía en cada rincón. Es un interiorismo fresco y elegante para el que se tomaron en cuenta la hermosa vista del mar y la vegetación teniendo como resultado una integración entre el espacio y el entorno natural.";
 $key = "Diseño de interiores Navidad";
 $page = 'galeria';
-$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-navidad";
+$canonical = "https://www.mcoghlan.mx/galeria/diseno-de-interiores-navidad";
 include('../global/header.php');
 ?>	
 

@@ -3,7 +3,7 @@ $title="Mariangel Coghlan | Diseño de interiores, Estado de México";
 $desc = "Una casa llena de vida, ilusión y sofisticación, esa es Acacias. La gama cromática es parte indispensable de la propuesta de diseño de interiores. Los blancos con los aperlados y cremas acentuados con los cianes, y turquesas hacen de esta residencia un proyecto llevado de manera magistral desde el proyecto arquitectónico hasta el más pequeño detalle del interiorismo.";
 $key = "Diseño de interiores, Estado de México";
 $page = 'proyectos';
-$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-estado-de-mexico";
+$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-estado-de-mexico";
 include('../global/header.php');
 ?>	
 

@@ -3,7 +3,7 @@ $title="Tendencias de color: Vegetal";
 $desc = "Tendencias de color: Vegetal";
 $key = "Paletas de color";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/tendencias/tendencias-de-colores-vegetal";
+$canonical = "https://www.mcoghlan.mx/color/tendencias/tendencias-de-colores-vegetal";
 include('../../global/header.php');
 ?>	
 

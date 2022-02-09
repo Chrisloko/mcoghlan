@@ -3,7 +3,7 @@ $title="Inspiración diseño de interiores: agave";
 $desc = "Inspiración diseño de interiores: agave";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-agave";
 include('../../global/header.php');
 ?>	
 

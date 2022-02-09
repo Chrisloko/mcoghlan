@@ -3,7 +3,7 @@ $title="Inspiración diseño de interiores: lavanda";
 $desc = "Inspiración diseño de interiores: lavanda";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/color/inspiracion/inspiracion-diseno-de-interiores-lavanda";
 include('../../global/header.php');
 ?>	
 

@@ -3,7 +3,7 @@ $title="Paletas de color, diseño de interiores";
 $desc = "Te compartimos algunos proyectos con su paleta de color. Para nosotros, el adecuado uso del color es indispensable para crear espacios equilibrados y armoniosos.";
 $key = "Diseño interior";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/color/diseno-de-interiores-paletas-de-color";
+$canonical = "https://www.mcoghlan.mx/color/diseno-de-interiores-paletas-de-color";
 include('../global/header.php');
 ?>	
 
