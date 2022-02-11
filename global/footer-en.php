@@ -6,7 +6,7 @@
           <div class="col-md-12" style="display: flex; flex-wrap: wrap">
                 <div class="pad-logo-f">
                   <a href="/index">
-                    <img class="foot-logo" src="/img/logomariangelcoghlan-38.png" style="" alt="">
+                    <img class="foot-logo" src="/img/logomariangelcoghlan-38.png" style="" alt="Diseño de Interiores">
                   </a>
                 </div>
             </div>
@@ -563,7 +563,7 @@ $('.single-index').slick({
   s.parentNode.insertBefore(b, s);})();
 </script>
 <noscript>
-  <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3294473&amp;fmt=gif">
+  <img height="1" width="1" style="display:none;" alt="Diseño de Interiores" src="https://px.ads.linkedin.com/collect/?pid=3294473&amp;fmt=gif">
 </noscript>
 
 <div id="simp-whatsapp">

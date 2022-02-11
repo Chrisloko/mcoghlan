@@ -23,7 +23,7 @@ include('../global/header-en.php');
 		<div class="row">
 			<div class="col-md-4 d-flex">
 				<div class="item-sm">
-					<img src="img/location.png" alt="">
+					<img src="img/location.png" alt="Interior Design">
 				</div>
 				<div class="item-lg">
 					<a href="https://g.page/InteriorismoMariangelCoghlan?share">Av. Revolución 1495 San Ángel Ciudad de México, C.P. 01040</a>
@@ -31,7 +31,7 @@ include('../global/header-en.php');
 			</div>
 			<div class="col-md-4 d-flex datos">
 				<div class="item-sm">
-					<img src="img/phone.png" alt="">
+					<img src="img/phone.png" alt="Interior Design">
 				</div>
 				<div class="item-lg">
 					<a href="callto:+525556619385">(55) 5661 9385</a>
@@ -40,7 +40,7 @@ include('../global/header-en.php');
 			</div>
 			<div class="col-md-4 d-flex">
 				<div class="item-sm">
-					<img src="img/email-world.png" alt="">
+					<img src="img/email-world.png" alt="Interior Design">
 				</div>
 				<div class="item-lg">
 					<a href="mailto:info@mcoghlan.mx">info@mcoghlan.mx</a>

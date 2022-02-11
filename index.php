@@ -14,7 +14,7 @@ include('global/header.php');
 
 
 					<div class="service-icon-box">
-						<img data-lazy="img/index/diseno-residencial-600-op.jpg" height="auto" alt="">
+						<img data-lazy="img/index/diseno-residencial-600-op.jpg" height="auto" alt="Diseño de Interiores">
 						<div class="center-box">
 							<h2>DISEÑO<br> RESIDENCIAL</h2>
 							<div>
@@ -24,7 +24,7 @@ include('global/header.php');
 					</div>
 
 					<div class="service-icon-box">
-						<img data-lazy="img/index/diseno-oficinas-600-op.jpg" height="auto" alt="">
+						<img data-lazy="img/index/diseno-oficinas-600-op.jpg" height="auto" alt="Diseño de Interiores">
 						<div class="center-box">
 							<h2>DISEÑO DE<br>OFICINAS</h2>
 							<div>
@@ -34,7 +34,7 @@ include('global/header.php');
 					</div>
 
 					<div class="service-icon-box">
-						<img data-lazy="img/index/diseno-restaurantes-600-op.jpg" height="auto" alt="">
+						<img data-lazy="img/index/diseno-restaurantes-600-op.jpg" height="auto" alt="Diseño de Interiores">
 						<div class="center-box">
 							<h2>DISEÑO DE<br> RESTAURANTES</h2>
 							<div>
@@ -44,7 +44,7 @@ include('global/header.php');
 					</div>
 
 					<div class="service-icon-box">
-						<img data-lazy="img/index/hoteles-600-op.jpg" height="auto" alt="">
+						<img data-lazy="img/index/hoteles-600-op.jpg" height="auto" alt="Diseño de Interiores">
 						<div class="center-box">
 						<h2>DISEÑO DE<br> HOTELES</h2>
 							<div>
@@ -53,7 +53,7 @@ include('global/header.php');
 						</div>
 					</div>
 					<div class="service-icon-box">
-						<img data-lazy="img/index/diseno-amenidades-600-op.jpg" height="auto" alt="">
+						<img data-lazy="img/index/diseno-amenidades-600-op.jpg" height="auto" alt="Diseño de Interiores">
 						<div class="center-box">
 							<h2>DISEÑO DE<br> AMENIDADES</h2>
 							<div>
@@ -62,7 +62,7 @@ include('global/header.php');
 						</div>
 					</div>
 					<div class="service-icon-box">
-						<img data-lazy="img/index/diseno_arquitectonico-600-op.jpg" height="auto" alt="">
+						<img data-lazy="img/index/diseno_arquitectonico-600-op.jpg" height="auto" alt="Diseño de Interiores">
 						<div class="center-box">
 							<h2>DISEÑO<br> ARQUITECTÓNICO</h2>
 							<div>

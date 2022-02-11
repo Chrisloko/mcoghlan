@@ -62,7 +62,7 @@ include('global/header.php');
 				<h3>Reconocimiento</h3>
 				<p>Nos sentimos como equipo muy honrados al haber recibido esta distinción, para nosotros es un honor ser reconocidos por realizar algo que nos apasiona.</p>
 				<p>Nuestra prioridad siempre ha sido dar un servicio excepcional. Estamos muy agradecidos por el reconocimiento que nos otorgó LUXUURY LIFESTYLE AWARDS.</p>
-				<img src="img/conocenos/congratulatory-letter.jpg" alt="">
+				<img src="img/conocenos/congratulatory-letter.jpg" alt="Diseño de Interiores">
 			</div>
 		</div>
 	</div>
@@ -212,27 +212,27 @@ include('global/header.php');
 		<div class="row valores">
 			<div class="col-md-4">
 				<h3>INTEGRIDAD</h3>
-				<img src="img/conocenos/integridad.jpg" alt="">
+				<img src="img/conocenos/integridad.jpg" alt="Diseño de Interiores">
 				<p>La integridad se traduce como honradez, honestidad, respeto por los demás, corrección, responsabilidad, control emocional, respeto por sí mismo, puntualidad, lealtad, pulcritud, disciplina, congruencia y firmeza en las acciones. Integridad es hacer lo correcto por las razones correctas y del modo correcto.</p>
 			</div>		
 			<div class="col-md-4">
 				<h3>EXCELENCIA</h3>
-				<img src="img/conocenos/excelencia.jpg" alt="">
+				<img src="img/conocenos/excelencia.jpg" alt="Diseño de Interiores">
 				<p>Siempre buscamos la excelencia en nuestro quehacer profesional, sabemos que conseguirla implica compromiso, dedicación y un esfuerzo diario. Nos identificamos plenamente con la definición de Aristoteles “Somos lo que hacemos día a día. De modo que la excelencia no es un acto, es un hábito.” Por eso luchamos siempre por alcanzarla.</p>
 			</div>		
 			<div class="col-md-4">
 				<h3>PASIÓN</h3>
-				<img src="img/conocenos/pasion.jpg" alt="">
+				<img src="img/conocenos/pasion.jpg" alt="Diseño de Interiores">
 				<p>La pasión es una realidad que nos autodefine, es decir, que expresa un rasgo significativo de nuestra identidad, de nuestra personalidad. Nos consideramos apasionados y entusiasmados por nuestro que hacer profesional, estamos convencidos de que esta pasión enaltecen la condición humana y constituyen el condimento que nos lleva a materializar los logros más grandes.</p>
 			</div>
 			<div class="col-md-4">
 				<h3>CREATIVIDAD</h3>
-				<img src="img/conocenos/creatividad.jpg" alt="">
+				<img src="img/conocenos/creatividad.jpg" alt="Diseño de Interiores">
 				<p>La creatividad es la capacidad de generar nuevas ideas o conceptos, de nuevas asociaciones entre ideas y conceptos conocidos, que habitualmente producen soluciones originales. La creatividad es sinónimo del pensamiento original, la imaginación constructiva, el pensamiento divergente o el pensamiento creativo, sin lugar a dudas indispensable para diseñar.</p>
 			</div>
 			<div class="col-md-4">
 				<h3>FELICIDAD</h3>
-				<img src="img/conocenos/felicidad-1.jpg" alt="">
+				<img src="img/conocenos/felicidad-1.jpg" alt="Diseño de Interiores">
 				<p id="resp-social">La felicidad es una forma de vivir en el mundo, consiste en aprender a ver la vida con un filtro que nos aporte sentimientos de bienestar y equilibrio. Tener motivos por los que levantarse cada mañana con la idea clara de ayudar a las personas a vivir mejor con la ilusión de contribuir a crear un mundo más bello y más humano es algo que nos llena de felicidad.</p>
 			</div>		
 		</div>
@@ -244,17 +244,17 @@ include('global/header.php');
 		<div class="row valores">
 			<div class="col-md-4">
 				<h3>INTEGRIDAD</h3>
-				<img src="img/conocenos/certificacion.jpg" alt="">
+				<img src="img/conocenos/certificacion.jpg" alt="Diseño de Interiores">
 				<p>Cada pieza diseñada en la firma, MARIANGEL COGHLAN, está fabricada con los más altos estándares de calidad, se realizan siguiendo un protocolo de responsabilidad social y medioambiental, las materias primas que utilizamos se han obtenido de cultivos ecológicos o se han fabricado de forma respetuosa con el medio ambiente.<br>Toda la madera que empleamos para la elaboración de nuestros productos cuenta con la certificación FSC (Forest Stewardship Council), que garantiza una gestión forestal económicamente viable y socialmente beneficiosa y ambientalmente responsable.</p>
 			</div>		
 			<div class="col-md-4">
 				<h3>EXCELENCIA</h3>
-				<img src="img/conocenos/medioaambiente.jpg" alt="">
+				<img src="img/conocenos/medioaambiente.jpg" alt="Diseño de Interiores">
 				<p>En la firma MARIANGEL COGHLAN trabajamos para desarrollar nuestras actividades de forma respetuosa con la conservación del medio ambiente, desde la perspectiva de que el cuidado del entorno natural y el desarrollo sostenible proporcionan un valor añadido a nuestras actividades y servicios, por consiguiente a la calidad de vida de nuestros clientes y de la sociedad en general. Estamos comprometidos con el medio ambiente por lo que modernizamos nuestras instalaciones para reducir el consumo de agua, energía eléctrica y todo tipo de materiales de oficina, haciendo conciencia en nuestro equipo para reducir el impacto ambiental.</p>
 			</div>		
 			<div class="col-md-4">
 				<h3>RESPONSABILIDAD SOCIAL</h3>
-				<img src="img/conocenos/responsabilidadsocial.jpg" alt="">
+				<img src="img/conocenos/responsabilidadsocial.jpg" alt="Diseño de Interiores">
 				<p>En la firma MARIANGEL COGHLAN tenemos una política corporativa en responsabilidad social, por lo que consideramos uno de los activos más valioso de la empresa, nuestra reputación. Ser una compañía líder, conduciéndonos con honor, y tener el más alto nivel de integridad y ética corporativa, son parte importante de los objetivos de nuestra firma. Mantener esta reputación es una de nuestras tareas más significativas, ello nos exige llevar a cabo nuestra labor viviendo con intensidad nuestros valores apegados a principios éticos, así mismo estamos al pendiente de las necesidades de los que nos rodean.</p>
 			</div>		
 		</div>

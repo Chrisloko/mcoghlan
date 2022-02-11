@@ -54,7 +54,7 @@ include('../../global/header-en.php');
 			</div>
 			<div class="col-md-4">			
 				<a href="/en/color/palettes/color-palettes-palm-tree">
-					<img class="lazy" alt=""  data-src="/img/color/paletas-de-color/boton-palmeraUP.jpg" onmouseover="this.src='/img/color/paletas-de-color/boton-palmeraOVER.jpg'" onmouseout="this.src='/img/color/paletas-de-color/boton-palmeraUP.jpg'">
+					<img class="lazy" alt="Interior Design"  data-src="/img/color/paletas-de-color/boton-palmeraUP.jpg" onmouseover="this.src='/img/color/paletas-de-color/boton-palmeraOVER.jpg'" onmouseout="this.src='/img/color/paletas-de-color/boton-palmeraUP.jpg'">
 				</a>				
 			</div>
 			<div class="col-md-4">			

@@ -38,7 +38,7 @@ include('global/header.php');
 				<div id="accordion">
 					<h2>
 						SERVICIO
-						<img src="img/faq/servicios.jpg" alt="">
+						<img src="img/faq/servicios.jpg" alt="Diseño de Interiores">
 					</h2>
 					<div class="card">
 						<div class="card-header" id="headingOne">
@@ -280,7 +280,7 @@ include('global/header.php');
 					</div>
 
 					<h2 class="mar-top">ENTREGA
-						<img src="img/faq/entrega.jpg" alt="">
+						<img src="img/faq/entrega.jpg" alt="Diseño de Interiores">
 					</h2>
 					<div class="card">
 						<div class="card-header" id="headingEighteen">
@@ -339,7 +339,7 @@ include('global/header.php');
 						</div>
 					</div>
 					<h2 class="mar-top">MONTAJE
-						<img src="img/faq/montaje.jpg" alt="">
+						<img src="img/faq/montaje.jpg" alt="Diseño de Interiores">
 					</h2>
 					<div class="card">
 						<div class="card-header" id="headingTwentytwo">

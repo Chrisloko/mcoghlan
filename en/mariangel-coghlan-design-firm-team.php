@@ -62,7 +62,7 @@ include('../global/header-en.php');
 				<h3>Acknowledgement</h3>
 				<p>As a team, we feel very honored to have received this distinction. For us, it is an honor to be recognized for doing something we are passionate about.</p>
 				<p>Our priority has always been to provide exceptional service. We are very grateful for the recognition given to us by LUXURY LIFESTYLE AWARDS.</p>
-				<img src="/img/conocenos/congratulatory-letter.jpg" alt="">
+				<img src="/img/conocenos/congratulatory-letter.jpg" alt="Interior Design">
 			</div>
 		</div>
 	</div>
@@ -212,27 +212,27 @@ include('../global/header-en.php');
 		<div class="row valores">
 			<div class="col-md-4">
 				<h3>INTEGRIDAD</h3>
-				<img src="/img/conocenos/integridad.jpg" alt="">
+				<img src="/img/conocenos/integridad.jpg" alt="Interior Design">
 				<p>Integrity expresses itself as righteousness, honesty, respect for others, correctness, responsibility, emotional control, self-respect, punctuality, loyalty, neatness, discipline, congruence and steadfastness in one's actions. Integrity is doing the right thing for the right reasons and in the right way.</p>
 			</div>		
 			<div class="col-md-4">
 				<h3>EXCELLENCE</h3>
-				<img src="/img/conocenos/excelencia.jpg" alt="">
+				<img src="/img/conocenos/excelencia.jpg" alt="Interior Design">
 				<p>Our team strives for excellence in our professional work, and we know that achieving it implies commitment, dedication and daily effort. We fully identify with Aristotle's definition "We are what we do day by day. So excellence is not an act, it is a habit." That is why we always strive to achieve it.</p>
 			</div>		
 			<div class="col-md-4">
 				<h3>PASIÓN</h3>
-				<img src="/img/conocenos/pasion.jpg" alt="">
+				<img src="/img/conocenos/pasion.jpg" alt="Interior Design">
 				<p>Passion is the reality that defines us, that is, it expresses a significant aspect of our identity as well as our personality. We consider ourselves passionate and enthusiastic about what we do professionally, we are convinced that this passion enhances the human condition and is the seasoning that leads us to materialize the greatest achievements.</p>
 			</div>
 			<div class="col-md-4">
 				<h3>CREATIVIDAD</h3>
-				<img src="/img/conocenos/creatividad.jpg" alt="">
+				<img src="/img/conocenos/creatividad.jpg" alt="Interior Design">
 				<p>Creativity is the ability to generate new ideas or concepts, new associations between known ideas and concepts, which usually produce original solutions. Creativity is synonymous with original thinking, constructive imagination, divergent thinking or creative thinking, undoubtedly indispensable for design.</p>
 			</div>
 			<div class="col-md-4">
 				<h3>FELICIDAD</h3>
-				<img src="/img/conocenos/felicidad-1.jpg" alt="">
+				<img src="/img/conocenos/felicidad-1.jpg" alt="Interior Design">
 				<p id="resp-social">Happiness is a way of life, it consists of learning to see your environment with a filter that brings us feelings of well-being and balance. Having reasons to get up every morning with the clear idea of helping people to live better with the illusion of contributing to create a more beautiful and humane world is something that fills us with happiness.</p>
 			</div>		
 		</div>
@@ -244,17 +244,17 @@ include('../global/header-en.php');
 		<div class="row valores">
 			<div class="col-md-4">
 				<h3>INTEGRITY</h3>
-				<img src="/img/conocenos/certificacion.jpg" alt="">
+				<img src="/img/conocenos/certificacion.jpg" alt="Interior Design">
 				<p>Each piece designed in the firm, MARIANGEL COGHLAN, is manufactured with the highest quality standards, they are made following a protocol of social and environmental responsibility, the raw materials we use have been obtained from organic crops or have been manufactured in an environmentally friendly way.</p>
 			</div>		
 			<div class="col-md-4">
 				<h3>EXCELLENCE</h3>
-				<img src="/img/conocenos/medioaambiente.jpg" alt="">
+				<img src="/img/conocenos/medioaambiente.jpg" alt="Interior Design">
 				<p>In the firm MARIANGEL COGHLAN we work to develop our activities in a respectful way with the conservation of the environment, from the perspective that the care of the natural environment and sustainable development provide added value to our activities and services, consequently to the quality of life of our customers and society in general. We are committed to the environment so we modernize our facilities to reduce the consumption of water, electricity and all kinds of office materials, raising awareness in our team to reduce the environmental impact.</p>
 			</div>		
 			<div class="col-md-4">
 				<h3>SOCIAL RESPONSIBILITY</h3>
-				<img src="/img/conocenos/responsabilidadsocial.jpg" alt="">
+				<img src="/img/conocenos/responsabilidadsocial.jpg" alt="Interior Design">
 				<p>At MARIANGEL COGHLAN we have a corporate policy on social responsibility, for which we consider one of the most valuable assets of the company, our reputation. Being a leading company, conducting ourselves with honor, and having the highest level of integrity and corporate ethics are an important part of our firm's objectives. Maintaining this reputation is one of our most significant tasks, which requires us to carry out our work by living our values with intensity, adhering to ethical principles, as well as being attentive to the needs of those around us.</p>
 			</div>		
 		</div>

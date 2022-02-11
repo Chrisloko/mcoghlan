@@ -29,12 +29,12 @@ include('../global/header.php');
 			</div>
 			<div class="col-md-4">
 				<a href="tendencias/tendencias-de-colores-classic-blue">
-					<img class="lazy" alt="" data-src="/img/color/tendencias/boton-classic-blue-up.jpg" onmouseover="this.src='/img/color/tendencias/boton-classic-blue-over.jpg'" onmouseout="this.src='/img/color/tendencias/boton-classic-blue-up.jpg'">				
+					<img class="lazy" alt="Diseño de Interiores" data-src="/img/color/tendencias/boton-classic-blue-up.jpg" onmouseover="this.src='/img/color/tendencias/boton-classic-blue-over.jpg'" onmouseout="this.src='/img/color/tendencias/boton-classic-blue-up.jpg'">				
 				</a>				
 			</div>
 			<div class="col-md-4">		
 				<a href="tendencias/tendencias-de-colores-vegetal">
-					<img class="lazy" alt="" data-src="/img/color/tendencias/boton-vegetal-up.jpg" onmouseover="this.src='/img/color/tendencias/boton-vegetal-hover.jpg'" onmouseout="this.src='/img/color/tendencias/boton-vegetal-up.jpg'">
+					<img class="lazy" alt="Diseño de Interiores" data-src="/img/color/tendencias/boton-vegetal-up.jpg" onmouseover="this.src='/img/color/tendencias/boton-vegetal-hover.jpg'" onmouseout="this.src='/img/color/tendencias/boton-vegetal-up.jpg'">
 				</a>				
 			</div>
 		</div>

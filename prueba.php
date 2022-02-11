@@ -212,7 +212,7 @@ include('global/footer-prev.php');
 						<div class="col-md-6" style="display: flex; flex-wrap: wrap">
 							<div class="pad-logo-f">
 							  <a href="index">
-											<img class="foot-logo" src="/img/logomariangelcoghlan-38.png" style="" alt="">
+											<img class="foot-logo" src="/img/logomariangelcoghlan-38.png" style="" alt="Diseño de Interiores">
 							  </a>
 							</div>
               		  </div>
@@ -249,21 +249,21 @@ include('global/footer-prev.php');
 							<div class="social-item">
 							  <a href="https://www.houzz.es/pro/mariangelcoghlan/mariangel-coghlan?irs=US" target="_blank">
 								<span class="icon">
-								  <img src="/img/houzz.png" alt="">
+								  <img src="/img/houzz.png" alt="Diseño de Interiores">
 								</span>
 							  </a>
 						  </div>
 						  <div class="social-item">
 							  <a href="https://www.youtube.com/c/MARIANGELCOGHLANmx" target="_blank">
 								<span class="icon">
-								  <img src="/img/youtube.svg" alt="">
+								  <img src="/img/youtube.svg" alt="Diseño de Interiores">
 								</span>
 							  </a>
 							</div>
 						  <div class="social-item">
 							  <a href="https://hub.eonetwork.org/" target="_blank">
 								<span class="icon">
-								<img src="/img/logo-ec.png" alt="">
+								<img src="/img/logo-ec.png" alt="Diseño de Interiores">
 								</span>
 							  </a>
 						  </div>

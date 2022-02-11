@@ -494,7 +494,7 @@ include('global/header.php');
                          
                         </h3> 
                         <div class="item-content">
-                          <img data-src="" class="img-paso lazy" alt="">
+                          <img data-src="" class="img-paso lazy" alt="Diseño de Interiores">
                            <p>
                              
                           </p>
