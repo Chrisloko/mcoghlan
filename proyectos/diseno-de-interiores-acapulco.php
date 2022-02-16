@@ -1,6 +1,6 @@
 <?php 
 $title="Acapulco | Diseño de interiores Acapulco";
-$desc = "Fresno es un proyecto de diseño de interiores que brilla por su clase y sobriedad, por eso lo elegimos para la portada del libro HOGARES, Reinventando Espacios. La realización de la remodelación en un tiempo record fué todo un reto para nuestro equipo, nos sentimos muy orgullosos del resultado. Sus dobles alturas, las lámparas colgantes, la paleta cromática en grises y azules en combinación con la madera crean una atmósfera única en el diseño de sus interiores.";
+$desc = "Para la remodelación de esta villa se tomaron en cuenta los espacios, la hermosa vista a la bahía y se hizo una propuesta integradora en donde la madera juega un papel de vital importancia en la decoración. El resultado son espacios con diseños amplios y frescos que provocan en el usuario una sensación de elegancia natural.";
 $key = "Diseño de interiores Acapulco";
 $page = 'proyectos';
 $canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-acapulco";

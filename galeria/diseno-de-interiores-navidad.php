@@ -1,6 +1,6 @@
 <?php 
 $title="Diseño de interiores Navidad";
-$desc = "En este proyecto de interiores se cuidaron todos los detalles que decoran los espacios, logrando armonía en cada rincón. Es un interiorismo fresco y elegante para el que se tomaron en cuenta la hermosa vista del mar y la vegetación teniendo como resultado una integración entre el espacio y el entorno natural.";
+$desc = "Te mostramos nuestras decoraciones navideñas";
 $key = "Diseño de interiores Navidad";
 $page = 'galeria';
 $canonical = "https://www.mcoghlan.mx/galeria/diseno-de-interiores-navidad";
@@ -17,19 +17,19 @@ include('../global/header.php');
 		</div>
   </div>
  </section>  
-<!-- <section id="proyectos-int-top" style="">
+<section id="proyectos-int-top" style="">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h2>DEPARTAMENTO EN LA PLAYA</h2>
-					<h1>Diseño de interiores Navidad</h1>
-					<p>En este proyecto de interiores se cuidaron todos los detalles que decoran los espacios, logrando armonía en cada rincón. Es un interiorismo fresco y elegante para el que se tomaron en cuenta la hermosa vista del mar y la vegetación teniendo como resultado una integración entre el espacio y el entorno natural.</p>
+					<!-- <h2>DEPARTAMENTO EN LA PLAYA</h2> -->
+					<h1>Diseño de interiores: Navidad</h1>
+					<!-- <p>En este proyecto de interiores se cuidaron todos los detalles que decoran los espacios, logrando armonía en cada rincón. Es un interiorismo fresco y elegante para el que se tomaron en cuenta la hermosa vista del mar y la vegetación teniendo como resultado una integración entre el espacio y el entorno natural.</p> -->
 				</div>
 			</div>
 		</div>
 	</div>
-</section> -->
+</section>
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">

@@ -1,6 +1,6 @@
 <?php 
 $title="Diseño de interiores amenidades";
-$desc = "El diseño de salas juega un papel muy importante en todas las casas, es el lugar de encuentro para la familia y los amigos. Creamos espacios donde se propicien y disfruten las relaciones humanas. Somos muy cuidadosos en la selección del mobiliario, especialmente el estilo de sofás y sillones, el material, la textura, el color así como todos los detalles decorativos del espacio. ";
+$desc = "Las amenidades son espacios recreativos donde se busca pasar buenos momentos.";
 $key = "Diseño de interiores amenidades";
 $page = 'proyectos';
 $canonical = "https://www.mcoghlan.mx/galeria/diseno-de-amenidades";

@@ -1,6 +1,6 @@
 <?php 
 $title="Diseño de interiores bares";
-$desc = "El diseño de salas juega un papel muy importante en todas las casas, es el lugar de encuentro para la familia y los amigos. Creamos espacios donde se propicien y disfruten las relaciones humanas. Somos muy cuidadosos en la selección del mobiliario, especialmente el estilo de sofás y sillones, el material, la textura, el color así como todos los detalles decorativos del espacio. ";
+$desc = "El bar es una oportunidad, para los arquitectos, interioristas y decoradores, de dejar volar la imaginación y sorprender al cliente.";
 $key = "Diseño de interiores bares";
 $page = 'galeria';
 $canonical = "https://www.mcoghlan.mx/galeria/diseno-de-interiores-bares";

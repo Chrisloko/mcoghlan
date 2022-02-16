@@ -3,7 +3,7 @@ $title="LIMONEROS | Diseño de interiores Morelos";
 $desc = "Limoneros es una casa en donde habitan y conviven la frescura y la armonía. La impresión natural que da la decoración es resultado de un minucioso trabajo de los interioristas que, muy profesionalmente, supieron resolver los espacios exteriores e interiores con un diseño vanguardista y muy característico del clima y de la región. ";
 $key = "Diseño de interiores Morelos";
 $page = 'proyectos';
-$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-monterrey";
+$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-morelos";
 include('../global/header.php');
 ?>	
 

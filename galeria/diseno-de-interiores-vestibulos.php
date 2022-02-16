@@ -1,6 +1,6 @@
 <?php 
 $title="Mariangel Coghlan | Diseño de interiores vestíbulos";
-$desc = "El diseño de salas juega un papel muy importante en todas las casas, es el lugar de encuentro para la familia y los amigos. Creamos espacios donde se propicien y disfruten las relaciones humanas. Somos muy cuidadosos en la selección del mobiliario, especialmente el estilo de sofás y sillones, el material, la textura, el color así como todos los detalles decorativos del espacio. ";
+$desc = "Un vestíbulo es lo primero que conocemos de cualquier casa, ahí es donde percibimos la primera sensación de cómo será un hogar.";
 $key = "Diseño de interiores vestíbulos";
 $page = 'galeria';
 $canonical = "https://www.mcoghlan.mx/galeria/diseno-de-interiores-vestibulos";

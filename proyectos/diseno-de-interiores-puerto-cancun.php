@@ -1,6 +1,6 @@
 <?php 
 $title="Coco | Interiorismo en Puerto Cancún";
-$desc = "";
+$desc = "Esta casa, como su nombre lo dice, está basada en la gama cromática del coco. El estilo que la define es sobrio, elegante y muy innovador. ";
 $key = "Interiorismo en Interiorismo en Puerto Cancún";
 $page = 'proyectos';
 $canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-puerto-cancun";

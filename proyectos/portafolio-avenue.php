@@ -1,6 +1,6 @@
 <?php 
 $title="Avenue | Interiorismo en Ciudad de México";
-$desc = "";
+$desc = "Avenue es el departamento ideal para una familia pequeña: El tamaño y la distribución son perfectos para una vida cómoda y práctica. El lujo y la sencillez caracterizan a este lugar ubicado al poniente de la ciudad. El color turquesa, los toques dorados y las luminarias crean un ambiente acogedor y vanguardista. El mobiliario, exclusivamente diseñado para cada uno de los espacios, hacen de este departamento un lugar excepcional.";
 $key = "Interiorismo en Ciudad de México Avenue";
 $page = 'proyectos';
 $canonical = "https://www.mcoghlan.mx/proyectos/portafolio-avenue";

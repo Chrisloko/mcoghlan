@@ -39,7 +39,7 @@
             <div class="social-item-new">
                 <a href="https://www.instagram.com/mcoghlan.mx/" target="_blank">
                   <span class="icon">
-                    <img src="/img/instagram.svg">
+                    <img src="/img/instagram.svg" alt="Instagram">
                     <!-- <i class="fa fa-instagram"></i> -->
                   </span>
                 </a>
@@ -47,7 +47,7 @@
             <div class="social-item-new">
                 <a href="https://www.facebook.com/InteriorismoMariangelCoghlan" target="_blank">
                   <span class="icon">
-                    <img src="/img/facebook.svg">
+                    <img src="/img/facebook.svg" alt="Facebook">
                     <!-- <i class="fa fa-facebook"></i> -->
                   </span>
                 </a>
@@ -55,7 +55,7 @@
               <div class="social-item-new">
                   <a href="https://www.youtube.com/c/MARIANGELCOGHLANmx" target="_blank">
                     <span class="icon">
-                      <img src="/img/youtube-dg.svg">
+                      <img src="/img/youtube-dg.svg" alt="Youtube">
                       <!-- <i class="fa fa-youtube"></i> -->
                     </span>
                   </a>
@@ -64,14 +64,14 @@
                 <a href="https://es.pinterest.com/coghlanm/" target="_blank">
                   <span class="icon">
                     <!-- <i class="fa fa-pinterest"></i> -->
-                    <img src="/img/pinterest.svg">
+                    <img src="/img/pinterest.svg" alt="Pintrest">
                   </span>
                 </a>
             </div>
             <div class="social-item-new">
                 <a href="https://wa.me/5215567833642" target="_blank">
                   <span class="icon">
-                    <img src="/img/whatsapp.svg">
+                    <img src="/img/whatsapp.svg" alt="Whatsapp">
                   </span>
                 </a>
             </div>
@@ -550,8 +550,8 @@ $('.single-index').slick({
     $('.venobox').venobox(); 
 });
 </script>
-<script type="text/javascript" src="/js/app.js"></script>
-<script type="text/javascript" src="/js/events.js"></script>
+<script type="text/javascript" src="/js/app.min.js"></script>
+<script type="text/javascript" src="/js/events.min.js"></script>
 <script type="text/javascript">
   _linkedin_partner_id = "3294473";
   window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];

@@ -1,6 +1,6 @@
 <?php 
-$title="Fresnos | Diseño de interiores";
-$desc = "Fresno es un proyecto de diseño de interiores que brilla por su clase y sobriedad, por eso lo elegimos para la portada del libro HOGARES, Reinventando Espacios. La realización de la remodelación en un tiempo record fué todo un reto para nuestro equipo, nos sentimos muy orgullosos del resultado. Sus dobles alturas, las lámparas colgantes, la paleta cromática en grises y azules en combinación con la madera crean una atmósfera única en el diseño de sus interiores.";
+$title="Valle de Bravo | Diseño de interiores";
+$desc = "El uso de la madera en esta hermosa casa de campo es perfecto: una combinación entre vigas, mobiliario con la herrería y el adobe hacen de este proyecto un óptimo espacio en donde el jardín y los exteriores se combinan de manera excelsa con el interiorismo. Las luminarias y los colores en la tapicería juegan un papel esencial en la decoración de este hermoso hogar.";
 $key = "Diseño de interiores Acapulco";
 $page = 'proyectos';
 $canonical = "https://www.mcoghlan.mx/proyectos/portafolio-diseno-fresnos";

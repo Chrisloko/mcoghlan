@@ -3,7 +3,7 @@ $title="Diseño de interiores en México.";
 $desc = "Encontrarás el mejor diseño de interiores de salas, comedores, estancias, cocinas, salas de tv, habitaciones, recámaras de niños, baños, vestidores y terrazas.";
 $key = "Diseño de interiores en México";
 $page = 'color';
-$canonical = "https://mcoghlan.mx/diseno-interior";
+$canonical = "https://www.mcoghlan.mx/colores-para-interiorismo";
 include('global/header.php');
 ?>	
 

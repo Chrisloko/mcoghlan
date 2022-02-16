@@ -1,6 +1,6 @@
 <?php 
-$title="Influencer del color | Mariangel Coghlan";
-$desc = "Diseñadora optimista e incansable empresaria apasionada del color y la belleza. ";
+$title="Servicios de la Firma Mariangel Coghlan";
+$desc = "Los servicios ofrecidos por nuestra firma de diseno de interiores";
 $key = "diseño de interiores";
 $page = 'servicios';
 $canonical = "https://www.mcoghlan.mx/servicios-de-la-firma-mariangel-coghlan";

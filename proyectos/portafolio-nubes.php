@@ -1,6 +1,6 @@
 <?php 
 $title="Nubes | Diseño de interiores";
-$desc = "Fresno es un proyecto de diseño de interiores que brilla por su clase y sobriedad, por eso lo elegimos para la portada del libro HOGARES, Reinventando Espacios. La realización de la remodelación en un tiempo record fué todo un reto para nuestro equipo, nos sentimos muy orgullosos del resultado. Sus dobles alturas, las lámparas colgantes, la paleta cromática en grises y azules en combinación con la madera crean una atmósfera única en el diseño de sus interiores.";
+$desc = "Esta casa ubicada al sur de la Ciudad de México es un claro ejemplo de la perfecta fusión entre modernidad y elegancia. La chimenea, el candelabro del comedor, la celosía del vestíbulo y los toques de madera en el piso y el mobiliario generan un ambiente ecléctico y confortable. El jardín y el patio son un complemento que ayudan a estar en contacto con la naturaleza y disfrutar aún más los espacios.";
 $key = "Diseño de interiores";
 $page = 'proyectos';
 $canonical = "https://www.mcoghlan.mx/proyectos/portafolio-nubes";

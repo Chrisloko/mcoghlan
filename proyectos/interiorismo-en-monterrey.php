@@ -3,7 +3,7 @@ $title="Pirul | Interiorismo en Monterrey";
 $desc = "Tomando en cuenta el entorno natural en donde se encuentra esta residencia, se diseñaron espacios frescos y casuales. El diseño de mobiliario, la elección de los materiales y texturas y los accesorios decorativos ofrecen una imagen reconfortante. La chimenea es una pieza de decoración clave en el diseño de la sala para generar un ambiente cálido y acogedor.";
 $key = "Interiorismo en Monterrey";
 $page = 'proyectos';
-$canonical = "https://www.mcoghlan.mx/proyectos/diseno-de-interiores-monterrey";
+$canonical = "https://www.mcoghlan.mx/proyectos/interiorismo-en-monterrey";
 include('../global/header.php');
 ?>	
 

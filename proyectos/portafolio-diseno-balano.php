@@ -1,6 +1,6 @@
 <?php 
 $title="Balano | Interiorismo en Tres Vidas, Acapulco, Guerrero";
-$desc = "";
+$desc = "En este proyecto se buscó inspiración en el estilo Wabi Sabi para lograr armonía y aportar calma, confort y bienestar a los usuarios. ";
 $key = "Interiorismo en Tres Vidas, Acapulco, Guerrero Balano";
 $page = 'proyectos';
 $canonical = "https://www.mcoghlan.mx/proyectos/portafolio-diseno-balano";

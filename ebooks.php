@@ -1,9 +1,9 @@
 <?php 
-$title="Proyectos de Interiorismo Residencial, Hoteles y Restaurantes.";
-$desc = "Conoce nuestros proyectos de interiorismo residencial en casas y departamento y diseño de interiores comercial en oficinas, restaurantes y hoteles.";
+$title="Ebooks | Mariangel Coghlan";
+$desc = "Ebooks publicados por la firma MAriangel Coghlan";
 $key = "Diseño interior";
 $page = 'proyectos';
-$canonical = "https://mcoghlan.mx/ebooks";
+$canonical = "https://www.mcoghlan.mx/ebooks";
 include('global/header.php');
 ?>	
 

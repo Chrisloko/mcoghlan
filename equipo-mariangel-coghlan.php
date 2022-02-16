@@ -1,6 +1,6 @@
 <?php 
-$title="Conócenos | Mariangel Coghlan";
-$desc = "Diseñadora optimista e incansable empresaria apasionada del color y la belleza. ";
+$title="El equipo de la firma | Mariangel Coghlan";
+$desc = "Te mostramos a los apasionados integrantes del equipo de la Firma de Diseno Mariangel Coghlan";
 $key = "diseño de interiores";
 $page = 'nosotros';
 $canonical = "https://www.mcoghlan.mx/equipo-mariangel-coghlan";

@@ -1,6 +1,6 @@
 <?php 
-$title="Inspiración diseño de interiores";
-$desc = "Los colores del México mágico que he vivido, de los rincones del mundo que he caminado y de los amores que me han inspirado.";
+$title="Tendencias de diseño de interiores";
+$desc = "Conoce las tendencias para el diseño interior";
 $key = "Diseño interior";
 $page = 'color';
 $canonical = "https://www.mcoghlan.mx/color/tendencias-de-colores-interiorismo";

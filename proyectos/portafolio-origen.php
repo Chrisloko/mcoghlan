@@ -1,6 +1,6 @@
 <?php 
 $title="Origen | Diseño de interiores";
-$desc = "Fresno es un proyecto de diseño de interiores que brilla por su clase y sobriedad, por eso lo elegimos para la portada del libro HOGARES, Reinventando Espacios. La realización de la remodelación en un tiempo record fué todo un reto para nuestro equipo, nos sentimos muy orgullosos del resultado. Sus dobles alturas, las lámparas colgantes, la paleta cromática en grises y azules en combinación con la madera crean una atmósfera única en el diseño de sus interiores.";
+$desc = "Para esta hermosa casa, el diseño de interiores fue integrándose al proceso de construcción, permitiendo la incorporación adecuada de espacios acordes a una línea contemporánea de diseño. Origen es un ejemplo de la combinación perfecta para crear ambientes únicos, elegantes y llenos de carácter donde prevalecen matices sobrios en aplicaciones de granito caledonia para los muros de doble altura.";
 $key = "Diseño de interiores Acapulco";
 $page = 'proyectos';
 $canonical = "https://www.mcoghlan.mx/proyectos/portafolio-origen";

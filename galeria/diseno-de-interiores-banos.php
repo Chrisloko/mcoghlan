@@ -1,6 +1,6 @@
 <?php 
 $title="Diseño de interiores: Baños";
-$desc = "El diseño de salas juega un papel muy importante en todas las casas, es el lugar de encuentro para la familia y los amigos. Creamos espacios donde se propicien y disfruten las relaciones humanas. Somos muy cuidadosos en la selección del mobiliario, especialmente el estilo de sofás y sillones, el material, la textura, el color así como todos los detalles decorativos del espacio. ";
+$desc = "El baño es un lugar en donde la intimidad es un factor muy importante a considerar y aunque el tiempo que estamos en este espacio, generalmente es breve, es un lugar en donde todo debe funcionar a la perfección. Tener en cuenta los materiales, los acabados, el mobiliario, la iluminación y los accesorios es indispensable para el diseño.";
 $key = "Diseño de interiores baños";
 $page = 'galeria';
 $canonical = "https://www.mcoghlan.mx/galeria/diseno-de-interiores-banos";

@@ -1,6 +1,6 @@
 <?php 
-$title="Influencer del color | Mariangel Coghlan";
-$desc = "Diseñadora optimista e incansable empresaria apasionada del color y la belleza. ";
+$title="Preguntas frecuentes | Mariangel Coghlan";
+$desc = "Las preguntas más frecientes acerca de cómo operamos la firma";
 $key = "diseño de interiores";
 $page = 'nosotros';
 $canonical = "https://www.mcoghlan.mx/preguntas-frecuentes";

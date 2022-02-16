@@ -1,5 +1,5 @@
 <?php 
-$title="Diseño de interiores CDMX";
+$title="Diseño de interiores Salas";
 $desc = "El diseño de salas juega un papel muy importante en todas las casas, es el lugar de encuentro para la familia y los amigos. Creamos espacios donde se propicien y disfruten las relaciones humanas. Somos muy cuidadosos en la selección del mobiliario, especialmente el estilo de sofás y sillones, el material, la textura, el color así como todos los detalles decorativos del espacio. ";
 $key = "Diseño de interiores CDMX";
 $page = 'galeria';
@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>La sala juega un papel muy importante en todas las casas, es el lugar de encuentro en donde se reúne la familia y los amigos. Diseñamos espacios donde se propicien y disfruten las relaciones humanas. Somos muy cuidadosos en la selección del mobiliario, especialmente el estilo de sofás y sillones, el material, la textura, el color así como todos los detalles decorativos del espacio.</p>
+					<p>La sala juega un papel muy importante en todas las casas, es el lugar de encuentro en donde se reúne la familia y los amigos. Diseñamos espacios donde se propicien y disfruten las relaciones humanas. Somos muy cuidadosos en la selección del mobiliario, especialmente el estilo de sofás y sillones, el material, la textura, el color así como todos los detalles decorativos del espacio. La decoración de una sala es de vital importancia ya que puede considerarse el punto central de cualquier hogar y puede definir el estilo y ser el punto de partida del interiorismo de todos los demás espacios que lo conforman.</p>
 				</div>
 			</div>
 		</div>
@@ -31,7 +31,43 @@ include('../global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
+		<!-- fortaleza -->
+			<div class="col-md-4">
+				<a href="../img/proyectos/fortaleza/fortaleza-5.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-5-ch.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/fortaleza/fortaleza-4.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-4-ch.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/fortaleza/fortaleza-6.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-6-ch.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
 
+			<!-- end fortaleza -->
+
+			<!-- prive -->
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-1.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-1-ch.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-2.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-2-ch.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-3.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-3-ch.jpg" alt="DISEÑOS DE SALAS">
+				</a>
+			</div>
+
+			<!-- END PRIVE -->
 			<div class="col-md-4">
 				<a href="../img/galeria/salas/guaymas-2.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/salas/guaymas-ch-2.jpg" alt="DISEÑOS DE SALAS">
@@ -416,6 +452,32 @@ include('../global/header.php');
 			</a>
 
 			</div>
+			<!-- elegante -->
+			<div class="col-md-4">
+
+			<a href="../img/proyectos/elegante/elegante-3.JPG" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/elegante/elegante-3-ch.JPG" alt="Elegante">
+			</a>
+
+			</div>
+
+			<div class="col-md-4">
+
+			<a href="../img/proyectos/elegante/elegante-4.JPG" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/elegante/elegante-4-ch.JPG" alt="Elegante">
+			</a>
+
+			</div>
+
+			<div class="col-md-4">
+
+			<a href="../img/proyectos/elegante/elegante-5.JPG" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/elegante/elegante-5-ch.JPG" alt="Elegante">
+			</a>
+
+			</div>
+
+			<!-- end elegante -->
 
 			<div class="col-md-4">
 
@@ -1431,7 +1493,7 @@ include('../global/header.php');
 <?php include('../global/ventajas.php');?>
 <?php include('../global/counter.php');?>	
 <?php include('../global/cta-visita.php');?>
-<?php include('../global/tips-blog.php');?>	
+<?php // include('../global/tips-blog.php');?>	
 <?php 
 include('../global/footer.php');
 ?>	
