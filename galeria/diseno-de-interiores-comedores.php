@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>En los comedores no sólo se come; se conversa, se habla, se juega y se convive a veces por horas. Para realizar un buen diseño de interiores se deben considerar factores como las dimensiones, el espacio, el entorno, la iluminación y el movimiento sin perder de vista el buen gusto. De las elecciones más importante están: la mesa de comedor, el tipo de sillas y las lámparas o candil.</p>
+					<p>En los comedores no sólo se come; se conversa, se habla, se juega y se convive a veces por horas. Para realizar un buen diseño de interiores se deben considerar factores como las dimensiones, el espacio, el entorno, la iluminación y el movimiento sin perder de vista el buen gusto. De las elecciones más importantes están: la mesa de comedor, el tipo de sillas y las lámparas o candil. La decoración de un comedor es muy importante ya que debe ser un lugar en donde nos sintamos totalmente a gusto y que el ambiente fomente la convivencia, la felicidad y la armonía.</p>
 				</div>
 			</div>
 		</div>

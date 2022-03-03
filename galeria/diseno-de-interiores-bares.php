@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>El bar es una oportunidad, para los arquitectos, interioristas y decoradores, de dejar volar la imaginación y sorprender al cliente. Es un espacio donde debemos motivar a que las personas se diviertan y pasen momentos agradables e inolvidables. El diseño de la barra y la contrabarra es básico para generar armonía en el espacio.</p>
+					<p>El bar es una oportunidad, para los arquitectos, interioristas y decoradores, de dejar volar la imaginación y sorprender al cliente. Es un espacio donde debemos motivar a que las personas se diviertan y pasen momentos agradables e inolvidables. El diseño de la barra y la contrabarra es básico para generar armonía en el espacio. En los bares se suscitan conversaciones, risas, convivencia y momentos especiales con familia y amigos. Es por esto que cuando hacemos estos espacios, nos inspiramos en la alegría y en el confort. Otras cosas muy importantes al diseñar un bar, son la iluminación y el sistema de audio.</p>
 				</div>
 			</div>
 		</div>

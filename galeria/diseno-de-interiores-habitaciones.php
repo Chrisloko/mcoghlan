@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>En las recámaras, cuartos o habitaciones se descansa, se conversa, se sueña… Tener un concepto claro es fundamental para obtener un resultado agradable y armonioso. La cama, la forma de vestirla, los buroes o mesas de noche y los accesorios decorativos son fundamentales para contribuir al diseño interior.</p>
+					<p>En las recámaras, cuartos o habitaciones se descansa, se conversa, se sueña… Tener un concepto claro es fundamental para obtener un resultado agradable y armonioso. La cama, la forma de vestirla, los buroes o mesas de noche y los accesorios decorativos son fundamentales para contribuir al diseño interior. Una habitación acogedora y bien diseñada es vital no sólo para hacer agradable un espacio, es fundamental en la vida del ser humano. En las recámaras es en donde pasamos, al menos, una tercera parte de nuestras vidas; soñamos, reflexionamos y tenemos los momentos más íntimos, solos o acompañados. Es un lugar donde compartimos, discutimos, conversamos y expresamos de muy diferentes maneras aspectos que salen desde lo más profundo de nuestro ser.</p>
 				</div>
 			</div>
 		</div>
@@ -31,7 +31,100 @@ include('../global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
-
+		
+		<!-- nuevas fotos -->
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-28.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-28-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-23.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-23-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-22.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-22-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-21.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-21-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-19.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-19-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-20.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-20-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-18.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-18-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-16.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-16-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-17.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-17-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-14.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-14-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/prive/prive-13.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/prive/prive-13-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		
+		<div class="col-md-4">
+			<a href="../img/proyectos/fortaleza/fortaleza-22.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-22-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/fortaleza/fortaleza-21.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-21-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/fortaleza/fortaleza-24.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-24-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/fortaleza/fortaleza-23.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-23-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/san-juan/san-juan-25.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/san-juan/san-juan-ch-25.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/san-juan/san-juan-26.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/san-juan/san-juan-ch-26.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<div class="col-md-4">
+			<a href="../img/proyectos/elegante/elegante-17.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/elegante/elegante-17-ch.jpg" alt="Diseño de interiores: habitaciones">
+			</a>
+		</div>
+		<!-- fin nuevas fotos -->
 		<div class="col-md-4">
   
 			<a href="../img/galeria/habitaciones/guaymas-16.jpg" data-lightbox="acacias">

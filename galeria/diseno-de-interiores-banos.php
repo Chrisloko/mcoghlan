@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>El baño es un lugar en donde la intimidad es un factor muy importante a considerar y aunque el tiempo que estamos en este espacio, generalmente es breve, es un lugar en donde todo debe funcionar a la perfección. Tener en cuenta los materiales, los acabados, el mobiliario, la iluminación y los accesorios es indispensable para el diseño.</p>
+					<p>El baño es un lugar en donde la intimidad es un factor muy importante a considerar y aunque el tiempo que estamos en este espacio, generalmente es breve, es un lugar en donde todo debe funcionar a la perfección. Tener en cuenta los materiales, los acabados, el mobiliario, la iluminación y los accesorios es indispensable para el diseño. La decoración de un baño es importantísima, ya que es un lugar en donde debemos sentirnos totalmente cómodos, relajados y en donde muchas veces se originan diálogos y confrontaciones con nuestro yo más profundo… con nuestra mente, con nuestro corazón, con nuestra alma.</p>
 				</div>
 			</div>
 		</div>
@@ -31,6 +31,52 @@ include('../global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
+			<!-- nuevas fotos -->
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-26.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-26-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-27.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-27-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-9.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-9-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/banos-1.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/banos-1-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/banos-2.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/banos-2-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/banos-3.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/banos-3-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/banos-4.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/banos-4-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/banos-5.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/banos-5-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/banos-6.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/banos-6-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
 			<div class="col-md-4">
 				<a href="../img/galeria/banos/origen-20.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/banos/origen-ch-20.jpg" alt="Diseño de interiores: baños">

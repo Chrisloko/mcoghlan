@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Para estudiar es importante sentirse cómodos y relajados; por eso, cuando se piensa en el diseño de un lugar de estudio y lectura, debemos ser muy exigentes en la distribución, en la iluminación, en la selección del mobiliario así como en los tonos y en las texturas que se usarán.</p>
+					<p>La decoración de un estudio debe estar basada en la calma y la relajación, pero también debemos tener en cuenta las áreas y los objetos que el cliente quiera tener en ese espacio. A veces los estudios funcionan también como oficinas, por lo que también debemos pensar en la estancia y comodidad de algunos invitados.</p>
 				</div>
 			</div>
 		</div>

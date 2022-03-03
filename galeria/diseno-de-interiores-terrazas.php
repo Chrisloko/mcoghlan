@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>¿Hay mejor lugar que una terraza en verano? Indudablemente proyectar al aire libre es un deleite, tanto para nosotros como para nuestros clientes. Al diseñar una terraza siempre consideramos el entorno natural, la orientación, el espacio con el que contamos, la selección de mobiliario y sus materiales.</p>
+					<p>¿Hay mejor lugar que una terraza en verano? Indudablemente proyectar al aire libre es un deleite, tanto para nosotros como para nuestros clientes. Al diseñar una terraza siempre consideramos el entorno natural, la orientación, el espacio con el que contamos, la selección de mobiliario y sus materiales. Pasar un rato o tener una reunión en una terraza con familia, amigos e incluso solos, es un verdadero deleite. En la firma nos preocupamos porque estos espacios sean una extensión del hogar donde podamos proyectar esa relación dentro-fuera que resulten inspiradores y que hagan felices a cada una de las personas que lo habitan.</p>
 				</div>
 			</div>
 		</div>
@@ -31,6 +31,54 @@ include('../global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
+			<!-- img nuevas -->
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-24.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-24-ch.jpg" alt="1-terrazadepartamentovistaalmar-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-6.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-6-ch.jpg" alt="1-terrazadepartamentovistaalmar-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/coco/coco-12.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/coco/coco-ch-12.jpg" alt="1-terrazadepartamentovistaalmar-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/fortaleza/fortaleza-11.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-11-ch.jpg" alt="1-terrazadepartamentovistaalmar-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/fortaleza/fortaleza-12.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-12-ch.jpg" alt="1-terrazadepartamentovistaalmar-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/fortaleza/fortaleza-10.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-10-ch.jpg" alt="1-terrazadepartamentovistaalmar-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/elegante/elegante-25.JPG" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/elegante/elegante-25-ch.JPG" alt="1-terrazadepartamentovistaalmar-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/elegante/elegante-27.JPG" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/elegante/elegante-27-ch.JPG" alt="1-terrazadepartamentovistaalmar-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/elegante/elegante-26.JPG" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/elegante/elegante-26-ch.JPG" alt="1-terrazadepartamentovistaalmar-th">
+				</a>
+			</div>
+			<!-- end img nuevas -->
+
 			<div class="col-md-4">
 				<a href="../img/galeria/terrazas/guaymas-9.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/terrazas/guaymas-ch-9.jpg" alt="1-terrazadepartamentovistaalmar-th">

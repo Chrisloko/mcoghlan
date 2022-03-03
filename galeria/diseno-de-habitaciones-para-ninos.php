@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Nos ilusiona diseñar para los pequeños de la casa, considerar su inocencia, su espontaneidad y si autenticidad es vital para crear espacios lúdicos en donde los niños puedan desarrollar su imaginación y su creatividad. La escala es algo que siempre tomamos en cuenta cuando diseñamos pensando en niños y hemos desarrollado especialmente para ellos, cunas, camas, cajoneras, sillas, mesas, repisas…</p>
+					<p>Nos ilusiona diseñar para los pequeños de la casa, considerar su inocencia, su espontaneidad y su autenticidad es vital para crear espacios lúdicos en donde los niños puedan desarrollar su imaginación y su creatividad. La escala es algo que siempre tomamos en cuenta cuando diseñamos pensando en niños y hemos desarrollado especialmente para ellos: cunas, camas, cajoneras, sillas, mesas, repisas… En la firma los niños son una fuente de inspiración que, desde que comenzamos a hacer interiorismo, ha sido de gran importancia para nosotros. Sabemos que, sin espacios lindos y bien diseñados para ellos, un hogar no es un verdadero hogar.</p>
 				</div>
 			</div>
 		</div>
@@ -31,6 +31,111 @@ include('../global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-18.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-18-ch.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-16.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-16-ch.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-17.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-17-ch.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-21.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-21-ch.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-19.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-19-ch.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-20.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-20-ch.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/avenue/avenue-13.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/avenue/avenue-ch-13.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/avenue/avenue-15.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/avenue/avenue-ch-15.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/avenue/avenue-10.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/avenue/avenue-ch-10.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/san-juan/san-juan-22.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/san-juan/san-juan-ch-22.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/san-juan/san-juan-23.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/san-juan/san-juan-ch-23.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/san-juan/san-juan-24.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/san-juan/san-juan-ch-24.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/balano/balano-2.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/balano/balano-ch-2.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/san-juan/san-juan-19.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/san-juan/san-juan-ch-19.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/san-juan/san-juan-20.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/san-juan/san-juan-ch-20.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/origen/origen-15.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/origen/origen-ch-15.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/origen/origen-16.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/origen/origen-ch-16.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/origen/origen-17.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/origen/origen-ch-17.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/san-juan/san-juan-16.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/san-juan/san-juan-ch-16.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/san-juan/san-juan-17.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/san-juan/san-juan-ch-17.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/nubes/nubes-12.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/nubes/nubes-ch-12.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
 			<div class="col-md-4">
 				<a href="../img/galeria/ninos/origen-12.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/ninos/origen-ch-12.jpg" alt="1-recamaraninoslitera-th">
@@ -42,14 +147,29 @@ include('../global/header.php');
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="../img/proyectos/ceiba/ceiba-350x350-34.jpg" data-lightbox="acacias">
+				<a href="../img/proyectos/ceiba/ceiba-1000x650-35.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-35.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/ceiba/ceiba-1000x650-34.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-34.jpg" alt="1-recamaraninoslitera-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/encinos/encinos%20g%20(13).jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/encinos/encinos%20ch%20(13).jpg" alt="Encinos">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/roble/roble%20(30).jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/roble/roble%20ch%20(30).jpg" alt="Roble">
 				</a>
 			</div>
 			<!-- older projects -->
 			<div class="col-md-4">
   
-			<a href="../img/proyectos/ceiba/ceiba-1000x650-34.jpg" data-lightbox="acacias">
+			<a href="../img/galeria/ninos/1-recamaraninoslitera.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="../img/galeria/ninos/1-recamaraninoslitera-th.jpg" alt="1-recamaraninoslitera-th">
 			</a>
 

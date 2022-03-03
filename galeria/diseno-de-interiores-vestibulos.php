@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Un vestíbulo es lo primero que conocemos de cualquier casa, ahí es donde percibimos la primera sensación de cómo será un hogar. Es por esta razón que debemos hacer que este espacio sea como un abrazo que nos reciba a nosotros y a nuestros invitados el diseño interior de este espacio siempre debe apuntar a lograr estas sensaciones. Cuidando el concepto, el mobiliario y desde luego los artículos decorativos contenidos ahí.</p>
+					<p>Un vestíbulo es lo primero que conocemos de cualquier casa, ahí es donde percibimos la primera sensación de cómo será un hogar. Es por esta razón que debemos hacer que este espacio sea como un abrazo que nos reciba a nosotros y a nuestros invitados. El diseño interior de este espacio siempre debe apuntar a lograr estas sensaciones. Cuidando el concepto, el mobiliario y desde luego los artículos decorativos contenidos ahí.Para diseñar un vestíbulo, nos gusta inspirarnos en la identidad de la casa ya que es como un pequeña muestra de lo que después veremos en cada una de las áreas que la componen.</p>
 				</div>
 			</div>
 		</div>
@@ -31,6 +31,22 @@ include('../global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
+			<div class="col-md-4">
+				<a href="../img/galeria/vestibulos/vestibulos-1.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestibulos/vestibulos-1-ch.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/fortaleza/fortaleza-1.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-1-ch.jpg" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/elegante/elegante-1.JPG" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/elegante/elegante-1-ch.JPG" alt="1-vestibulocasadeplaya-th">
+				</a>
+			</div>
+			<!-- end new pics -->
 			<div class="col-md-4">
 				<a href="../img/galeria/vestibulos/guaymas-1.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/vestibulos/guaymas-ch-1.jpg" alt="1-vestibulocasadeplaya-th">

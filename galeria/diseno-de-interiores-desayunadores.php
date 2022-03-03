@@ -1,6 +1,6 @@
 <?php 
-$title="MDiseño de interiores desayunadores";
-$desc = "Un desayunador bien diseñado, cómodo y acogedor es la mejor manera de empezar el día. Siempre tomando en cuenta el mobiliario y el material del que esté fabricado, la mesa y las sillas serán el centro de este espacio. Considerar la comodidad y el estilo serán parte fundamental del diseño de esta área de la casa.";
+$title="Diseño de interiores desayunadores";
+$desc = "Un desayunador bien diseñado, cómodo y acogedor es la mejor manera de empezar el día. Siempre tomando en cuenta el mobiliario y el material del que esté fabricado.";
 $key = "Diseño de interiores CDMX";
 $page = 'galeria';
 $canonical = "https://www.mcoghlan.mx/galeria/diseno-de-interiores-desayunadores";
@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Un desayunador bien diseñado, cómodo y acogedor es la mejor manera de empezar el día. Siempre tomando en cuenta el mobiliario y el material del que esté fabricado, la mesa y las sillas serán el centro de este espacio. Considerar la comodidad y el estilo serán parte fundamental del diseño de esta área de la casa.</p>
+					<p>Un desayunador bien diseñado, cómodo y acogedor es la mejor manera de empezar el día. Siempre tomando en cuenta el mobiliario y el material del que esté fabricado, la mesa y las sillas serán el centro de este espacio. Considerar la comodidad y el estilo serán parte fundamental del diseño de esta área de la casa. En el desayunador se comparte a veces más que en el mismo comedor. Es un área en donde lo casual y lo espontáneo se deja vivir de manera natural, por esto es importante crear una atmósfera cálida y hospitalaria que motive la unión y la convivencia.</p>
 				</div>
 			</div>
 		</div>
@@ -31,6 +31,23 @@ include('../global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
+			<!-- nuevas fotos -->
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-8.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-8-ch.jpg" alt="1-desyunadorblancoconjardin-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/fortaleza/fortaleza-16.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-16-ch.jpg" alt="1-desyunadorblancoconjardin-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/fortaleza/fortaleza-17.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-17-ch.jpg" alt="1-desyunadorblancoconjardin-th">
+				</a>
+			</div>
+			<!-- end nuevas fotos -->
 			<div class="col-md-4">
 				<a href="../img/galeria/desayunadores/monterrey-2.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/desayunadores/monterrey-ch-2.jpg" alt="1-desyunadorblancoconjardin-th">

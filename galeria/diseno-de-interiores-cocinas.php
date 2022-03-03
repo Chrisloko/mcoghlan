@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>La cocina suele ser el corazón de la casa, en donde nos reunimos para cocinar, conversar, convivir y pasar grandes momentos. Un buen diseño de cocina es un verdadero reto creativo entre forma y función, buscando equilibrio entre lo práctico y la estética. la elección de los materiales, los electrodomésticos y la  distribución son esenciales para el diseño.</p>
+					<p>La cocina suele ser el corazón de la casa. Es en donde nos reunimos para cocinar, conversar, convivir y pasar grandes momentos. Un buen diseño de cocina es un verdadero reto creativo entre forma y función, buscando equilibrio entre la practicidad y la estética. La elección de los materiales, los electrodomésticos y la distribución son esenciales para el diseño. En la firma nos esforzamos para hacer cocinas inteligentes, cómodas, vanguardistas y que además posean una atmósfera cálida y armoniosa porque sabemos que ahí no solamente se preparan platillos y se planean recetas; sabemos que, en los hogares, es el lugar donde se cocina el amor.</p>
 				</div>
 			</div>
 		</div>
@@ -31,6 +31,32 @@ include('../global/header.php');
 <section id="cajas-index">
 	<div class="container">
 		<div class="row">
+		<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-11.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-11-ch.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-10.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-10-ch.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/prive/prive-12.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/prive/prive-12-ch.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/fortaleza/fortaleza-13.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/fortaleza/fortaleza-13-ch.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/proyectos/origen/origen-6.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/proyectos/origen/origen-ch-6.jpg" alt="1-cocinaelegante-th">
+				</a>
+			</div>
+			<!-- nuevas fotos  -->
 			<div class="col-md-4">
 				<a href="../img/galeria/cocinas/guaymas-10.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/cocinas/guaymas-ch-10.jpg" alt="1-cocinaelegante-th">
@@ -84,11 +110,6 @@ include('../global/header.php');
 			<div class="col-md-4">
 				<a href="../img/galeria/cocinas/nubes-9.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/cocinas/nubes-ch-9.jpg" alt="1-cocinaelegante-th">
-				</a>
-			</div>
-			<div class="col-md-4">
-				<a href="../img/galeria/cocinas/origen-9.jpg" data-lightbox="acacias">
-					<img class="lazy" data-src="../img/galeria/cocinas/origen-ch-9.jpg" alt="1-cocinaelegante-th">
 				</a>
 			</div>
 			<!-- older projects -->
