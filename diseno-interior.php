@@ -24,7 +24,7 @@ include('global/header.php');
 			<div id="ciudad"></div>
 			<div class="col-sm-12">
 				<div class="cont-text">
-				<h1>Diseño interior</h1>
+				<h1>Diseño de interiores</h1>
 				<h2>Ciudad</h2>
 				<p>Las casas de ciudad son proyectos muy complejos e interesantes ya que deben resolverse para que los usuarios puedan hacer sus vidas al ritmo acelerado que demanda una urbe pero que al mismo tiempo les ofrezca la paz y la tranquilidad que necesitan cuando vuelvan a sus hogares después de las labores fuera y los fines de semana. Para nosotros en la firma, diseñar, remodelar y decorar una casa de ciudad es una gran oportunidad de contribuir a incrementar el bienestar de nuestros clientes.  </p>
 				</div>
@@ -139,7 +139,7 @@ include('global/header.php');
 			<div class="item-3">
 				<a href="/proyectos/portafolio-diseno-fresnos.php">
 				<div class="img-cont servicios">
-					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/fresnosUP.jpg" onmouseover="this.src='img/proyectos/fresnosOVER.jpg'" onmouseout="this.src='img/proyectos/fresnosUP.jpg'">
+					<img class="lazy" alt="servicio de diseño de interiores en cdmx" data-src="img/proyectos/jardin-pr.jpg" onmouseover="this.src='img/proyectos/jardin-hover-pr.jpg'" onmouseout="this.src='img/proyectos/jardin-pr.jpg'">
 				</div>
 				</a>	
 			</div>
@@ -333,7 +333,13 @@ include('global/header.php');
 					<p>A lo largo de la historia, los libros han pasado de ser pergaminos manuscritos o pintados, a ser volúmenes impresos gracias a la invención de la imprenta por Johannes Gutenberg. Actualmente, además, el libro está experimentando una revolución en el paso al formato digital, lo que hoy se conoce como libro electrónico o “ebook” Aquí te presentamos algunos de los que hemos realizado para mostrarte nuestro trabajo en distintas imágenes y de diferentes ángulos. Esperamos te sirvan de inspiración.</p>
 				</div>
 			</div>
-			
+			<div class="item-3">
+				<a href="https://indd.adobe.com/view/b6a6070f-fddd-419e-9a68-bc5889d0dbb1" target="_blank">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="acapulco" data-src="img/proyectos/jardin.jpg" onmouseover="this.src='img/proyectos/jardin-hover.jpg'" onmouseout="this.src='img/proyectos/jardin.jpg'">
+				</div>
+				</a>	
+			</div>
 			<div class="item-3">
 				<a href="https://indd.adobe.com/view/5b04d398-cc6e-4d57-a828-f1590b5d2942" target="_blank">
 				<div class="img-cont servicios">

@@ -79,11 +79,11 @@ include('../global/header.php');
 			</div>
 			<!-- end img nuevas -->
 
-			<div class="col-md-4">
+			<!-- <div class="col-md-4">
 				<a href="../img/galeria/terrazas/guaymas-9.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/terrazas/guaymas-ch-9.jpg" alt="1-terrazadepartamentovistaalmar-th">
 				</a>
-			</div>
+			</div> -->
 			<div class="col-md-4">
 				<a href="../img/galeria/terrazas/guaymas-21.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/terrazas/guaymas-ch-21.jpg" alt="1-terrazadepartamentovistaalmar-th">
@@ -148,7 +148,14 @@ include('../global/header.php');
 			</a>
 
 			</div>
+			
+			<div class="col-md-4">
 
+			<a href="../img/galeria/terrazas/terrazademadera.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/terrazas/terrazademaderath.jpg" alt="terrazademaderath">
+			</a>
+
+			</div>
 			<div class="col-md-4">
 
 			<a href="../img/galeria/terrazas/2-terrazadecasadeplaya-th.jpg" data-lightbox="acacias">
@@ -165,13 +172,6 @@ include('../global/header.php');
 
 			</div>
 
-			<div class="col-md-4">
-
-			<a href="../img/galeria/terrazas/terrazademadera.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/galeria/terrazas/terrazademaderath.jpg" alt="terrazademaderath">
-			</a>
-
-			</div>
 
 			<div class="col-md-4">
 

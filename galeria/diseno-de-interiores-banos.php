@@ -33,6 +33,23 @@ include('../global/header.php');
 		<div class="row">
 			<!-- nuevas fotos -->
 			<div class="col-md-4">
+				<a href="../img/galeria/banos/banos-7.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/banos-7-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/banos-8.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/banos-8-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/banos/banos-9.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/banos/banos-9-ch.jpg" alt="Diseño de interiores: baños">
+				</a>
+			</div>
+
+
+			<div class="col-md-4">
 				<a href="../img/proyectos/prive/prive-26.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/proyectos/prive/prive-26-ch.jpg" alt="Diseño de interiores: baños">
 				</a>

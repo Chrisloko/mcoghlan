@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>“Siempre imaginé que el Paraíso sería algún tipo de biblioteca”, decía Jorge Luis Borges. Si bien las bibliotecas son templos de conocimiento, espacios de esparcimiento, colaboración y generación de ideas y proyectos, qué mejor que tener una en nuestra propia casa. Para nosotros en la firma este es uno de los lugares en los que nos encanta echar a volar nuestra imaginación para lograr resultados que sorprenderán a los usuarios.</p>
+					<p>“Siempre imaginé que el Paraíso sería algún tipo de biblioteca”, decía Jorge Luis Borges. Si bien las bibliotecas son templos de conocimiento, espacios de esparcimiento, colaboración y generación de ideas y proyectos, qué mejor que tener una en nuestra propia casa. Para nosotros en la firma este es uno de los lugares en los que nos encanta echar a volar nuestra imaginación para lograr resultados que sorprendan a los usuarios. El diseño y la decoración de una biblioteca es muy apasionante porque no sólo los libros la componen; hay que elegir muy bien los objetos decorativos que convivirán con ellos.</p>
 				</div>
 			</div>
 		</div>

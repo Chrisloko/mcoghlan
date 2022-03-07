@@ -12,7 +12,7 @@ include('../global/header.php');
  <div class="container">
 		<div class="row">
 			<div class="text-cont">
-				<h2>FRESNOS</h2>
+				<h2>JARDÍN</h2>
 			</div>
 		</div>
   </div>
