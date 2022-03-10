@@ -24,7 +24,7 @@ include('../global/header.php');
 				<div class="cont-text">
 					<!-- <h2>DEPARTAMENTO EN LA PLAYA</h2> -->
 					<h1>Diseño de interiores: Navidad</h1>
-					<!-- <p>En este proyecto de interiores se cuidaron todos los detalles que decoran los espacios, logrando armonía en cada rincón. Es un interiorismo fresco y elegante para el que se tomaron en cuenta la hermosa vista del mar y la vegetación teniendo como resultado una integración entre el espacio y el entorno natural.</p> -->
+					<p>¿A quién no le entusiasma la llegada de la época navideña? Y qué mejor actividad para recibirla que adornar nuestra casa con este hermoso motivo que tanto esperamos con ilusión y alegría. Realizar la decoración navideña de acuerdo con lo que somos y lo que pensamos y optar decididamente por lo que en verdad nos agrada, tendrá que ser siempre una prioridad. Lo ideal será crear espacios que nos permitan disfrutar momentos memorables con nuestra familia y amigos. Considerar que el estilo de nuestra vivienda responde a una elección personal es indispensable a la hora de elegir la decoración decembrina.</p>
 				</div>
 			</div>
 		</div>

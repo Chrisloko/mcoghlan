@@ -34,69 +34,6 @@ include('../global/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
-				<a href="../img/galeria/vestidores/origen-21.jpg" data-lightbox="acacias">
-					<img class="lazy" data-src="../img/galeria/vestidores/origen-ch-21.jpg" alt="ceiba-350x350-47-1">
-				</a>
-			</div>
-			<div class="col-md-4">
-				<a href="../img/galeria/vestidores/san-juan-21.jpg" data-lightbox="acacias">
-					<img class="lazy" data-src="../img/galeria/vestidores/san-juan-ch-21.jpg" alt="ceiba-350x350-47-1">
-				</a>
-			</div>
-			<div class="col-md-4">
-				<a href="../img/galeria/vestidores/san-juan-27.jpg" data-lightbox="acacias">
-					<img class="lazy" data-src="../img/galeria/vestidores/san-juan-ch-27.jpg" alt="ceiba-350x350-47-1">
-				</a>
-			</div>
-			<!-- older projects -->
-			<div class="col-md-4">
-  
-			<a href="../img/proyectos/ceiba/ceiba-1000x650-47-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-47-1.jpg" alt="ceiba-350x350-47-1">
-			</a>
-
-			</div>
-
-			<div class="col-md-4">
-
-			<a href="../img/proyectos/ceiba/ceiba-1000x650-45-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-45-1.jpg" alt="ceiba-350x350-45-1">
-			</a>
-
-			</div>
-
-			<div class="col-md-4">
-
-			<a href="../img/proyectos/ceiba/ceiba-1000x650-46-1.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-46-1.jpg" alt="ceiba-350x350-46-1">
-			</a>
-
-			</div>
-
-			<div class="col-md-4">
-
-			<a href="../img/galeria/vestidores/vestidores1_large.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/galeria/vestidores/vestidores1.jpg" alt="Vestidores">
-			</a>
-
-			</div>
-
-			<div class="col-md-4">
-
-			<a href="../img/galeria/vestidores/vestidores2_large.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/galeria/vestidores/vestidores2.jpg" alt="Vestidores">
-			</a>
-
-			</div>
-			<div class="col-md-4">
-
-			<a href="../img/galeria/vestidores/vestidores-9.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/galeria/vestidores/vestidores-9-ch.jpg" alt="Vestidores">
-			</a>
-
-			</div>
-
-			<div class="col-md-4">
 
 			<a href="../img/galeria/vestidores/vestidores-10.jpg" data-lightbox="acacias">
 				<img class="lazy" data-src="../img/galeria/vestidores/vestidores-10-ch.jpg" alt="Vestidores">
@@ -181,6 +118,70 @@ include('../global/header.php');
 			</a>
 
 			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestidores/origen-21.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestidores/origen-ch-21.jpg" alt="ceiba-350x350-47-1">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestidores/san-juan-21.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestidores/san-juan-ch-21.jpg" alt="ceiba-350x350-47-1">
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="../img/galeria/vestidores/san-juan-27.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/vestidores/san-juan-ch-27.jpg" alt="ceiba-350x350-47-1">
+				</a>
+			</div>
+			<!-- older projects -->
+			<div class="col-md-4">
+  
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-47-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-47-1.jpg" alt="ceiba-350x350-47-1">
+			</a>
+
+			</div>
+
+			<div class="col-md-4">
+
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-45-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-45-1.jpg" alt="ceiba-350x350-45-1">
+			</a>
+
+			</div>
+
+			<div class="col-md-4">
+
+			<a href="../img/proyectos/ceiba/ceiba-1000x650-46-1.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/proyectos/ceiba/ceiba-350x350-46-1.jpg" alt="ceiba-350x350-46-1">
+			</a>
+
+			</div>
+
+			<div class="col-md-4">
+
+			<a href="../img/galeria/vestidores/vestidores1_large.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestidores/vestidores1.jpg" alt="Vestidores">
+			</a>
+
+			</div>
+
+			<div class="col-md-4">
+
+			<a href="../img/galeria/vestidores/vestidores2_large.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestidores/vestidores2.jpg" alt="Vestidores">
+			</a>
+
+			</div>
+			<div class="col-md-4">
+
+			<a href="../img/galeria/vestidores/vestidores-9.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/vestidores/vestidores-9-ch.jpg" alt="Vestidores">
+			</a>
+
+			</div>
+
+			
 
 			
 

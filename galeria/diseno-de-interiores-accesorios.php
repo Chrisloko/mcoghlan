@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Floreros, jarrones, lámparas, libros y adornos que dan vida y estilo a un espacio nada, son elementos que no pueden faltar en una casa y hacen que cada hogar tenga esos componentes que le dan alma y espíritu. Los accesorios y los complementos son elementos decorativos imprescindibles en cualquier lugar y hay que saberlos elegir, combinar y colocar para que complementen el diseño de un espacio.</p>
+					<p>Floreros, jarrones, lámparas, libros y adornos que dan vida y estilo a un espacio son elementos que no pueden faltar en una casa y hacen que cada hogar tenga esos componentes que le dan alma y espíritu. Los accesorios son elementos decorativos imprescindibles en cualquier lugar y hay que saberlos elegir, combinar y colocar para que complementen el diseño de un espacio. Antes de hacer una entrega, nos aseguramos que cada uno de los accesorios tenga el lugar y la función precisas. Es muy importante en la decoración de un hogar, no saturar de cosas los espacios, ni colocar objetos inservibles.</p>
 				</div>
 			</div>
 		</div>

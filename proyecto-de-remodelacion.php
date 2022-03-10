@@ -24,7 +24,7 @@ include('global/header.php');
 				<div class="cont-text">
 					<h2>Reinventando espacios</h2>
 					<p> La remodelación es el proceso mediante el cual se realizan modificaciones a un espacio, cambiando las dimensiones, distribución, iluminación y acabados para dar nueva vida al mismo, para convertirlo en un lugar ideal con un diseño excepcional.</p>
-					<p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye el diseño arquitectónico, el diseño de interiores y la propuesta decorativa de la transformación de una habitación.</p>
+					<!-- <p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye el diseño arquitectónico, el diseño de interiores y la propuesta decorativa de la transformación de una habitación.</p> -->
 					<h5>El proceso de este servicio consta de los siguientes pasos:</h5>
 				</div>
 				<img src="img/servicios/infograma-proyecto-remodelacion-1.jpg" alt="Infograma proyecto remodelacion">

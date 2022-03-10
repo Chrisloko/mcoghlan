@@ -68,7 +68,7 @@ include('global/header.php');
 							</div>
 						</div>
 					</div>
-					<div class="card">
+					<!-- <div class="card">
 						<div class="card-header" id="headingThree">
 						<h5 class="mb-0">
 							<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -81,7 +81,7 @@ include('global/header.php');
 								La primera visita tiene un costo de $10,000.00 MXN (no reembolsables), incluye el proyecto de un solo espacio; por ejemplo: la sala, el comedor o una recámara. Cada espacio adicional que desees proyectar tendrá un costo adicional de $10,000.00 MXN. Si quieres que Mariangel asista personalmente a la visita, el costo será de $15,000 MXN.
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="card">
 						<div class="card-header" id="headingFour">
 						<h5 class="mb-0">
@@ -138,7 +138,7 @@ include('global/header.php');
 							</div>
 						</div>
 					</div>
-					<div class="card">
+					<!-- <div class="card">
 						<div class="card-header" id="headingEight">
 						<h5 class="mb-0">
 							<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
@@ -151,7 +151,7 @@ include('global/header.php');
 								La visita fuera de la Ciudad de México tiene un costo de $10,000.00 y adicionalmente se cobran los viáticos generados por llegar al lugar solicitado. Esta cantidad no es reembolsada.
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="card">
 						<div class="card-header" id="headingNine">
 						<h5 class="mb-0">
@@ -194,7 +194,7 @@ include('global/header.php');
 							</div>
 						</div>
 					</div>
-					<div class="card">
+					<!-- <div class="card">
 						<div class="card-header" id="headingTwelve">
 						<h5 class="mb-0">
 							<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
@@ -207,8 +207,8 @@ include('global/header.php');
 								El costo del diseño realmente no se cubre con los $10,000.00 pesos por espacio, si solamente te interesa el diseño, este pago no es reembolsable, ya que es el costo de la asesoría de uno de nuestros especialistas. Solamente en caso de que decidas ejecutar el proyecto con nosotros, se aplicaría este importe a cuenta del proyecto.
 							</div>
 						</div>
-					</div>
-					<div class="card">
+					</div> -->
+					<!-- <div class="card">
 						<div class="card-header" id="headingThirteen">
 						<h5 class="mb-0">
 							<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
@@ -221,7 +221,7 @@ include('global/header.php');
 								Para poder darte una asesoría profesional, debemos elaborar un diseño en 3D de tu(s) espacio(s) con la finalidad de que los muebles y accesorios que te sugiramos sean los óptimos. Por lo tanto, sí.
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="card">
 						<div class="card-header" id="headingFourteen">
 						<h5 class="mb-0">
@@ -383,7 +383,7 @@ include('global/header.php');
 							</div>
 						</div>
 					</div>
-					<div class="card">
+					<!-- <div class="card">
 						<div class="card-header" id="headingTwentyFive">
 						<h5 class="mb-0">
 							<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwentyFive" aria-expanded="false" aria-controls="collapseTwentyFive">
@@ -396,7 +396,7 @@ include('global/header.php');
 								Sí. El costo es de $5,000.00MXN por hora. Te asesoramos y recomendamos lo mejor para tu espacio y tú compras directamente a las tiendas o las marcas.
 							</div>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>

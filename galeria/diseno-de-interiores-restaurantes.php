@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p>Cuando llegamos a un restaurante queremos comer bien en un ambiente diferente al de casa y sentirnos a gusto para poder disfrutar un buen rato con amigos, familia e incluso con nosotros mismos. El diseño del espacio, la selección de materiales así como la elección del mobiliario deberá realizarse con el máximo cuidado y atención.</p>
+					<p>Cuando llegamos a un restaurante queremos comer bien en un ambiente diferente al de casa y sentirnos a gusto para poder disfrutar un buen rato con amigos, familia e incluso con nosotros mismos. El diseño del espacio, la selección de materiales así como la elección del mobiliario deberá realizarse con el máximo cuidado y atención.<br> Es muy importante, cuando diseñamos un restaurante, crear una atmósfera que, en combinación con la comida y la bebida, deje a los comensales con un excelente sabor de boca y que siempre se sientan incitados a volver. Los objetos decorativos también son de vital importancia.</p>
 				</div>
 			</div>
 		</div>

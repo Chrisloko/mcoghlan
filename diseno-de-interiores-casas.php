@@ -24,7 +24,7 @@ include('global/header.php');
 				<div class="cont-text">
 					<h1>Diseño de interiores de casas</h1>
 					<p> El interiorismo residencial o el diseño de interiores es la disciplina mediante la cual se transforma el espacio de una casa o departamento en un hogar de ensueño en función de las aspiraciones y necesidades de sus habitantes, cuidando en todo momento los detalles y cada accesorios decorativos.</p>
-					<p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye el diseño y la presentación de una habitación de la propuesta de interiorismo.</p>
+					<!-- <p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye el diseño y la presentación de una habitación de la propuesta de interiorismo.</p> -->
 					<h5>El proceso de este servicio consta de los siguientes pasos:</h5>
 				</div>
 				<img src="img/servicios/infograma_interiorismo_residencial-1.jpg" alt="Infograma interiorismo residencial">

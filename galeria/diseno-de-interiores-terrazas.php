@@ -95,14 +95,22 @@ include('../global/header.php');
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="../img/galeria/terrazas/nubes-15.jpg" data-lightbox="acacias">
-					<img class="lazy" data-src="../img/galeria/terrazas/nubes-ch-15.jpg" alt="1-terrazadepartamentovistaalmar-th">
+				<a href="../img/galeria/terrazas/terrazas-99.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/terrazas/terrazas-99-ch.jpg" alt="1-terrazadepartamentovistaalmar-th">
 				</a>
 			</div>
+			
 			<div class="col-md-4">
 				<a href="../img/galeria/terrazas/origen-7.jpg" data-lightbox="acacias">
 					<img class="lazy" data-src="../img/galeria/terrazas/origen-ch-7.jpg" alt="1-terrazadepartamentovistaalmar-th">
 				</a>
+			</div>
+			<div class="col-md-4">
+
+			<a href="../img/galeria/terrazas/terrazademadera.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/terrazas/terrazademaderath.jpg" alt="terrazademaderath">
+			</a>
+
 			</div>
 			<div class="col-md-4">
 				<a href="../img/galeria/terrazas/origen-8.jpg" data-lightbox="acacias">
@@ -141,21 +149,9 @@ include('../global/header.php');
 			</div>
 
 			<!-- older projects -->
-			<div class="col-md-4">
-  
-			<a href="../img/galeria/terrazas/1-terrazadepartamentovistaalmar.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/galeria/terrazas/1-terrazadepartamentovistaalmar-th.jpg" alt="1-terrazadepartamentovistaalmar-th">
-			</a>
-
-			</div>
 			
-			<div class="col-md-4">
-
-			<a href="../img/galeria/terrazas/terrazademadera.jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/galeria/terrazas/terrazademaderath.jpg" alt="terrazademaderath">
-			</a>
-
-			</div>
+			
+			
 			<div class="col-md-4">
 
 			<a href="../img/galeria/terrazas/2-terrazadecasadeplaya-th.jpg" data-lightbox="acacias">
@@ -171,7 +167,13 @@ include('../global/header.php');
 			</a>
 
 			</div>
+			<div class="col-md-4">
+  
+			<a href="../img/galeria/terrazas/1-terrazadepartamentovistaalmar.jpg" data-lightbox="acacias">
+				<img class="lazy" data-src="../img/galeria/terrazas/1-terrazadepartamentovistaalmar-th.jpg" alt="1-terrazadepartamentovistaalmar-th">
+			</a>
 
+			</div>
 
 			<div class="col-md-4">
 
@@ -308,7 +310,13 @@ include('../global/header.php');
 			</a>
 
 			</div>
-
+			<!-- bugambilia -->
+			<div class="col-md-4">
+				<a href="../img/galeria/terrazas/nubes-15.jpg" data-lightbox="acacias">
+					<img class="lazy" data-src="../img/galeria/terrazas/nubes-ch-15.jpg" alt="1-terrazadepartamentovistaalmar-th">
+				</a>
+			</div>
+			<!-- bugambilia -->
 			<div class="col-md-4">
 
 			<a href="../img/proyectos/pirul/pirul-1000-11-1.jpg" data-lightbox="acacias">
@@ -387,6 +395,13 @@ include('../global/header.php');
 				<img class="lazy" data-src="../img/galeria/terrazas/terraza13.jpg" alt="Terraza">
 			</a>
 
+			</div>
+			<div class="col-md-4">
+			
+				<a href="../img/proyectos/roble/roble%20(18).jpg" data-lightbox="acacias">
+				<img class="" data-src="../img/proyectos/roble/roble%20ch%20(18).jpg" alt="Roble" src="../img/proyectos/roble/roble%20ch%20(18).jpg">
+				</a>
+			
 			</div>
 
 			<div class="col-md-4">
@@ -565,13 +580,7 @@ include('../global/header.php');
 
 			</div>
 
-			<div class="col-md-4">
-
-			<a href="../img/galeria/terrazas/terraza1%20(1).jpg" data-lightbox="acacias">
-				<img class="lazy" data-src="../img/galeria/terrazas/terraza1.jpg" alt="Terraza">
-			</a>
-
-			</div>
+			
 
 		</div>
 	</div>

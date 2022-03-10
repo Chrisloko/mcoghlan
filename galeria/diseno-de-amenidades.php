@@ -22,7 +22,7 @@ include('../global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<p> Las amenidades son espacios recreativos donde se busca pasar buenos momentos; es por esto que la decoración debe ser alegre, fresca y entusiasta. Los colores, la distribución de los espacios y la interacción del usuario con los mismos son de vital importancia al diseñar el proyecto.<br>Para diseñar los espacios de amenidades, nos gusta imaginarnos cómo y quiénes los vivirán: niños, adultos, adultos mayores, adolescentes, deportistas, etc., etc. Nunca hay que olvidar que para cada proyecto debemos ponernos en el lugar del usuario porque finalmente ellos son nuestra fuente de inspiración y para quienes entregamos el corazón durante todo el proceso.</p>
+					<p> Las amenidades son espacios recreativos donde se busca pasar buenos momentos; es por esto que la decoración debe ser alegre, fresca y entusiasta. Los colores, la distribución de los espacios y la interacción del usuario con los mismos son de vital importancia al diseñar el proyecto. Para diseñar los espacios de amenidades, nos gusta imaginarnos cómo y quiénes los vivirán: niños, adultos, adultos mayores, adolescentes, deportistas, etc., etc. Nunca hay que olvidar que para cada proyecto debemos ponernos en el lugar del usuario porque finalmente ellos son nuestra fuente de inspiración y para quienes entregamos el corazón durante todo el proceso.</p>
 				</div>
 			</div>
 		</div>

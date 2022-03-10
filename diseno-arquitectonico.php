@@ -23,7 +23,7 @@ include('global/header.php');
 			<div class="col-sm-12">
 				<div class="cont-text">
 					<p>El diseño arquitectónico es el proceso creativo para generar un concepto y la planeación de un espacio funcional y estético antes de ser construido, convirtiendo tus ideas y sueños en realidad.</p>
-					<p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye la elaboración de un diagrama de funcionamiento, de un presupuesto estimado de todo el proyecto así como de un calendario con las fechas.</p>
+					<!-- <p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye la elaboración de un diagrama de funcionamiento, de un presupuesto estimado de todo el proyecto así como de un calendario con las fechas.</p> -->
 					<h5>El proceso de este servicio consta de los siguientes pasos:</h5>
 				</div>
 				<img src="img/servicios/infograma-diseno-arquitectonico-1.jpg" alt="Infograma diseño arquitectónico">

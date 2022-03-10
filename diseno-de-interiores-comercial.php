@@ -24,7 +24,7 @@ include('global/header.php');
 				<div class="cont-text">
 					<h1>Diseño de interiores comercial</h1>
 					<p>El interiorismo comercial tiene la posibilidad de crear atmósferas y experiencias envolventes, a partir de un diseño de interiores integral, en el cual se define la identidad de una marca para reinventar el espacio en donde se ofrecen sus servicios.</p>
-					<p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye el diseño y la presentación de un espacio de la propuesta de interiorismo.</p>
+					<!-- <p>Para iniciar con el proceso es necesario concretar una visita que tiene un costo a partir de $10,000.00 MXN dependiendo la ubicación y complejidad del proyecto. Esta cantidad incluye el diseño y la presentación de un espacio de la propuesta de interiorismo.</p> -->
 					<h5>El proceso de este servicio consta de los siguientes pasos:</h5>
 				</div>
 				<img src="img/servicios/infograma-interiorismo-comercial-1.jpg" alt="Infograma interiorismo residencial">
