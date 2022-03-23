@@ -235,11 +235,11 @@ include('../global/header.php');
 			</div>
 			
 		</div>
-		<!-- <div class="row">
+		<div class="row">
 			<div class="col-12 ver-proyecto">
-				<a target="_blank" href="https://indd.adobe.com/view/6d9c9dcd-faa1-44d6-bf16-8fe7e342febb">VER EL PROYECTO COMPLETO</a>
+				<a target="_blank" href="https://indd.adobe.com/view/1c2dd74e-4b8f-4bb0-b2a7-9679d8ccb04a">VER EL PROYECTO COMPLETO</a>
 			</div>
-		</div> -->
+		</div>
 	</div>
 </section>
 <?php include('../global/ventajas.php');?>

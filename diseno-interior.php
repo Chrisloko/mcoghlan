@@ -334,6 +334,13 @@ include('global/header.php');
 				</div>
 			</div>
 			<div class="item-3">
+				<a href="https://indd.adobe.com/view/1c2dd74e-4b8f-4bb0-b2a7-9679d8ccb04a" target="_blank">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="acapulco" data-src="img/proyectos/prive-ebook.jpg" onmouseover="this.src='img/proyectos/prive-ebook-hover.jpg'" onmouseout="this.src='img/proyectos/prive-ebook.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="https://indd.adobe.com/view/b6a6070f-fddd-419e-9a68-bc5889d0dbb1" target="_blank">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="acapulco" data-src="img/proyectos/jardin.jpg" onmouseover="this.src='img/proyectos/jardin-hover.jpg'" onmouseout="this.src='img/proyectos/jardin.jpg'">
