@@ -237,7 +237,7 @@ include('../global/header.php');
 		</div>
 		<div class="row">
 			<div class="col-12 ver-proyecto">
-				<a target="_blank" href="https://indd.adobe.com/view/1c2dd74e-4b8f-4bb0-b2a7-9679d8ccb04a">VER EL PROYECTO COMPLETO</a>
+				<a target="_blank" href="https://indd.adobe.com/view/7cf0cd78-9687-48ea-815b-01db2ddda679">VER EL PROYECTO COMPLETO</a>
 			</div>
 		</div>
 	</div>
