@@ -56,7 +56,7 @@ include('global/header.php');
 				<a href="https://www.mcoghlan.mx/blog" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/blogUP.jpg"></a>
 			</div>
 			<div class="col-md-4">
-				<a href="https://www.mcoghlan.mx/libros" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/hogaresUP.jpg"></a>
+				<a href="https://www.amazon.com.mx/Hogares-Luminosos-Alegres-Mariangel-Coghlan/dp/6075328025/ref=asc_df_6075328025/?tag=gledskshopmx-20&linkCode=df0&hvadid=547173710328&hvpos=&hvnetw=g&hvrand=10357536117664811720&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010043&hvtargid=pla-1675294278157&psc=1" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/hogares-nuevo.jpg"></a>
 			</div>
 			<div class="col-md-4">
 				<a href="https://www.mcoghlan.mx/conversaciones" target="_blank"><img class="lazy" alt="mandanos un whatsapp" data-src="/img/conocenos-lp/conversacionesUP-conocenos.jpg"></a>

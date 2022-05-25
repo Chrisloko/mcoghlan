@@ -143,10 +143,17 @@ include('global/header.php');
 				
 			</div>
 
-			<div class="col-md-4">
+			<!-- <div class="col-md-4">
 			
 				<a href="/galeria/diseno-de-interiores-oficinas">
 					<img class="lazy" alt="oficinas" data-src="/img/galeria/oficinas-up.jpg" onmouseover="this.src='/img/galeria/oficinas-over.jpg'" onmouseout="this.src='/img/galeria/oficinas-up.jpg'">
+				</a>
+				
+			</div> -->
+			<div class="col-md-4">
+			
+				<a href="/galeria/diseno-de-interiores-family-room">
+					<img class="lazy" alt="oficinas" data-src="/img/galeria/families.jpg" onmouseover="this.src='/img/galeria/families-hover.jpg'" onmouseout="this.src='/img/galeria/families.jpg'">
 				</a>
 				
 			</div>

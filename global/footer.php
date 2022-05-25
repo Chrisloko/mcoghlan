@@ -572,5 +572,7 @@ $('.single-index').slick({
   	<img src="/img/transparent-social-media-icon-whatsapp-icon.png" alt="ícono whatsapp" style="">
   </a>
 </div>
+<!-- <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/af8a8a4b-2a88-4376-b494-3e52aa2ced56-loader.js" ></script> -->
+
   </body>
 </html>

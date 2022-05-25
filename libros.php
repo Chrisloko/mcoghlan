@@ -50,8 +50,10 @@ include('global/header.php');
 			<div class="col-md-4 pad-cajas">
 				<div class="img-cont servicios">
 					<h4>HOGARES LUMINOSOS Y ALEGRES</h4>
-					<img class="" alt="Servicios Mariangel Coghlan" src="img/libros/portada-HOGARES2.jpg">
-					<p>Después del gran éxito de HOGARES hemos iniciado a trabajar en la segunda edición de esta serie, en esta ocasión contará con nueve capítulos en los que profundizaremos acerca de nueve conceptos que nos ayudan a disfrutar más de nuestro hogar. Mostraremos un recorrido visual por nueve hogares diseñados por nuestra firma.</p>
+					<a href="https://www.amazon.com.mx/Hogares-Luminosos-Alegres-Mariangel-Coghlan/dp/6075328025/ref=asc_df_6075328025/?tag=gledskshopmx-20&linkCode=df0&hvadid=547173710328&hvpos=&hvnetw=g&hvrand=10357536117664811720&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010043&hvtargid=pla-1675294278157&psc=1">
+						<img class="" alt="Servicios Mariangel Coghlan" src="img/libros/portada-HOGARES2.jpg">
+					</a>
+					<p>Después del gran éxito de HOGARES, hemos lanzado la segunda edición de esta serie. En esta ocasión cuenta con siete capítulos en los que profundizamos acerca de siete conceptos que nos ayudan a disfrutar más de nuestro hogar. Mostramos un recorrido visual por siete hogares diseñados por nuestra firma.</p>
 				</div>
 			</div>
 		</div>

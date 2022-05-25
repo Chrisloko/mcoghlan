@@ -29,6 +29,20 @@ include('global/header.php');
 				</div>
 			</div>
 			<div class="item-3">
+				<a href="https://indd.adobe.com/view/58cb3b01-03e4-499f-9899-2220c80f1be2" target="_blank">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="acapulco" data-src="img/proyectos/fortaleza-ebook.jpg" onmouseover="this.src='img/proyectos/fortaleza-ebook-hover.jpg'" onmouseout="this.src='img/proyectos/fortaleza-ebook.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="https://indd.adobe.com/view/7cf0cd78-9687-48ea-815b-01db2ddda679" target="_blank">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="acapulco" data-src="img/proyectos/prive-ebook.jpg" onmouseover="this.src='img/proyectos/prive-ebook-hover.jpg'" onmouseout="this.src='img/proyectos/prive-ebook.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="https://indd.adobe.com/view/5b04d398-cc6e-4d57-a828-f1590b5d2942" target="_blank">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="acapulco" data-src="img/proyectos/olivo_result.jpg" onmouseover="this.src='img/proyectos/olivo-hover_result.jpg'" onmouseout="this.src='img/proyectos/olivo_result.jpg'">
@@ -127,10 +141,11 @@ include('global/header.php');
 				</a>	
 			</div>	
 			<div class="item-3">
-				<a href="https://indd.adobe.com/view/0773ca1d-f272-4376-b1d8-d6c453e6dd16" target="_blank">
-				<div class="img-cont servicios">
-					<img class="lazy" alt="Casa en la playa Guaymas" data-src="img/proyectos/UP-PORTADA-EBOOK-casa-en-la-playa-GUAYMAS-2.jpg" onmouseover="this.src='img/proyectos/OVER-PORTADA-EBOOK-casa-en-la-playa-GUAYMAS-2.jpg'" onmouseout="this.src='img/proyectos/UP-PORTADA-EBOOK-casa-en-la-playa-GUAYMAS-2.jpg'">
-				</div>
+				<a href="https://www.mcoghlan.mx/pdf/casa-en-la-playa-GUAYMAS.pdf" download="PDF" target="_blank">
+					<!-- <a href="https://indd.adobe.com/view/0773ca1d-f272-4376-b1d8-d6c453e6dd16" target="_blank"> -->
+					<div class="img-cont servicios">
+						<img class="lazy" alt="Casa en la playa Guaymas" data-src="img/proyectos/UP-PORTADA-EBOOK-casa-en-la-playa-GUAYMAS-2.jpg" onmouseover="this.src='img/proyectos/OVER-PORTADA-EBOOK-casa-en-la-playa-GUAYMAS-2.jpg'" onmouseout="this.src='img/proyectos/UP-PORTADA-EBOOK-casa-en-la-playa-GUAYMAS-2.jpg'">
+					</div>
 				</a>	
 			</div>	
 			<div class="item-3">

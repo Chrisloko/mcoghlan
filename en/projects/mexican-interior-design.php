@@ -24,7 +24,7 @@ include('../../global/header.php');
 				<div class="cont-text">
 					<h2>CITY APARTMENT</h2>
 					<h1>Mexican Interior Design</h1>
-					<p>A Manhattan and Brooklyn style apartment with a Mexican touch in the interior design, that is how this project is described. The development of the project's design was thoroughly thought for its inhabitants to enjoy each environment to the fullest, therefore the original distribution was modified and the ceiling was removed in order to optimize the space to the fullest.</p>
+					<p>A Manhattan and Brooklyn-style apartment with a Mexican touch in the interior design, this is how this project is described. The development of the project's design was thoroughly thought out for its inhabitants to enjoy each environment to the fullest, therefore the original distribution was modified and the ceiling was removed in order to optimize the space to the fullest.</p>
 				</div>
 			</div>
 		</div>

@@ -308,6 +308,13 @@ include('global/header.php');
 				</div>
 			</div>			
 			<div class="item-3">
+				<a href="/proyectos/diseno-y-arquitectura-de-hoteles">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="tik" data-src="img/proyectos/puerto.jpg" onmouseover="this.src='img/proyectos/puerto-hover.jpg'" onmouseout="this.src='img/proyectos/puerto.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
 				<a href="/proyectos/diseno-de-hoteles">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="tik" data-src="img/proyectos/tik.jpg" onmouseover="this.src='img/proyectos/tik-hover.jpg'" onmouseout="this.src='img/proyectos/tik.jpg'">
@@ -334,7 +341,14 @@ include('global/header.php');
 				</div>
 			</div>
 			<div class="item-3">
-				<a href="https://indd.adobe.com/view/1c2dd74e-4b8f-4bb0-b2a7-9679d8ccb04a" target="_blank">
+				<a href="https://indd.adobe.com/view/58cb3b01-03e4-499f-9899-2220c80f1be2" target="_blank">
+				<div class="img-cont servicios">
+					<img class="lazy" alt="acapulco" data-src="img/proyectos/fortaleza-ebook.jpg" onmouseover="this.src='img/proyectos/fortaleza-ebook-hover.jpg'" onmouseout="this.src='img/proyectos/fortaleza-ebook.jpg'">
+				</div>
+				</a>	
+			</div>
+			<div class="item-3">
+				<a href="https://indd.adobe.com/view/7cf0cd78-9687-48ea-815b-01db2ddda679" target="_blank">
 				<div class="img-cont servicios">
 					<img class="lazy" alt="acapulco" data-src="img/proyectos/prive-ebook.jpg" onmouseover="this.src='img/proyectos/prive-ebook-hover.jpg'" onmouseout="this.src='img/proyectos/prive-ebook.jpg'">
 				</div>
