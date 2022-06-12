@@ -84,15 +84,8 @@
         </div>	
         <div class="col-md-4 mt-15-mov">	
           <h4>SUSCRÍBETE AL BLOG</h4>
-          <script type="text/javascript" src="https://form.jotform.com/jsform/211797230346052"></script>
-          <!-- <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-          <script>
-            hbspt.forms.create({
-            region: "na1",
-            portalId: "2379052",
-            formId: "9704088a-53e3-4087-bdbf-c12d44c76b83"
-          });
-          </script>		 -->
+          <!-- <script type="text/javascript" src="https://form.jotform.com/jsform/211797230346052"></script> -->
+          <div role="main" id="suscribete-al-blog-2a58de2e14d111783a6e"></div><script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script><script type="text/javascript"> new RDStationForms('suscribete-al-blog-2a58de2e14d111783a6e', 'UA-38568777-1').createForm();</script>
         </div>
 
        </div>
@@ -567,12 +560,12 @@ $('.single-index').slick({
   <img height="1" width="1" style="display:none;" alt="Diseño de Interiores" src="https://px.ads.linkedin.com/collect/?pid=3294473&amp;fmt=gif">
 </noscript>
 
-<div id="simp-whatsapp">
+<!-- <div id="simp-whatsapp">
   <a rel="noopener" onclick="sendEvent('whatsapp')" id="whats-btn" href="https://wa.me/5215567833642" target="_blank">
   	<img src="/img/transparent-social-media-icon-whatsapp-icon.png" alt="ícono whatsapp" style="">
   </a>
-</div>
-<!-- <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/af8a8a4b-2a88-4376-b494-3e52aa2ced56-loader.js" ></script> -->
+</div> -->
+<script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/af8a8a4b-2a88-4376-b494-3e52aa2ced56-loader.js" ></script>
 
   </body>
 </html>
