@@ -1,2 +1,6 @@
 /blog
 /blog-old
+/package.json
+/node_modules
+/package-lock.json
+/postcss.config.js

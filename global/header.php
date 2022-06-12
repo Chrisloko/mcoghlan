@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
     <script src="/js/jquery3.5.1.min.js" ></script>
     <link rel="stylesheet" href="/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/style.min.css">
 	<!-- <link rel="preload" href="https://mcoghlan.mx/fonts/Catamaran-VariableFont_wght.ttf" as="font" crossorigin=""> -->
 	<!-- <link rel="preconnect" href="https://www.google-analytics.com">
 	<link rel="preconnect" href="https://www.googletagmanager.com">	 -->
