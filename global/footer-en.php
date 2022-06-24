@@ -85,7 +85,7 @@
         </div>	
         <div class="col-md-4 mt-15-mov">	
           <h4>SUBSCRIBE TO OUR BLOG</h4>
-          <!-- <script type="text/javascript" src="https://form.jotform.com/jsform/211797230346052"></script> -->
+          <script type="text/javascript" src="https://form.jotform.com/jsform/211797230346052"></script>
           <!-- <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
           <script>
             hbspt.forms.create({

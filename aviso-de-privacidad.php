@@ -81,14 +81,14 @@ include('global/header.php');
 </p>
 <p>
     M COGHLAN DISEÑO SA DE CV es responsable del tratamiento de sus datos personales, con domicilio en AV. REVOLUCIÓN 1495. SAN ÁNGEL, MÉXICO, D.F. 01040 T. 5661.9385, 5662.9789,<span>&nbsp;</span>
-    <a href="../../../mx/mcoghlan/www/index.html">info@mcoghlan.mx</a><br />
-    Usted puede dejar de recibir mensajes promocionales por teléfono fijo o celular siguiendo los siguientes pasos: enviando un mail a<span>&nbsp;</span><a href="../../../mx/mcoghlan/www/index.html">info@mcoghlan.mx</a>.
+    <a href="mailto:info@mcoghlan.mx">info@mcoghlan.mx</a><br />
+    Usted puede dejar de recibir mensajes promocionales por teléfono fijo o celular siguiendo los siguientes pasos: enviando un mail a<span>&nbsp;</span><a href="mailto:info@mcoghlan.mx">info@mcoghlan.mx</a>.
 </p>
 <p>
     Asimismo, puede dejar de recibir correo postal publicitario. El correo postal publicitario puede contener instrucciones para optar por no participar o puede dejar de recibir correo postal siguiendo las siguientes instrucciones enviando
-    un mail a<span>&nbsp;</span><a href="../../../mx/mcoghlan/www/index.html">info@mcoghlan.mx</a>.
+    un mail a<span>&nbsp;</span><a href="mailto:info@mcoghlan.mx">info@mcoghlan.mx</a>.
 </p>
-<p>También puede dejar de recibir correos electrónicos con promocionales a través de la siguiente solicitud: enviando un mail a<span>&nbsp;</span><a href="../../../mx/mcoghlan/www/index.html">info@mcoghlan.mx</a>.</p>
+<p>También puede dejar de recibir correos electrónicos con promocionales a través de la siguiente solicitud: enviando un mail a<span>&nbsp;</span><a href="mailto:info@mcoghlan.mx">info@mcoghlan.mx</a>.</p>
 <p>Las cookies que utilizamos para obtener su información personal se pueden deshabilitar buscando en la ayuda de cada navegador.</p>
 <p>
     Usted tiene el derecho de acceder a sus datos personales que poseemos y a los detalles del tratamiento de los mismos, así como a rectificarlos en caso de ser inexactos o instruirnos cancelarlos cuando considere que resulten ser

@@ -158,7 +158,7 @@ include('global/header.php');
 					</div>
 				</div>
 			</div>
-			<div class="pad-slides">
+			<!-- <div class="pad-slides">
 			<div class="cont-img">
 					<img class="img-eq hover" alt="Mariangel Coghlan" src="img/conocenos/enrique2.jpg" >
 					<img class="img-mc" alt="Mariangel Coghlan" src="img/conocenos/enrique1.jpg" >
@@ -170,8 +170,8 @@ include('global/header.php');
 						<a href="mailto:enrique@mcoghlan.mx"><i class="fa fa-envelope"></i></a>
 					</div>
 				</div>
-			</div>
-			<div class="pad-slides">
+			</div> -->
+			<!-- <div class="pad-slides">
 			<div class="cont-img">
 					<img class="img-eq hover" alt="Mariangel Coghlan" src="img/conocenos/natalia2.jpg" >
 					<img class="img-mc" alt="Mariangel Coghlan" src="img/conocenos/natalia1.jpg" >
@@ -183,7 +183,7 @@ include('global/header.php');
 						<a href="mailto:natalia@mcoghlan.mx"><i class="fa fa-envelope"></i></a>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="pad-slides">
 			<div class="cont-img">
 					<img class="img-eq hover" alt="Mariangel Coghlan" src="img/conocenos/edwin2.jpg" >

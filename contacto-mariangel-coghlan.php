@@ -81,7 +81,7 @@ include('global/header.php');
 		transition: border 0.2s linear,box-shadow 0.2s linear;
 		box-shadow: inset 0 1px 3px rgb(0 0 0 / 10%);
 }
-	}
+	
 </style>
       <!-- #header-wrap -->
  <section id="hero-interior" class="hero-contacto">

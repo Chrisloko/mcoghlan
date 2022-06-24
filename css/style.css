@@ -5028,3 +5028,18 @@ input[type=submit]:hover {
 #label-email-9704088a-53e3-4087-bdbf-c12d44c76b83 {
     display: none;
 }
+
+
+/* formulario blog */
+#rd-section-l3udcvcq {
+    background-color: transparent!important;
+  }
+    #rd-form-l3udcvcx{
+      margin-top:0!important;
+    }
+  #rd-column-l3udcvcw > div {
+      
+  }
+  #rd-form-l3udcvcx .bricks-form__label{
+    color:#6db0ab;
+  }

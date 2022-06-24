@@ -22,7 +22,7 @@ include('global/header.php');
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="cont-text">
-					<h1>Servicios de diseño de interiores</h1>
+					<h1>Servicios de arquitectura y diseño de interiores</h1>
 				</div>
 			</div>
 		</div>
