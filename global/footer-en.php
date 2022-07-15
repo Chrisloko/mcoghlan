@@ -85,15 +85,8 @@
         </div>	
         <div class="col-md-4 mt-15-mov">	
           <h4>SUBSCRIBE TO OUR BLOG</h4>
-          <script type="text/javascript" src="https://form.jotform.com/jsform/211797230346052"></script>
-          <!-- <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-          <script>
-            hbspt.forms.create({
-            region: "na1",
-            portalId: "2379052",
-            formId: "9704088a-53e3-4087-bdbf-c12d44c76b83"
-          });
-          </script>		 -->
+          <div role="main" id="suscribete-al-blog-2a58de2e14d111783a6e"></div><script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script><script type="text/javascript"> new RDStationForms('suscribete-al-blog-2a58de2e14d111783a6e', 'UA-38568777-1').createForm();</script>
+         
         </div>
 
        </div>

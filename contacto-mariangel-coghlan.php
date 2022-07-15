@@ -20,27 +20,31 @@ include('global/header.php');
 		padding-right: 0!important;
 	}
 	#rd-column-l400xhg2 input[type=text]{
-		border: 1px solid #e3e3e3;
+		
 		font-size: 1em;
 		border-radius: 4px;
 		border-width: 1px;
 		border-style: solid;
 		display: block;
+		border: 1px solid #e3e3e3!important;
+    	border-radius: 20px!important
 	}
 	#rd-column-l400xhg2 input[type=email] {
 		width: 100%;
-		padding: 12px 20px;
+		padding: 12px 10px;
 		margin: 4px 0;
 		color: #000;
 		display: inline-block;
-		border: 1px solid #e3e3e3;
+		
 		
 		background-color: #fff;
 		box-sizing: border-box;
 		max-width: 100%;
 		border: 1px solid #ccc;
-		
+		border: 1px solid #e3e3e3!important;
+    	border-radius: 20px!important
 	}
+	
 	#rd-column-l400xhg2 select {
 		width: 100%!important;
 		padding: 7px 20px!important;

@@ -27,10 +27,10 @@ include('global/header.php');
 				<h4>Nuestra Firma trabaja diariamente para ser la mejor, por lo mismo solamente contratamos a los mejores. Tú puedes formar parte de este increíble equipo.</h4>
 				<p>Vacantes</p>
 				<ul>
-					<li><a href="https://www.mcoghlan.mx/hubfs/lider-de-proyecto-vacante-mariangelcoghlan.pdf" target="_blank">Líder de Proyecto</a></li>
-					<li><a href="https://www.mcoghlan.mx/hubfs/disenador-jr.pdf" target="_blank">Diseñador Jr.</a></li>
-					<li><a href="https://www.mcoghlan.mx/hubfs/practicas-vacante-mariangelcoghlan.pdf" target="_blank">Prácticas profesionales</a></li>
-					<li><a href="https://www.mcoghlan.mx/hubfs/AUXILIAR%20ADMINISTRATIVO.pdf" target="_blank">Auxiliar Administrativo</a></li>
+					<li><a href="/pdf/lider-de-proyecto-vacante-mariangelcoghlan.pdf" target="_blank">Líder de Proyecto</a></li>
+					<li><a href="/pdf/disenador-jr.pdf" target="_blank">Diseñador Jr.</a></li>
+					<li><a href="/pdf/practicas-vacante-mariangelcoghlan.pdf" target="_blank">Prácticas profesionales</a></li>
+					<li><a href="/pdf/AUXILIAR ADMINISTRATIVO.pdf" target="_blank">Auxiliar Administrativo</a></li>
 				</ul>
 			</div>
 			<div class="col-md-6">
